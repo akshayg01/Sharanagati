@@ -52,8 +52,8 @@ export const sections = [
   },
   {
     slug: 'svikara',
-    name: 'Svīkara',
-    sanskrit: 'स्वीकार',
+    name: 'Bhakti-Anukūla Svīkara',
+    sanskrit: 'भक्ति-अनुकूल स्वीकार',
     meaning: 'Accepting the Favorable',
     blurb:
       'Embracing everything favorable to bhakti — the association of devotees and service in the holy dhāma.',
