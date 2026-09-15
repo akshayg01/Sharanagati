@@ -31,27 +31,23 @@ export const FEATURED = {
   note: '8 Śaraṇāgati Vaiṣṇava songs sung by Maharaja.',
 }
 
-// Direct streaming base — the ISKCON Desire Tree devotional audio archive
-// (a free, public archive of Maharaja's bhajans). Files stream directly
-// (HTTP range requests supported), so nothing needs to be re-hosted.
-const IDT =
-  'https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_A_to_C/His_Holiness_Bhakti_Charu_Swami/Bhajans/Vaishnava_Bhajans/'
+// Local MP3s live in public/audio/<slug>.mp3 and are served from the site itself.
+const local = (slug) => ({ type: 'audio', src: `./audio/${slug}.mp3` })
 
-const idt = (file) => ({ type: 'audio', src: IDT + encodeURIComponent(file) })
-
-// Per-song recordings sung by HH Bhakti Charu Swami Maharaja.
-// Maharaja recorded a portion of the Śaraṇāgati songs; these 8 are confirmed
-// and streaming from the ISKCON Desire Tree archive. Songs without an entry
-// show a graceful "recording coming soon" card.
+// Per-song recordings sung by HH Bhakti Charu Swami Maharaja, downloaded locally.
+// Sources: 8 from the ISKCON Desire Tree archive (Vaishnava Bhajans) + Dainya 1
+// ("Bhuliyā Tomāre" Special Kirtan) from YouTube. See AUDIO-SOURCES.md.
+// Songs without an entry show a graceful "recording coming soon" card.
 export const AUDIO = {
-  'introductory': idt('BCS_Bhajans_-_Shri_Krishna_Chaitanya_Prabhu_Jive_Daya_Kori.mp3'),
-  'dainya-4': idt('BCS_Bhajans_-_Amar_Jivana_Sada.mp3'),
-  'atma-nivedana-3': idt('BCS_Bhajans_-_Manasa_Deho_Geha.mp3'),
-  'goptrtve-varana-1': idt('BCS_Bhajans_-_Ki_Jane_Ki_Bale_Tomaro_Dhamite.mp3'),
-  'avasya-raksibe-krsna-2': idt('BCS_Bhajans_-_Tumito_Maribe_Jare.mp3'),
-  'bhakti-pratikula-1': idt('BCS_Bhajans_-_Kesava_Tua_Jagata_Vichitra.mp3'),
-  'svikara-3': idt('BCS_Bhajans_-_Suddha_Bhakata_Carana_Renu.mp3'),
-  'nama-mahatmya': idt('BCS_Bhajans_-_Krishna_Naam_Dhare_Kato_Bal.mp3'),
+  'introductory': local('introductory'),
+  'dainya-1': local('dainya-1'),
+  'dainya-4': local('dainya-4'),
+  'atma-nivedana-3': local('atma-nivedana-3'),
+  'goptrtve-varana-1': local('goptrtve-varana-1'),
+  'avasya-raksibe-krsna-2': local('avasya-raksibe-krsna-2'),
+  'bhakti-pratikula-1': local('bhakti-pratikula-1'),
+  'svikara-3': local('svikara-3'),
+  'nama-mahatmya': local('nama-mahatmya'),
 }
 
 export function getAudio(slug) {
