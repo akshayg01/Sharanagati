@@ -31,11 +31,27 @@ export const FEATURED = {
   note: '8 Śaraṇāgati Vaiṣṇava songs sung by Maharaja.',
 }
 
-// Per-song recordings. Add entries as you confirm/collect them.
-// Example:
-//   'dainya-1': { type: 'audio', src: '/audio/dainya-1.mp3' },
+// Direct streaming base — the ISKCON Desire Tree devotional audio archive
+// (a free, public archive of Maharaja's bhajans). Files stream directly
+// (HTTP range requests supported), so nothing needs to be re-hosted.
+const IDT =
+  'https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_A_to_C/His_Holiness_Bhakti_Charu_Swami/Bhajans/Vaishnava_Bhajans/'
+
+const idt = (file) => ({ type: 'audio', src: IDT + encodeURIComponent(file) })
+
+// Per-song recordings sung by HH Bhakti Charu Swami Maharaja.
+// Maharaja recorded a portion of the Śaraṇāgati songs; these 8 are confirmed
+// and streaming from the ISKCON Desire Tree archive. Songs without an entry
+// show a graceful "recording coming soon" card.
 export const AUDIO = {
-  // 'introductory': { type: 'youtube', src: 'XXXXXXXXXXX' },
+  'introductory': idt('BCS_Bhajans_-_Shri_Krishna_Chaitanya_Prabhu_Jive_Daya_Kori.mp3'),
+  'dainya-4': idt('BCS_Bhajans_-_Amar_Jivana_Sada.mp3'),
+  'atma-nivedana-3': idt('BCS_Bhajans_-_Manasa_Deho_Geha.mp3'),
+  'goptrtve-varana-1': idt('BCS_Bhajans_-_Ki_Jane_Ki_Bale_Tomaro_Dhamite.mp3'),
+  'avasya-raksibe-krsna-2': idt('BCS_Bhajans_-_Tumito_Maribe_Jare.mp3'),
+  'bhakti-pratikula-1': idt('BCS_Bhajans_-_Kesava_Tua_Jagata_Vichitra.mp3'),
+  'svikara-3': idt('BCS_Bhajans_-_Suddha_Bhakata_Carana_Renu.mp3'),
+  'nama-mahatmya': idt('BCS_Bhajans_-_Krishna_Naam_Dhare_Kato_Bal.mp3'),
 }
 
 export function getAudio(slug) {

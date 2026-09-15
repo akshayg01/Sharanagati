@@ -76,6 +76,14 @@ export default function Songbook() {
                       </span>
                       <span className="block truncate text-xs text-night-400">{song.label}</span>
                     </span>
+                    {song.audio && (
+                      <span
+                        title="Recording by Maharaja available"
+                        className="flex h-6 w-6 flex-none items-center justify-center rounded-full bg-saffron-500/15 text-saffron-300"
+                      >
+                        <svg className="h-3.5 w-3.5" fill="currentColor" viewBox="0 0 24 24"><path d="M8 5v14l11-7z" /></svg>
+                      </span>
+                    )}
                     <svg className="h-4 w-4 flex-none text-night-500 transition-colors group-hover:text-saffron-300" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" d="M9 5l7 7-7 7" />
                     </svg>
