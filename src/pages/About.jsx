@@ -5,8 +5,20 @@ import { OFFICIAL_CHANNELS } from '../data/audio.js'
 export default function About() {
   return (
     <div className="mx-auto max-w-3xl px-5 py-14">
-      <div className="mb-6 flex justify-center animate-float">
-        <LotusMark className="h-14 w-14" />
+      {/* Portrait */}
+      <div className="mb-8 flex flex-col items-center">
+        <div className="relative">
+          <div className="absolute -inset-4 rounded-full bg-gradient-to-b from-saffron-500/25 to-lotus-600/20 blur-2xl" />
+          <img
+            src="./images/maharaja-guru.jpg"
+            alt="His Holiness Bhakti Charu Swami Maharaja offering prayers"
+            className="relative h-64 w-52 rounded-2xl object-cover object-top shadow-2xl ring-1 ring-white/15 sm:h-72 sm:w-60"
+            loading="lazy"
+          />
+        </div>
+        <div className="mt-5 flex justify-center animate-float">
+          <LotusMark className="h-10 w-10" />
+        </div>
       </div>
 
       <header className="text-center">
@@ -46,6 +58,32 @@ export default function About() {
           nama oṁ viṣṇu-pādāya … We offer our humble obeisances unto His Holiness Bhakti
           Charu Swami Maharaja.
         </p>
+      </section>
+
+      {/* Photo gallery */}
+      <section className="mt-10 grid gap-4 sm:grid-cols-2">
+        <figure className="glass overflow-hidden rounded-2xl">
+          <img
+            src="./images/maharaja-writing.jpg"
+            alt="Bhakti Charu Swami Maharaja writing and translating"
+            className="h-56 w-full object-cover"
+            loading="lazy"
+          />
+          <figcaption className="px-4 py-3 text-sm text-night-300">
+            Translating the sacred texts and biography of Śrīla Prabhupāda into Bengali.
+          </figcaption>
+        </figure>
+        <figure className="glass overflow-hidden rounded-2xl">
+          <img
+            src="./images/maharaja-directing.jpg"
+            alt="Bhakti Charu Swami Maharaja directing the Abhay Charan television series"
+            className="h-56 w-full object-cover"
+            loading="lazy"
+          />
+          <figcaption className="px-4 py-3 text-sm text-night-300">
+            Directing <em>Abhay Charan</em> — the acclaimed series on the life of Śrīla Prabhupāda.
+          </figcaption>
+        </figure>
       </section>
 
       <div className="mt-8 flex flex-wrap justify-center gap-3">
