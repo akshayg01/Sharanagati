@@ -16,7 +16,19 @@
         "parere udvega, diyāchi je koto,",
         "diyāchi jīvere kleśa"
       ],
-      "translation": "My life is ever given to sin; in it there is not a particle of good. I have caused others great anxiety, and have troubled all souls.*"
+      "translation": "My life is ever given to sin; in it there is not a particle of good. I have caused others great anxiety, and have troubled all souls.*",
+      "deva": [
+        "आमार जीवन, सदा पापे रत,",
+        "नाहिको पुन्येर लेष",
+        "परेरे उद्वेग, दियाछि जे कोतो,",
+        "दियाछि जीवेरे क्लेश"
+      ],
+      "bengali": [
+        "আমার জীবন, সদা পাপে রত,",
+        "নাহিকো পুন্যের লেষ",
+        "পরেরে উদ্বেগ, দিযাছি জে কোতো,",
+        "দিযাছি জীবেরে ক্লেশ"
+      ]
     },
     {
       "label": "2",
@@ -26,7 +38,19 @@
         "para-sukhe duḥkhī, sadā mithya-bhāṣī,",
         "para-duḥkha sukha-karo"
       ],
-      "translation": "For the sake of my own enjoyment I have never hesitated to perform sinful acts. Devoid of all compassion, I am concerned only with my selfish interests. Perpetually speaking lies, I become dejected upon seeing others happy, whereas the misery of others is a source of great delight for me."
+      "translation": "For the sake of my own enjoyment I have never hesitated to perform sinful acts. Devoid of all compassion, I am concerned only with my selfish interests. Perpetually speaking lies, I become dejected upon seeing others happy, whereas the misery of others is a source of great delight for me.",
+      "deva": [
+        "निज सुख लागि’, पापे नाहि डोरि,",
+        "दोया-हीन स्वार्थ-परो",
+        "पर-सुखे दुःखी, सदा मिथ्य-भाषी,",
+        "पर-दुःख सुख-करो"
+      ],
+      "bengali": [
+        "নিজ সুখ লাগি’, পাপে নাহি ডোরি,",
+        "দোযা-হীন স্বার্থ-পরো",
+        "পর-সুখে দুঃখী, সদা মিথ্য-ভাষী,",
+        "পর-দুঃখ সুখ-করো"
+      ]
     },
     {
       "label": "3",
@@ -36,7 +60,19 @@
         "mada-matta sadā, viṣaye mohita,",
         "hiṁsā-garva vibhūṣana"
       ],
-      "translation": "There are limitless material desires within the core of my heart. I am wrathful, fond of exhibiting arrogance, intoxicated by vanity, and bewildered by worldly affairs. I wear the cherished ornaments of envy and egotism."
+      "translation": "There are limitless material desires within the core of my heart. I am wrathful, fond of exhibiting arrogance, intoxicated by vanity, and bewildered by worldly affairs. I wear the cherished ornaments of envy and egotism.",
+      "deva": [
+        "अशेष कामना, हृदि माझे मोर,",
+        "क्रोधी, दम्भ-परायन",
+        "मद-मत्त सदा, विषये मोहित,",
+        "हिंसा-गर्व विभूषन"
+      ],
+      "bengali": [
+        "অশেষ কামনা, হৃদি মাঝে মোর,",
+        "ক্রোধী, দম্ভ-পরাযন",
+        "মদ-মত্ত সদা, বিষযে মোহিত,",
+        "হিংসা-গর্ব বিভূষন"
+      ]
     },
     {
       "label": "4",
@@ -46,7 +82,19 @@
         "pratiṣṭha lāgiyā, śāṭhya-ācaraṇa,",
         "lobha-hata sadā kāmī"
       ],
-      "translation": "Ruined by laziness and sleep, I resist all pious deeds, yet am very enthusiastic to perform wicked acts. For the sake of worldly fame and reputation I engage in the practice of deceitfulness. I am victimized by my own greed, being always lustful."
+      "translation": "Ruined by laziness and sleep, I resist all pious deeds, yet am very enthusiastic to perform wicked acts. For the sake of worldly fame and reputation I engage in the practice of deceitfulness. I am victimized by my own greed, being always lustful.",
+      "deva": [
+        "निद्रालस्य हत, सुकार्ये विरत,",
+        "अकार्ये उद्योगी आमि",
+        "प्रतिष्ठ लागिया, शाठ्य-आचरण,",
+        "लोभ-हत सदा कामी"
+      ],
+      "bengali": [
+        "নিদ্রালস্য হত, সুকার্যে বিরত,",
+        "অকার্যে উদ্যোগী আমি",
+        "প্রতিষ্ঠ লাগিযা, শাঠ্য-আচরণ,",
+        "লোভ-হত সদা কামী"
+      ]
     },
     {
       "label": "5",
@@ -56,7 +104,19 @@
         "śubha-kārya-śūnya, sadānartha-manāḥ,",
         "nānā duḥkhe jara jara"
       ],
-      "translation": "A vile, wicked man such as this, rejected by godly people, is a constant offender. Devoid of all good works, forever inclined toward evil, he is worn out and wasted by various miseries."
+      "translation": "A vile, wicked man such as this, rejected by godly people, is a constant offender. Devoid of all good works, forever inclined toward evil, he is worn out and wasted by various miseries.",
+      "deva": [
+        "ए हेनो दुर्जन, सज्-जन-वर्जित,",
+        "अपराधि निरन्तर",
+        "शुभ-कार्य-शून्य, सदानर्थ-मनाः,",
+        "नाना दुःखे जर जर"
+      ],
+      "bengali": [
+        "এ হেনো দুর্জন, সজ্-জন-বর্জিত,",
+        "অপরাধি নিরন্তর",
+        "শুভ-কার্য-শূন্য, সদানর্থ-মনাঃ,",
+        "নানা দুঃখে জর জর"
+      ]
     },
     {
       "label": "6",
@@ -66,11 +126,25 @@
         "bhakativinoda, prabhura caraṇe,",
         "kore duḥkha nivedana"
       ],
-      "translation": "Now in old age, deprived of all means of relief, thus humbled and poor, Bhaktivinoda submits his tale of grief at the feet of the Supreme Lord."
+      "translation": "Now in old age, deprived of all means of relief, thus humbled and poor, Bhaktivinoda submits his tale of grief at the feet of the Supreme Lord.",
+      "deva": [
+        "बार्धक्ये एखोन, उपाय-विहीन,",
+        "ता’ते दीन अकिञ्चन",
+        "भकतिविनोद, प्रभुर चरणे,",
+        "कोरे दुःख निवेदन"
+      ],
+      "bengali": [
+        "বার্ধক্যে এখোন, উপায-বিহীন,",
+        "তা’তে দীন অকিঞ্চন",
+        "ভকতিবিনোদ, প্রভুর চরণে,",
+        "কোরে দুঃখ নিবেদন"
+      ]
     }
   ],
   "source": {
     "name": "Bhaktivinoda Institute",
     "url": "https://bhaktivinodainstitute.org/dainya-song-four/"
-  }
+  },
+  "titleDeva": "आमार जीवन सदा पापे रत",
+  "titleBengali": "আমার জীবন সদা পাপে রত"
 }

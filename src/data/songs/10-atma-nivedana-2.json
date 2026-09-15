@@ -15,7 +15,17 @@
         "aichana pāp nāhi, jo hāma nā koraluṅ,",
         "sahasra sahasra beri nāth"
       ],
-      "translation": "O Lord of my life! How shall I tell You of my shameful story? There is no sin which I have not committed thousands of times and more, O Lord.*"
+      "translation": "O Lord of my life! How shall I tell You of my shameful story? There is no sin which I have not committed thousands of times and more, O Lord.*",
+      "deva": [
+        "(प्रानेश्वर्!) कोहोबुङ् कि सरम कि बात्",
+        "ऐछन पाप् नाहि, जो हाम ना कोरलुङ्,",
+        "सहस्र सहस्र बेरि नाथ्"
+      ],
+      "bengali": [
+        "(প্রানেশ্বর্!) কোহোবুঙ্ কি সরম কি বাত্",
+        "ঐছন পাপ্ নাহি, জো হাম না কোরলুঙ্,",
+        "সহস্র সহস্র বেরি নাথ্"
+      ]
     },
     {
       "label": "2",
@@ -25,7 +35,19 @@
         "takhonaka parinām, kachu nā bicāraluṅ,",
         "āb pachu taraite cāhi"
       ],
-      "translation": "My life in this world has only been one of affliction and torment as a result of those sins. Who is there to blame for this misery? At the time I did not consider the consequences; but now, in the aftermath, I seek to be saved."
+      "translation": "My life in this world has only been one of affliction and torment as a result of those sins. Who is there to blame for this misery? At the time I did not consider the consequences; but now, in the aftermath, I seek to be saved.",
+      "deva": [
+        "सोहि करम-फल, भवे मोके पेश-इ,",
+        "दोख देओबो आब् काहि",
+        "तखोनक परिनाम्, कछु ना बिचारलुङ्,",
+        "आब् पछु तरैते चाहि"
+      ],
+      "bengali": [
+        "সোহি করম-ফল, ভবে মোকে পেশ-ই,",
+        "দোখ দেওবো আব্ কাহি",
+        "তখোনক পরিনাম্, কছু না বিচারলুঙ্,",
+        "আব্ পছু তরৈতে চাহি"
+      ]
     },
     {
       "label": "3",
@@ -35,7 +57,19 @@
         "karato gatāgati, bhakata-jana-saṅge,",
         "mati rohu caraṇe tohār"
       ],
-      "translation": "After judging my sins, You will surely punish me befittingly, and I shall suffer the pangs of rebirth in this world. I only pray that, as I come and go through repeated births and deaths, my mind may ever dwell at Your lotus feet as I keep the company of Your devotees."
+      "translation": "After judging my sins, You will surely punish me befittingly, and I shall suffer the pangs of rebirth in this world. I only pray that, as I come and go through repeated births and deaths, my mind may ever dwell at Your lotus feet as I keep the company of Your devotees.",
+      "deva": [
+        "दोख विचार-इ, तुङ्हु दन्ड देओबि,",
+        "हाम भोग कोरबुङ् संसार्",
+        "करतो गतागति, भकत-जन-सङ्गे,",
+        "मति रोहु चरणे तोहार्"
+      ],
+      "bengali": [
+        "দোখ বিচার-ই, তুঙ্হু দন্ড দেওবি,",
+        "হাম ভোগ কোরবুঙ্ সংসার্",
+        "করতো গতাগতি, ভকত-জন-সঙ্গে,",
+        "মতি রোহু চরণে তোহার্"
+      ]
     },
     {
       "label": "4",
@@ -45,11 +79,25 @@
         "dīna-doyā-moya, tuwā kṛpā niramala,",
         "bhakativinoda āśā bhelo"
       ],
-      "translation": "I offer this judicious prayer at Your feet: The pride of my heart has gone far away. O You who are so kind to the meek, Your spotlessly pure mercy has become Bhaktivinoda’s only hope."
+      "translation": "I offer this judicious prayer at Your feet: The pride of my heart has gone far away. O You who are so kind to the meek, Your spotlessly pure mercy has become Bhaktivinoda’s only hope.",
+      "deva": [
+        "आपन चतुर्पन, तुवा पदे सोङ्पलुङ्,",
+        "हृदोय-गरव दूरे गेलो",
+        "दीन-दोया-मोय, तुवा कृपा निरमल,",
+        "भकतिविनोद आशा भेलो"
+      ],
+      "bengali": [
+        "আপন চতুর্পন, তুবা পদে সোঙ্পলুঙ্,",
+        "হৃদোয-গরব দূরে গেলো",
+        "দীন-দোযা-মোয, তুবা কৃপা নিরমল,",
+        "ভকতিবিনোদ আশা ভেলো"
+      ]
     }
   ],
   "source": {
     "name": "Bhaktivinoda Institute",
     "url": "https://bhaktivinodainstitute.org/atma-nivedana-song-two/"
-  }
+  },
+  "titleDeva": "प्रानेश्वर्! कोहोबुङ् कि सरम कि बात्",
+  "titleBengali": "প্রানেশ্বর্! কোহোবুঙ্ কি সরম কি বাত্"
 }

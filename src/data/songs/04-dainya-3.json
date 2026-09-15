@@ -16,7 +16,19 @@
         "dharama smariyā, gṛhinīra kara,",
         "dhorinu takhona āmi"
       ],
-      "translation": "When I was young, I felt a boundless ambition for earning money. At that time, bearing in mind the codes of religion, I accepted the hand of a wife.*"
+      "translation": "When I was young, I felt a boundless ambition for earning money. At that time, bearing in mind the codes of religion, I accepted the hand of a wife.*",
+      "deva": [
+        "जौवने जखोन, धन-उपार्जने,",
+        "होइनु विपुल कामी",
+        "धरम स्मरिया, गृहिनीर कर,",
+        "धोरिनु तखोन आमि"
+      ],
+      "bengali": [
+        "জৌবনে জখোন, ধন-উপার্জনে,",
+        "হোইনু বিপুল কামী",
+        "ধরম স্মরিযা, গৃহিনীর কর,",
+        "ধোরিনু তখোন আমি"
+      ]
     },
     {
       "label": "2",
@@ -26,7 +38,19 @@
         "bahu suta-sutā, janama lobhilo,",
         "marame hoinu hato"
       ],
-      "translation": "Along with her I set up a household and therein wasted so much of my time. Many sons and daughters were born, and my spirit was totally crushed."
+      "translation": "Along with her I set up a household and therein wasted so much of my time. Many sons and daughters were born, and my spirit was totally crushed.",
+      "deva": [
+        "संसार पाता’ये, ताहार सहित,",
+        "काल-खोय् कोइनु कोतो",
+        "बहु सुत-सुता, जनम लोभिलो,",
+        "मरमे होइनु हतो"
+      ],
+      "bengali": [
+        "সংসার পাতা’যে, তাহার সহিত,",
+        "কাল-খোয্ কোইনু কোতো",
+        "বহু সুত-সুতা, জনম লোভিলো,",
+        "মরমে হোইনু হতো"
+      ]
     },
     {
       "label": "3",
@@ -36,7 +60,19 @@
         "bārdhakya āsiyā, gherilo āmāre,",
         "asthira hoilo mati"
       ],
-      "translation": "The burden of family life increased day by day, and under its weight I felt my personal progress in life forcibly come to a halt. Old age came and beleaguered me on all sides, making my mind incessantly disturbed."
+      "translation": "The burden of family life increased day by day, and under its weight I felt my personal progress in life forcibly come to a halt. Old age came and beleaguered me on all sides, making my mind incessantly disturbed.",
+      "deva": [
+        "संसारेर भार, बाडे दिने दिने,",
+        "अचल होइलो गति",
+        "बार्धक्य आसिया, घेरिलो आमारे,",
+        "अस्थिर होइलो मति"
+      ],
+      "bengali": [
+        "সংসারের ভার, বাডে দিনে দিনে,",
+        "অচল হোইলো গতি",
+        "বার্ধক্য আসিযা, ঘেরিলো আমারে,",
+        "অস্থির হোইলো মতি"
+      ]
     },
     {
       "label": "4",
@@ -46,7 +82,19 @@
         "upāya nā dekhi, andhakāra-moya,",
         "ekhona ho’yechi bhīta"
       ],
-      "translation": "Diseases trouble me, constant anxiety has made me feverish, and my heart burns with every want. I see no way out of this predicament, for all is darkness. Now I am very much afraid."
+      "translation": "Diseases trouble me, constant anxiety has made me feverish, and my heart burns with every want. I see no way out of this predicament, for all is darkness. Now I am very much afraid.",
+      "deva": [
+        "पीडाय अस्थिर, चिन्ताय ज्वरित,",
+        "अभावे ज्वलित चित",
+        "उपाय ना देखि, अन्धकार-मोय,",
+        "एखोन हो’येछि भीत"
+      ],
+      "bengali": [
+        "পীডায অস্থির, চিন্তায জ্বরিত,",
+        "অভাবে জ্বলিত চিত",
+        "উপায না দেখি, অন্ধকার-মোয,",
+        "এখোন হো’যেছি ভীত"
+      ]
     },
     {
       "label": "5",
@@ -56,7 +104,19 @@
         "saba samāpiyā, bhojibo tomāya,",
         "e āśā biphala mora"
       ],
-      "translation": "The current of this worldly river is strong and relentless; a frightening, gloomy death approaches. ‘Finishing my worldly duties, I will worship You, O Lord’-that hope is now fruitless as well."
+      "translation": "The current of this worldly river is strong and relentless; a frightening, gloomy death approaches. ‘Finishing my worldly duties, I will worship You, O Lord’-that hope is now fruitless as well.",
+      "deva": [
+        "संसार-तटनी- स्रोत नहे शेष,",
+        "मरण निकटे घोर",
+        "सब समापिया, भोजिबो तोमाय,",
+        "ए आशा बिफल मोर"
+      ],
+      "bengali": [
+        "সংসার-তটনী- স্রোত নহে শেষ,",
+        "মরণ নিকটে ঘোর",
+        "সব সমাপিযা, ভোজিবো তোমায,",
+        "এ আশা বিফল মোর"
+      ]
     },
     {
       "label": "6",
@@ -66,11 +126,25 @@
         "tava kṛpā binā, sakali nirāśā,",
         "deho’ more padāśroya"
       ],
-      "translation": "Now please hear me, O Lord! I am utterly helpless. Bhaktivinoda says, “Without Your mercy, everything is lost. Please give me the shelter of Your lotus feet.”"
+      "translation": "Now please hear me, O Lord! I am utterly helpless. Bhaktivinoda says, “Without Your mercy, everything is lost. Please give me the shelter of Your lotus feet.”",
+      "deva": [
+        "एबे शुनो प्रभु! आमि गति-हीन,",
+        "भकतिविनोद कोय",
+        "तव कृपा बिना, सकलि निराशा,",
+        "देहो’ मोरे पदाश्रोय"
+      ],
+      "bengali": [
+        "এবে শুনো প্রভু! আমি গতি-হীন,",
+        "ভকতিবিনোদ কোয",
+        "তব কৃপা বিনা, সকলি নিরাশা,",
+        "দেহো’ মোরে পদাশ্রোয"
+      ]
     }
   ],
   "source": {
     "name": "Bhaktivinoda Institute",
     "url": "https://bhaktivinodainstitute.org/dainya-song-three/"
-  }
+  },
+  "titleDeva": "जौवने जखोन धन-उपार्जने",
+  "titleBengali": "জৌবনে জখোন ধন-উপার্জনে"
 }

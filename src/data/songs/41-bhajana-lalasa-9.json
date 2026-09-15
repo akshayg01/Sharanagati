@@ -17,7 +17,21 @@
         "“jāno mora kathā, nāmera kāṅgāla!",
         "rati pā’be nāma-gāne"
       ],
-      "translation": "O my Lord Hari! Śrī Rūpa Goswāmī, in the form of the spiritual master, spoke these instructions into my ears: “Try to understand my words, O you who beg for the gift of the holy name! You will then develop attraction for singing the holy name."
+      "translation": "O my Lord Hari! Śrī Rūpa Goswāmī, in the form of the spiritual master, spoke these instructions into my ears: “Try to understand my words, O you who beg for the gift of the holy name! You will then develop attraction for singing the holy name.",
+      "deva": [
+        "हरि हे!",
+        "श्री-रूप-गोसाइ, श्री-गुरु-रूपेते,",
+        "शिक्षा दिल मोर काने",
+        "“जानो मोर कथा, नामेर काङ्गाल!",
+        "रति पा’बे नाम-गाने"
+      ],
+      "bengali": [
+        "হরি হে!",
+        "শ্রী-রূপ-গোসাই, শ্রী-গুরু-রূপেতে,",
+        "শিক্ষা দিল মোর কানে",
+        "“জানো মোর কথা, নামের কাঙ্গাল!",
+        "রতি পা’বে নাম-গানে"
+      ]
     },
     {
       "label": "2",
@@ -27,7 +41,19 @@
         "rasanā-mānase, koraho niyoga,",
         "krama-vidhi anusari’"
       ],
-      "translation": "“Following the scriptural rules and regulations, engage your tongue and your mind in carefully cultivating Lord Kṛṣṇa’s nāma (holy names), rūpa (divine forms), guna (transcendental qualities), and sucarita (wonderful pastimes). This should be done according to the recommended order of ascending progression.*"
+      "translation": "“Following the scriptural rules and regulations, engage your tongue and your mind in carefully cultivating Lord Kṛṣṇa’s nāma (holy names), rūpa (divine forms), guna (transcendental qualities), and sucarita (wonderful pastimes). This should be done according to the recommended order of ascending progression.*",
+      "deva": [
+        "कृष्ण-नाम-रूप- गुन-सुचरित,",
+        "परम जतने कोरि’",
+        "रसना-मानसे, कोरहो नियोग,",
+        "क्रम-विधि अनुसरि’"
+      ],
+      "bengali": [
+        "কৃষ্ণ-নাম-রূপ- গুন-সুচরিত,",
+        "পরম জতনে কোরি’",
+        "রসনা-মানসে, কোরহো নিযোগ,",
+        "ক্রম-বিধি অনুসরি’"
+      ]
     },
     {
       "label": "3",
@@ -37,7 +63,19 @@
         "e nikhila kāla, koraho jāpana,",
         "upadeśa-sāra dharo’ “"
       ],
-      "translation": "“Always dwelling in the holy land of Vraja, become a practitioner of rāgānugā-bhakti (spontaneous loving devotion) while engaging in smaraṇa (remembrance) and kīrtana (glorification). Spend every moment of your time in these ways. Just accept this as the essence of all instructions.”"
+      "translation": "“Always dwelling in the holy land of Vraja, become a practitioner of rāgānugā-bhakti (spontaneous loving devotion) while engaging in smaraṇa (remembrance) and kīrtana (glorification). Spend every moment of your time in these ways. Just accept this as the essence of all instructions.”",
+      "deva": [
+        "ब्रजे कोरि’ बास, रागानुगा होइया,",
+        "स्मरण कीर्तन कोरो",
+        "ए निखिल काल, कोरहो जापन,",
+        "उपदेश-सार धरो’ “"
+      ],
+      "bengali": [
+        "ব্রজে কোরি’ বাস, রাগানুগা হোইযা,",
+        "স্মরণ কীর্তন কোরো",
+        "এ নিখিল কাল, কোরহো জাপন,",
+        "উপদেশ-সার ধরো’ “"
+      ]
     },
     {
       "label": "4",
@@ -47,11 +85,25 @@
         "rāgātmika tumi, tava padānuga,",
         "hoite dāsera āśā"
       ],
-      "translation": "O Rūpa Goswāmī! When will you, out of your causeless mercy, enable this poor wretched soul to reside in Vraja? You are a rāgātmika devotee-an eternally liberated, intimate associate of Rādhā and Kṛṣṇa. This humble servant of yours desires to become a loyal follower of your lotus feet."
+      "translation": "O Rūpa Goswāmī! When will you, out of your causeless mercy, enable this poor wretched soul to reside in Vraja? You are a rāgātmika devotee-an eternally liberated, intimate associate of Rādhā and Kṛṣṇa. This humble servant of yours desires to become a loyal follower of your lotus feet.",
+      "deva": [
+        "हा! रूप-गोसाइ, दोया कोरि’ कबे,",
+        "दिबे दिने ब्रज-बास",
+        "रागात्मिक तुमि, तव पदानुग,",
+        "होइते दासेर आशा"
+      ],
+      "bengali": [
+        "হা! রূপ-গোসাই, দোযা কোরি’ কবে,",
+        "দিবে দিনে ব্রজ-বাস",
+        "রাগাত্মিক তুমি, তব পদানুগ,",
+        "হোইতে দাসের আশা"
+      ]
     }
   ],
   "source": {
     "name": "Bhaktivinoda Institute",
     "url": "https://bhaktivinodainstitute.org/bhajana-lalasa-song-nine/"
-  }
+  },
+  "titleDeva": "श्री-रूप-गोसाइ, श्री-गुरु-रूपेते",
+  "titleBengali": "শ্রী-রূপ-গোসাই, শ্রী-গুরু-রূপেতে"
 }

@@ -16,7 +16,19 @@
         "nayane heribo, braja-pura-śobhā,",
         "nitya cid-ānanda-moya"
       ],
-      "translation": "When, in a flash, will I forget my gross bodily indentity? I will behold the exquisite beauty of the realm of Vraja, full of eternal spiritual bliss."
+      "translation": "When, in a flash, will I forget my gross bodily indentity? I will behold the exquisite beauty of the realm of Vraja, full of eternal spiritual bliss.",
+      "deva": [
+        "देखिते देखिते, भुलिबो वा कबे,",
+        "निज-स्थूल-परिचोय",
+        "नयने हेरिबो, ब्रज-पुर-शोभा,",
+        "नित्य चिद्-आनन्द-मोय"
+      ],
+      "bengali": [
+        "দেখিতে দেখিতে, ভুলিবো বা কবে,",
+        "নিজ-স্থূল-পরিচোয",
+        "নযনে হেরিবো, ব্রজ-পুর-শোভা,",
+        "নিত্য চিদ্-আনন্দ-মোয"
+      ]
     },
     {
       "label": "2",
@@ -26,7 +38,19 @@
         "braja-gopī-bhāva, hoibe swabhāva,",
         "āno-bhāva nā rohibe"
       ],
-      "translation": "I shall have my birth in the town of King Vṛṣabhānu, and eventually be married nearby in Yāvaṭ-grām. My sole disposition and character shall be that of a cowherd girl, and I shall know no other mood. *"
+      "translation": "I shall have my birth in the town of King Vṛṣabhānu, and eventually be married nearby in Yāvaṭ-grām. My sole disposition and character shall be that of a cowherd girl, and I shall know no other mood. *",
+      "deva": [
+        "बृषभानु-पुरे, जनम लोइबो,",
+        "यावटे विवाह ह’बे",
+        "ब्रज-गोपी-भाव, होइबे स्वभाव,",
+        "आनो-भाव ना रोहिबे"
+      ],
+      "bengali": [
+        "বৃষভানু-পুরে, জনম লোইবো,",
+        "যাবটে বিবাহ হ’বে",
+        "ব্রজ-গোপী-ভাব, হোইবে স্বভাব,",
+        "আনো-ভাব না রোহিবে"
+      ]
     },
     {
       "label": "3",
@@ -36,7 +60,19 @@
         "rādhā-kṛpā-bale, lobhibo vā kabe,",
         "kṛṣṇa-prema-prakaraṇa"
       ],
-      "translation": "When will I obtain, by the power of Rādhā’s mercy, my own eternal spiritual body, my own realized name, my own form, and my own dress? And when, by Her mercy, will I receive initiation into the techniques of expressing divine love for Kṛṣṇa? **"
+      "translation": "When will I obtain, by the power of Rādhā’s mercy, my own eternal spiritual body, my own realized name, my own form, and my own dress? And when, by Her mercy, will I receive initiation into the techniques of expressing divine love for Kṛṣṇa? **",
+      "deva": [
+        "निज-सिद्ध-देह, निज-सिद्ध-नाम,",
+        "निज-रूप-स्व-वसन",
+        "राधा-कृपा-बले, लोभिबो वा कबे,",
+        "कृष्ण-प्रेम-प्रकरण"
+      ],
+      "bengali": [
+        "নিজ-সিদ্ধ-দেহ, নিজ-সিদ্ধ-নাম,",
+        "নিজ-রূপ-স্ব-বসন",
+        "রাধা-কৃপা-বলে, লোভিবো বা কবে,",
+        "কৃষ্ণ-প্রেম-প্রকরণ"
+      ]
     },
     {
       "label": "4",
@@ -46,11 +82,25 @@
         "prema-mugdha ho’ye, pāgalinī-prāya,",
         "gāibo rādhāra yaśa"
       ],
-      "translation": "As I go to draw water from the Yamunā, I shall cherish knowing the confidential mellows that unite the divine pair Rādhā and Kṛṣṇa. Being enchanted by sublime love, I will sing Śrī Rādhā’s glories just like a madwoman."
+      "translation": "As I go to draw water from the Yamunā, I shall cherish knowing the confidential mellows that unite the divine pair Rādhā and Kṛṣṇa. Being enchanted by sublime love, I will sing Śrī Rādhā’s glories just like a madwoman.",
+      "deva": [
+        "जमुना-सलिल- आहरणे गिया,",
+        "बुझिबो युगल-रस",
+        "प्रेम-मुग्ध हो’ये, पागलिनी-प्राय,",
+        "गाइबो राधार यश"
+      ],
+      "bengali": [
+        "জমুনা-সলিল- আহরণে গিযা,",
+        "বুঝিবো যুগল-রস",
+        "প্রেম-মুগ্ধ হো’যে, পাগলিনী-প্রায,",
+        "গাইবো রাধার যশ"
+      ]
     }
   ],
   "source": {
     "name": "Bhaktivinoda Institute",
     "url": "https://bhaktivinodainstitute.org/siddhi-lalasa-song-two/"
-  }
+  },
+  "titleDeva": "देखिते देखिते, भुलिबो वा कबे",
+  "titleBengali": "দেখিতে দেখিতে, ভুলিবো বা কবে"
 }

@@ -14,7 +14,15 @@
         "ātma-samarpane gelā abhimān",
         "nāhi korobuṅ nija rakhā-vidhān"
       ],
-      "translation": "Surrendering my soul unto You has lifted from me the burden of false pride. No longer will I try to provide for my own safety."
+      "translation": "Surrendering my soul unto You has lifted from me the burden of false pride. No longer will I try to provide for my own safety.",
+      "deva": [
+        "आत्म-समर्पने गेला अभिमान्",
+        "नाहि कोरोबुङ् निज रखा-विधान्"
+      ],
+      "bengali": [
+        "আত্ম-সমর্পনে গেলা অভিমান্",
+        "নাহি কোরোবুঙ্ নিজ রখা-বিধান্"
+      ]
     },
     {
       "label": "2",
@@ -22,7 +30,15 @@
         "tuwā dhana jāni’ tuhuṅ rākhobi, nāth!",
         "pālya godhana jñāna kori’ tuwā sāth"
       ],
-      "translation": "I know that You will give protection to Your treasured possessions, O Lord. I now understand the mentality of Your treasured cows safely maintained by Your side."
+      "translation": "I know that You will give protection to Your treasured possessions, O Lord. I now understand the mentality of Your treasured cows safely maintained by Your side.",
+      "deva": [
+        "तुवा धन जानि’ तुहुङ् राखोबि, नाथ्!",
+        "पाल्य गोधन ज्ञान कोरि’ तुवा साथ्"
+      ],
+      "bengali": [
+        "তুবা ধন জানি’ তুহুঙ্ রাখোবি, নাথ্!",
+        "পাল্য গোধন জ্ঞান কোরি’ তুবা সাথ্"
+      ]
     },
     {
       "label": "3",
@@ -30,7 +46,15 @@
         "carāobi mādhava! jāmuna-tīre",
         "baṁśī bājāoto ḍākobi dhīre"
       ],
-      "translation": "When You lead Your herds to pasture, O Mādhava, on the banks of the Yamunā river, You will call to them by softly playing on Your flute."
+      "translation": "When You lead Your herds to pasture, O Mādhava, on the banks of the Yamunā river, You will call to them by softly playing on Your flute.",
+      "deva": [
+        "चराओबि माधव! जामुन-तीरे",
+        "बंशी बाजाओतो डाकोबि धीरे"
+      ],
+      "bengali": [
+        "চরাওবি মাধব! জামুন-তীরে",
+        "বংশী বাজাওতো ডাকোবি ধীরে"
+      ]
     },
     {
       "label": "4",
@@ -38,7 +62,15 @@
         "agha-baka mārato rakhā-vidhān",
         "korobi sadā tuhuṅ gokula-kān!"
       ],
-      "translation": "By slaying great demons such as Aghāsura and Bakāsura You will always provide full protection, O Kān of the cowherd settlement!"
+      "translation": "By slaying great demons such as Aghāsura and Bakāsura You will always provide full protection, O Kān of the cowherd settlement!",
+      "deva": [
+        "अघ-बक मारतो रखा-विधान्",
+        "कोरोबि सदा तुहुङ् गोकुल-कान्!"
+      ],
+      "bengali": [
+        "অঘ-বক মারতো রখা-বিধান্",
+        "কোরোবি সদা তুহুঙ্ গোকুল-কান্!"
+      ]
     },
     {
       "label": "5",
@@ -46,7 +78,15 @@
         "rakhā korobi tuhuṅ niścoy jāni",
         "pāna korobuṅ hāma jāmuna-pāni"
       ],
-      "translation": "Fearless and confident of Your protection, I will drink the water of the Yamunā."
+      "translation": "Fearless and confident of Your protection, I will drink the water of the Yamunā.",
+      "deva": [
+        "रखा कोरोबि तुहुङ् निश्चोय् जानि",
+        "पान कोरोबुङ् हाम जामुन-पानि"
+      ],
+      "bengali": [
+        "রখা কোরোবি তুহুঙ্ নিশ্চোয্ জানি",
+        "পান কোরোবুঙ্ হাম জামুন-পানি"
+      ]
     },
     {
       "label": "6",
@@ -54,7 +94,15 @@
         "kāliya-dokha korobi vināśā",
         "śodhobi nadī-jala, bāḍāobi āśā"
       ],
-      "translation": "The Kāliya serpent’s venom poisoned the Yamunā’s waters, yet that poison will be vanquished. You will purify the Yamunā, and by such heroic deeds enhance our faith."
+      "translation": "The Kāliya serpent’s venom poisoned the Yamunā’s waters, yet that poison will be vanquished. You will purify the Yamunā, and by such heroic deeds enhance our faith.",
+      "deva": [
+        "कालिय-दोख कोरोबि विनाशा",
+        "शोधोबि नदी-जल, बाडाओबि आशा"
+      ],
+      "bengali": [
+        "কালিয-দোখ কোরোবি বিনাশা",
+        "শোধোবি নদী-জল, বাডাওবি আশা"
+      ]
     },
     {
       "label": "7",
@@ -62,7 +110,15 @@
         "piyato dāvānala rākhobi mo’y",
         "‘gopāla’, ‘govinda’ nāma tava hoy"
       ],
-      "translation": "You will surely protect me by swallowing the forest fire. Thus You are called Gopāla (protector of the cows) and Govinda (pleaser of the cows)."
+      "translation": "You will surely protect me by swallowing the forest fire. Thus You are called Gopāla (protector of the cows) and Govinda (pleaser of the cows).",
+      "deva": [
+        "पियतो दावानल राखोबि मो’य्",
+        "‘गोपाल’, ‘गोविन्द’ नाम तव होय्"
+      ],
+      "bengali": [
+        "পিযতো দাবানল রাখোবি মো’য্",
+        "‘গোপাল’, ‘গোবিন্দ’ নাম তব হোয্"
+      ]
     },
     {
       "label": "8",
@@ -70,7 +126,15 @@
         "sura-pati-durmati-nāśa vicāri’",
         "rākhobi varṣane, giri-vara-dhāri!"
       ],
-      "translation": "In order to curb the malice of Indra, king of the demigods, You will protect me from his torrents of rain, O lifter of the mighty Govardhana Hill!"
+      "translation": "In order to curb the malice of Indra, king of the demigods, You will protect me from his torrents of rain, O lifter of the mighty Govardhana Hill!",
+      "deva": [
+        "सुर-पति-दुर्मति-नाश विचारि’",
+        "राखोबि वर्षने, गिरि-वर-धारि!"
+      ],
+      "bengali": [
+        "সুর-পতি-দুর্মতি-নাশ বিচারি’",
+        "রাখোবি বর্ষনে, গিরি-বর-ধারি!"
+      ]
     },
     {
       "label": "9",
@@ -78,7 +142,15 @@
         "catur-ānana korabo jab cori",
         "rakhā korobi mujhe, gokula-hari!"
       ],
-      "translation": "When the four-headed Brahmā abducts me along with Your cowherd boyfriends and calves, then also You will surely protect me, O Gokula Hari!"
+      "translation": "When the four-headed Brahmā abducts me along with Your cowherd boyfriends and calves, then also You will surely protect me, O Gokula Hari!",
+      "deva": [
+        "चतुर्-आनन कोरबो जब् चोरि",
+        "रखा कोरोबि मुझे, गोकुल-हरि!"
+      ],
+      "bengali": [
+        "চতুর্-আনন কোরবো জব্ চোরি",
+        "রখা কোরোবি মুঝে, গোকুল-হরি!"
+      ]
     },
     {
       "label": "10",
@@ -86,11 +158,21 @@
         "bhakativinoda-tuwā gokula-dhan",
         "rākhobi keśava! korato jatan"
       ],
-      "translation": "Bhaktivinoda is now the property of Gokula, Your holy abode. O Keśava! Kindly protect him with gentle loving care."
+      "translation": "Bhaktivinoda is now the property of Gokula, Your holy abode. O Keśava! Kindly protect him with gentle loving care.",
+      "deva": [
+        "भकतिविनोद-तुवा गोकुल-धन्",
+        "राखोबि केशव! कोरतो जतन्"
+      ],
+      "bengali": [
+        "ভকতিবিনোদ-তুবা গোকুল-ধন্",
+        "রাখোবি কেশব! কোরতো জতন্"
+      ]
     }
   ],
   "source": {
     "name": "Bhaktivinoda Institute",
     "url": "https://bhaktivinodainstitute.org/avasya-raksibe-krsna-song-three/"
-  }
+  },
+  "titleDeva": "आत्म-समर्पने गेला अभिमान्",
+  "titleBengali": "আত্ম-সমর্পনে গেলা অভিমান্"
 }

@@ -18,7 +18,23 @@
         "saṁsāra-phukāra, kāne nā poṣibe,",
         "deho-roga dūre ro’be"
       ],
-      "translation": "O Gurudeva! When will that day be mine? With a steady mind, sitting in a secluded place, I will sing the name of Śrī Kṛṣṇa. The tumultuous pandemonium of worldly existence will no longer echo in my ears, and the diseases of the body will remain far away."
+      "translation": "O Gurudeva! When will that day be mine? With a steady mind, sitting in a secluded place, I will sing the name of Śrī Kṛṣṇa. The tumultuous pandemonium of worldly existence will no longer echo in my ears, and the diseases of the body will remain far away.",
+      "deva": [
+        "गुरुदेव्!",
+        "कबे मोर सेइ दिन् ह’बे",
+        "मन स्थिर कोरि’, निर्जने बोसिया,",
+        "कृष्ण-नाम गा’बो जबे",
+        "संसार-फुकार, काने ना पोषिबे,",
+        "देहो-रोग दूरे रो’बे"
+      ],
+      "bengali": [
+        "গুরুদেব্!",
+        "কবে মোর সেই দিন্ হ’বে",
+        "মন স্থির কোরি’, নির্জনে বোসিযা,",
+        "কৃষ্ণ-নাম গা’বো জবে",
+        "সংসার-ফুকার, কানে না পোষিবে,",
+        "দেহো-রোগ দূরে রো’বে"
+      ]
     },
     {
       "label": "2",
@@ -28,7 +44,19 @@
         "dehete pulaka, udita hoibe,",
         "premete koribe bhora"
       ],
-      "translation": "When I chant “Hare Kṛṣṇa” tears of love will flow and flow from my eyes. Ecstatic rapture will arise within my body, causing my hair to stand on end and my entire being to become overwhelmed with divine love."
+      "translation": "When I chant “Hare Kṛṣṇa” tears of love will flow and flow from my eyes. Ecstatic rapture will arise within my body, causing my hair to stand on end and my entire being to become overwhelmed with divine love.",
+      "deva": [
+        "‘हरे कृष्ण’ बोलि’, गाहिते गाहिते,",
+        "नयने बोहिबे लोर",
+        "देहेते पुलक, उदित होइबे,",
+        "प्रेमेते कोरिबे भोर"
+      ],
+      "bengali": [
+        "‘হরে কৃষ্ণ’ বোলি’, গাহিতে গাহিতে,",
+        "নযনে বোহিবে লোর",
+        "দেহেতে পুলক, উদিত হোইবে,",
+        "প্রেমেতে কোরিবে ভোর"
+      ]
     },
     {
       "label": "3",
@@ -38,7 +66,19 @@
         "gharma muhur muhuḥ, virvarna hoibe,",
         "stambhita pralaya sama"
       ],
-      "translation": "Faltering words choked with emotion will issue from my mouth. My body will tremble, constantly perspire, turn pale and discolored, and become stunned. All of this will be like a devastation of ecstatic love and cause me to fall unconscious. *"
+      "translation": "Faltering words choked with emotion will issue from my mouth. My body will tremble, constantly perspire, turn pale and discolored, and become stunned. All of this will be like a devastation of ecstatic love and cause me to fall unconscious. *",
+      "deva": [
+        "गद-गद वानी, मुखे बाहिरिबे,",
+        "काङ्पिबे शरीर मम",
+        "घर्म मुहुर् मुहुः, विर्वर्न होइबे,",
+        "स्तम्भित प्रलय सम"
+      ],
+      "bengali": [
+        "গদ-গদ বানী, মুখে বাহিরিবে,",
+        "কাঙ্পিবে শরীর মম",
+        "ঘর্ম মুহুর্ মুহুঃ, বির্বর্ন হোইবে,",
+        "স্তম্ভিত প্রলয সম"
+      ]
     },
     {
       "label": "4",
@@ -48,11 +88,25 @@
         "āveśe rohiyā, deha-yātrā kori’,",
         "tomāra karunā pā’bo"
       ],
-      "translation": "When will such a genuine ecstatic condition be mine? I will constantly sing the holy name and remain absorbed in profound devotion while traveling in the material body. In this way I will receive your mercy."
+      "translation": "When will such a genuine ecstatic condition be mine? I will constantly sing the holy name and remain absorbed in profound devotion while traveling in the material body. In this way I will receive your mercy.",
+      "deva": [
+        "निष्कपटे हेनो, दशा कबे ह’बे,",
+        "निरन्तर नाम गा’बो",
+        "आवेशे रोहिया, देह-यात्रा कोरि’,",
+        "तोमार करुना पा’बो"
+      ],
+      "bengali": [
+        "নিষ্কপটে হেনো, দশা কবে হ’বে,",
+        "নিরন্তর নাম গা’বো",
+        "আবেশে রোহিযা, দেহ-যাত্রা কোরি’,",
+        "তোমার করুনা পা’বো"
+      ]
     }
   ],
   "source": {
     "name": "Bhaktivinoda Institute",
     "url": "https://bhaktivinodainstitute.org/bhajana-lalasa-song-twelve/"
-  }
+  },
+  "titleDeva": "कबे मोर सेइ दिन् हऽबे",
+  "titleBengali": "কবে মোর সেই দিন্ হঽবে"
 }

@@ -14,7 +14,15 @@
         "‘āmāra’ bolite prabhu! āre kichu nāi",
         "tumi-i āmāra mātra pitā-bandhu-bhāi"
       ],
-      "translation": "O Lord, nothing further remains that may be called “mine.” Father, friend, brother-You alone are all these to me."
+      "translation": "O Lord, nothing further remains that may be called “mine.” Father, friend, brother-You alone are all these to me.",
+      "deva": [
+        "‘आमार’ बोलिते प्रभु! आरे किछु नाइ",
+        "तुमि-इ आमार मात्र पिता-बन्धु-भाइ"
+      ],
+      "bengali": [
+        "‘আমার’ বোলিতে প্রভু! আরে কিছু নাই",
+        "তুমি-ই আমার মাত্র পিতা-বন্ধু-ভাই"
+      ]
     },
     {
       "label": "2",
@@ -22,7 +30,15 @@
         "bandhu, dārā, suta, sutā-tava dāsī dās",
         "sei to’ sambandhe sabe āmāra prayās"
       ],
-      "translation": "My friends, wife, sons and daughters are now Your servants and maidservants. Whatever care I take for them is only as they are related to You."
+      "translation": "My friends, wife, sons and daughters are now Your servants and maidservants. Whatever care I take for them is only as they are related to You.",
+      "deva": [
+        "बन्धु, दारा, सुत, सुता-तव दासी दास्",
+        "सेइ तो’ सम्बन्धे सबे आमार प्रयास्"
+      ],
+      "bengali": [
+        "বন্ধু, দারা, সুত, সুতা-তব দাসী দাস্",
+        "সেই তো’ সম্বন্ধে সবে আমার প্রযাস্"
+      ]
     },
     {
       "label": "3",
@@ -30,7 +46,15 @@
         "dhana, jana, gṛha, dāra ‘tomāra’ boliyā",
         "rakhā kori āmi mātro sevaka hoiyā"
       ],
-      "translation": "Declaring that my wealth, family members, home, and wife are truly Yours, I continue as a mere servant to dutifully protect them."
+      "translation": "Declaring that my wealth, family members, home, and wife are truly Yours, I continue as a mere servant to dutifully protect them.",
+      "deva": [
+        "धन, जन, गृह, दार ‘तोमार’ बोलिया",
+        "रखा कोरि आमि मात्रो सेवक होइया"
+      ],
+      "bengali": [
+        "ধন, জন, গৃহ, দার ‘তোমার’ বোলিযা",
+        "রখা কোরি আমি মাত্রো সেবক হোইযা"
+      ]
     },
     {
       "label": "4",
@@ -38,7 +62,15 @@
         "tomāra kāryera tore uparjibo dhan",
         "tomāra saṁsāre-vyaya koribo vahan"
       ],
-      "translation": "For the purpose of Your service I will earn money and bear the expense of maintaining Your household."
+      "translation": "For the purpose of Your service I will earn money and bear the expense of maintaining Your household.",
+      "deva": [
+        "तोमार कार्येर तोरे उपर्जिबो धन्",
+        "तोमार संसारे-व्यय कोरिबो वहन्"
+      ],
+      "bengali": [
+        "তোমার কার্যের তোরে উপর্জিবো ধন্",
+        "তোমার সংসারে-ব্যয কোরিবো বহন্"
+      ]
     },
     {
       "label": "5",
@@ -46,7 +78,15 @@
         "bhālo-manda nāhi jāni sevā mātro kori",
         "tomāra saṁsāre āmi viṣaya-praharī"
       ],
-      "translation": "I know nothing of what is good or bad; I simply render my service. I am but a watchman set to guard the properties of Your household."
+      "translation": "I know nothing of what is good or bad; I simply render my service. I am but a watchman set to guard the properties of Your household.",
+      "deva": [
+        "भालो-मन्द नाहि जानि सेवा मात्रो कोरि",
+        "तोमार संसारे आमि विषय-प्रहरी"
+      ],
+      "bengali": [
+        "ভালো-মন্দ নাহি জানি সেবা মাত্রো কোরি",
+        "তোমার সংসারে আমি বিষয-প্রহরী"
+      ]
     },
     {
       "label": "6",
@@ -54,7 +94,15 @@
         "tomāra icchāya mora indriya-cālanā",
         "śravana, darśana, ghrāna, bhojana-vāsanā"
       ],
-      "translation": "I exercise my senses only according to Your direction, and thus I desire to hear, see, smell, and taste."
+      "translation": "I exercise my senses only according to Your direction, and thus I desire to hear, see, smell, and taste.",
+      "deva": [
+        "तोमार इच्छाय मोर इन्द्रिय-चालना",
+        "श्रवन, दर्शन, घ्रान, भोजन-वासना"
+      ],
+      "bengali": [
+        "তোমার ইচ্ছায মোর ইন্দ্রিয-চালনা",
+        "শ্রবন, দর্শন, ঘ্রান, ভোজন-বাসনা"
+      ]
     },
     {
       "label": "7",
@@ -62,11 +110,21 @@
         "nija-sukha lāgi’ kichu nāhi kori ār",
         "bhakativinoda bole, tava sukha-sār"
       ],
-      "translation": "I no longer do anything for my own pleasure. Bhaktivinoda says, “Your pleasure is the essence of everything.”"
+      "translation": "I no longer do anything for my own pleasure. Bhaktivinoda says, “Your pleasure is the essence of everything.”",
+      "deva": [
+        "निज-सुख लागि’ किछु नाहि कोरि आर्",
+        "भकतिविनोद बोले, तव सुख-सार्"
+      ],
+      "bengali": [
+        "নিজ-সুখ লাগি’ কিছু নাহি কোরি আর্",
+        "ভকতিবিনোদ বোলে, তব সুখ-সার্"
+      ]
     }
   ],
   "source": {
     "name": "Bhaktivinoda Institute",
     "url": "https://bhaktivinodainstitute.org/atma-nivedana-song-five/"
-  }
+  },
+  "titleDeva": "आमार बोलिते प्रभु आरे किछु नाइ",
+  "titleBengali": "আমার বোলিতে প্রভু আরে কিছু নাই"
 }

@@ -14,7 +14,15 @@
         "tuwā-bhakti-pratikūla dharma jā’te roy",
         "parama jatane tāhā tyajibo niścoy"
       ],
-      "translation": "I will assuredly abandon with utmost endeavor all things in which aversion to Your devotional service is inherent."
+      "translation": "I will assuredly abandon with utmost endeavor all things in which aversion to Your devotional service is inherent.",
+      "deva": [
+        "तुवा-भक्ति-प्रतिकूल धर्म जा’ते रोय्",
+        "परम जतने ताहा त्यजिबो निश्चोय्"
+      ],
+      "bengali": [
+        "তুবা-ভক্তি-প্রতিকূল ধর্ম জা’তে রোয্",
+        "পরম জতনে তাহা ত্যজিবো নিশ্চোয্"
+      ]
     },
     {
       "label": "2",
@@ -22,7 +30,15 @@
         "tuwā-bhakti-bahir-mukha saṅga nā koribo",
         "gaurāṅga-virodhi-jana-mukha nā heribo"
       ],
-      "translation": "I will not keep company with those opposed to Your devotional service, nor even look at the faces of those inimical toward Lord Gaurāṅga."
+      "translation": "I will not keep company with those opposed to Your devotional service, nor even look at the faces of those inimical toward Lord Gaurāṅga.",
+      "deva": [
+        "तुवा-भक्ति-बहिर्-मुख सङ्ग ना कोरिबो",
+        "गौराङ्ग-विरोधि-जन-मुख ना हेरिबो"
+      ],
+      "bengali": [
+        "তুবা-ভক্তি-বহির্-মুখ সঙ্গ না কোরিবো",
+        "গৌরাঙ্গ-বিরোধি-জন-মুখ না হেরিবো"
+      ]
     },
     {
       "label": "3",
@@ -30,7 +46,15 @@
         "bhakti-pratikūla sthāne nā kori vasati",
         "bhaktira apriya kārye nāhi kori rati"
       ],
-      "translation": "I will never reside at a place unfavorable for devotional practices, and I will never take pleasure in non-devotional activities."
+      "translation": "I will never reside at a place unfavorable for devotional practices, and I will never take pleasure in non-devotional activities.",
+      "deva": [
+        "भक्ति-प्रतिकूल स्थाने ना कोरि वसति",
+        "भक्तिर अप्रिय कार्ये नाहि कोरि रति"
+      ],
+      "bengali": [
+        "ভক্তি-প্রতিকূল স্থানে না কোরি বসতি",
+        "ভক্তির অপ্রিয কার্যে নাহি কোরি রতি"
+      ]
     },
     {
       "label": "4",
@@ -38,7 +62,15 @@
         "bhaktira virodhī grantha pāṭha nā koribo",
         "bhaktira virodhī vyākhyā kabhu nā śunibo"
       ],
-      "translation": ""
+      "translation": "",
+      "deva": [
+        "भक्तिर विरोधी ग्रन्थ पाठ ना कोरिबो",
+        "भक्तिर विरोधी व्याख्या कभु ना शुनिबो"
+      ],
+      "bengali": [
+        "ভক্তির বিরোধী গ্রন্থ পাঠ না কোরিবো",
+        "ভক্তির বিরোধী ব্যাখ্যা কভু না শুনিবো"
+      ]
     },
     {
       "label": "5",
@@ -46,7 +78,15 @@
         "gaurāṅga-varjita sthāna tīrtha nāhi māni",
         "bhaktira bādhaka jñāna-karma tuccha jāni"
       ],
-      "translation": "I will never regard as sacred any place where Lord Gaurāṅga is rejected. All knowledge or action hindering pure devotional service I consider worthless."
+      "translation": "I will never regard as sacred any place where Lord Gaurāṅga is rejected. All knowledge or action hindering pure devotional service I consider worthless.",
+      "deva": [
+        "गौराङ्ग-वर्जित स्थान तीर्थ नाहि मानि",
+        "भक्तिर बाधक ज्ञान-कर्म तुच्छ जानि"
+      ],
+      "bengali": [
+        "গৌরাঙ্গ-বর্জিত স্থান তীর্থ নাহি মানি",
+        "ভক্তির বাধক জ্ঞান-কর্ম তুচ্ছ জানি"
+      ]
     },
     {
       "label": "6",
@@ -54,7 +94,15 @@
         "bhaktira bādhaka kāle nā kori ādar",
         "bhakti bahir-mukha nija-jane jāni par"
       ],
-      "translation": "Any seasonal observance which poses obstacles to the execution of devotional service finds no favor with me, and I consider as strangers all my own relatives or family members who are averse to devotional service."
+      "translation": "Any seasonal observance which poses obstacles to the execution of devotional service finds no favor with me, and I consider as strangers all my own relatives or family members who are averse to devotional service.",
+      "deva": [
+        "भक्तिर बाधक काले ना कोरि आदर्",
+        "भक्ति बहिर्-मुख निज-जने जानि पर्"
+      ],
+      "bengali": [
+        "ভক্তির বাধক কালে না কোরি আদর্",
+        "ভক্তি বহির্-মুখ নিজ-জনে জানি পর্"
+      ]
     },
     {
       "label": "7",
@@ -62,7 +110,15 @@
         "bhaktira bādhikā spṛhā koribo varjan",
         "abhakta-pradatta anna nā kori grahan"
       ],
-      "translation": "I will totally abandon all desires that hinder devotion, and I will never touch foodstuffs offered to me by non-devotees."
+      "translation": "I will totally abandon all desires that hinder devotion, and I will never touch foodstuffs offered to me by non-devotees.",
+      "deva": [
+        "भक्तिर बाधिका स्पृहा कोरिबो वर्जन्",
+        "अभक्त-प्रदत्त अन्न ना कोरि ग्रहन्"
+      ],
+      "bengali": [
+        "ভক্তির বাধিকা স্পৃহা কোরিবো বর্জন্",
+        "অভক্ত-প্রদত্ত অন্ন না কোরি গ্রহন্"
+      ]
     },
     {
       "label": "8",
@@ -70,7 +126,15 @@
         "jāhā kichu bhakti-pratikūla boli’ jāni",
         "tyajibo jatane tāhā, e niścoya vānī"
       ],
-      "translation": "I vow to carefully avoid whatever I know to be contrary to devotional service. This is a most definite proclamation."
+      "translation": "I vow to carefully avoid whatever I know to be contrary to devotional service. This is a most definite proclamation.",
+      "deva": [
+        "जाहा किछु भक्ति-प्रतिकूल बोलि’ जानि",
+        "त्यजिबो जतने ताहा, ए निश्चोय वानी"
+      ],
+      "bengali": [
+        "জাহা কিছু ভক্তি-প্রতিকূল বোলি’ জানি",
+        "ত্যজিবো জতনে তাহা, এ নিশ্চোয বানী"
+      ]
     },
     {
       "label": "9",
@@ -78,11 +142,21 @@
         "bhakativinoda poḍi’ prabhura caraṇe",
         "māgaye śakati pratikūlyera varjane"
       ],
-      "translation": "Bhaktivinoda falls down at the feet of the Lord and begs for the strength to give up all things that are unfavorable to pure devotion."
+      "translation": "Bhaktivinoda falls down at the feet of the Lord and begs for the strength to give up all things that are unfavorable to pure devotion.",
+      "deva": [
+        "भकतिविनोद पोडि’ प्रभुर चरणे",
+        "मागये शकति प्रतिकूल्येर वर्जने"
+      ],
+      "bengali": [
+        "ভকতিবিনোদ পোডি’ প্রভুর চরণে",
+        "মাগযে শকতি প্রতিকূল্যের বর্জনে"
+      ]
     }
   ],
   "source": {
     "name": "Bhaktivinoda Institute",
     "url": "https://bhaktivinodainstitute.org/bhakti-pratikula-bhava-varjana%e1%b9%85gikara-song-two/"
-  }
+  },
+  "titleDeva": "तुवा-भक्ति-प्रतिकूल धर्म जाऽते रोय्",
+  "titleBengali": "তুবা-ভক্তি-প্রতিকূল ধর্ম জাঽতে রোয্"
 }

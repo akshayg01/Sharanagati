@@ -17,7 +17,21 @@
         "kṛṣṇa-nāma-sudhā, bhālo nāhi lāge,",
         "viṣaya-sukhate bhora"
       ],
-      "translation": "O my Lord Hari! Because of forgetting You, my tongue has become embittered with the disease of ignorance. I cannot relish the sweet nectar of Your holy name of Kṛṣṇa, for I have become addicted to the taste of worldly pleasures. *"
+      "translation": "O my Lord Hari! Because of forgetting You, my tongue has become embittered with the disease of ignorance. I cannot relish the sweet nectar of Your holy name of Kṛṣṇa, for I have become addicted to the taste of worldly pleasures. *",
+      "deva": [
+        "हरि हे!",
+        "तोमारे भुलिया, अविद्या-पीडाय,",
+        "पीडित रसना मोर",
+        "कृष्ण-नाम-सुधा, भालो नाहि लागे,",
+        "विषय-सुखते भोर"
+      ],
+      "bengali": [
+        "হরি হে!",
+        "তোমারে ভুলিযা, অবিদ্যা-পীডায,",
+        "পীডিত রসনা মোর",
+        "কৃষ্ণ-নাম-সুধা, ভালো নাহি লাগে,",
+        "বিষয-সুখতে ভোর"
+      ]
     },
     {
       "label": "2",
@@ -27,7 +41,19 @@
         "sitapala jeno, nāśi’ roga-mūla,",
         "krame swādu hoya, hari!"
       ],
-      "translation": "If I sing that holy name of Yours aloud every day with warm affection, then as sugar candy taken medicinally destroys the very disease which makes it taste bitter (jaundice), so Your holy name, O Lord Hari, will cure my spiritual disease and allow me to gradually taste Your sweetness."
+      "translation": "If I sing that holy name of Yours aloud every day with warm affection, then as sugar candy taken medicinally destroys the very disease which makes it taste bitter (jaundice), so Your holy name, O Lord Hari, will cure my spiritual disease and allow me to gradually taste Your sweetness.",
+      "deva": [
+        "प्रति-दिन जदि, आदर कोरिया,",
+        "से नाम कीर्तन कोरि",
+        "सितपल जेनो, नाशि’ रोग-मूल,",
+        "क्रमे स्वादु होय, हरि!"
+      ],
+      "bengali": [
+        "প্রতি-দিন জদি, আদর কোরিযা,",
+        "সে নাম কীর্তন কোরি",
+        "সিতপল জেনো, নাশি’ রোগ-মূল,",
+        "ক্রমে স্বাদু হোয, হরি!"
+      ]
     },
     {
       "label": "3",
@@ -37,7 +63,19 @@
         "daśa aparādha, āmāra durdaiva,",
         "kemone hoibe kṣoya"
       ],
-      "translation": "How great is my misfortune that I feel no appreciation for Your holy name, O merciful Lord! In such a lamentable state, how will I be freed from committing the ten offenses to the holy name?"
+      "translation": "How great is my misfortune that I feel no appreciation for Your holy name, O merciful Lord! In such a lamentable state, how will I be freed from committing the ten offenses to the holy name?",
+      "deva": [
+        "दुर्दैव आमार, से नामे आदर,",
+        "ना होइलो, दोयामोय!",
+        "दश अपराध, आमार दुर्दैव,",
+        "केमोने होइबे क्षोय"
+      ],
+      "bengali": [
+        "দুর্দৈব আমার, সে নামে আদর,",
+        "না হোইলো, দোযামোয!",
+        "দশ অপরাধ, আমার দুর্দৈব,",
+        "কেমোনে হোইবে ক্ষোয"
+      ]
     },
     {
       "label": "4",
@@ -47,11 +85,25 @@
         "aparādha jā’be, nāme ruci ha’be,",
         "āswādibo nāmāsava"
       ],
-      "translation": "If I sing Your name every day, then gradually by Your mercy the ten offenses will disappear, taste for Your holy name will grow within me, and then I shall relish the intoxicating wine of that name."
+      "translation": "If I sing Your name every day, then gradually by Your mercy the ten offenses will disappear, taste for Your holy name will grow within me, and then I shall relish the intoxicating wine of that name.",
+      "deva": [
+        "अनुदिन जेनो, तव नाम गाइ,",
+        "क्रमेते कृपाय तव",
+        "अपराध जा’बे, नामे रुचि ह’बे,",
+        "आस्वादिबो नामासव"
+      ],
+      "bengali": [
+        "অনুদিন জেনো, তব নাম গাই,",
+        "ক্রমেতে কৃপায তব",
+        "অপরাধ জা’বে, নামে রুচি হ’বে,",
+        "আস্বাদিবো নামাসব"
+      ]
     }
   ],
   "source": {
     "name": "Bhaktivinoda Institute",
     "url": "https://bhaktivinodainstitute.org/bhajana-lalasa-song-eight/"
-  }
+  },
+  "titleDeva": "तोमारे भुलिया, अविद्या-पीडाय",
+  "titleBengali": "তোমারে ভুলিযা, অবিদ্যা-পীডায"
 }

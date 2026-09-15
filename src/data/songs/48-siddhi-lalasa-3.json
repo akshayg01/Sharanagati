@@ -16,7 +16,19 @@
         "śrī-rādhāra sukha, satata sādhane,",
         "rohibo āmi prayāsī"
       ],
-      "translation": "For serving the lotus feet of the daughter of Vṛṣabhānu, I shall become a protected maidservant of one of the gopīs in Vraja. I will always strive to bring about the pleasure of Śrī Rādhā. *"
+      "translation": "For serving the lotus feet of the daughter of Vṛṣabhānu, I shall become a protected maidservant of one of the gopīs in Vraja. I will always strive to bring about the pleasure of Śrī Rādhā. *",
+      "deva": [
+        "बृषभानु-सुता-चरण-सेवने,",
+        "होइबो ये पाल्य-दासी",
+        "श्री-राधार सुख, सतत साधने,",
+        "रोहिबो आमि प्रयासी"
+      ],
+      "bengali": [
+        "বৃষভানু-সুতা-চরণ-সেবনে,",
+        "হোইবো যে পাল্য-দাসী",
+        "শ্রী-রাধার সুখ, সতত সাধনে,",
+        "রোহিবো আমি প্রযাসী"
+      ]
     },
     {
       "label": "2",
@@ -26,7 +38,19 @@
         "rādhā-pada chāḍi’, śrī-kṛṣṇa-saṅgame,",
         "kabhu nā hoibo kāmī"
       ],
-      "translation": "Within my heart I will know that Rādhā’s pleasure is Kṛṣṇa’s only source of joy. Therefore, I will never desire to abandon Her lotus feet for enjoying His exclusive company. **"
+      "translation": "Within my heart I will know that Rādhā’s pleasure is Kṛṣṇa’s only source of joy. Therefore, I will never desire to abandon Her lotus feet for enjoying His exclusive company. **",
+      "deva": [
+        "श्री-राधार सुखे, कृष्णएर ये सुख,",
+        "जानिबो मनेते आमि",
+        "राधा-पद छाडि’, श्री-कृष्ण-सङ्गमे,",
+        "कभु ना होइबो कामी"
+      ],
+      "bengali": [
+        "শ্রী-রাধার সুখে, কৃষ্ণএর যে সুখ,",
+        "জানিবো মনেতে আমি",
+        "রাধা-পদ ছাডি’, শ্রী-কৃষ্ণ-সঙ্গমে,",
+        "কভু না হোইবো কামী"
+      ]
     },
     {
       "label": "3",
@@ -36,7 +60,19 @@
         "tad-anugā ho’ye, sevibo rādhāra,",
         "caraṇa-kalapa-taru"
       ],
-      "translation": "The sakhīs are my best friends and teachers concerning the love uniting Rādhā with Kṛṣṇa. By following their example, I shall serve Rādhā’s lotus feet, which are like wish-fulfilling trees."
+      "translation": "The sakhīs are my best friends and teachers concerning the love uniting Rādhā with Kṛṣṇa. By following their example, I shall serve Rādhā’s lotus feet, which are like wish-fulfilling trees.",
+      "deva": [
+        "सखी-गण मम, परम-सुहृत्,",
+        "युगल-प्रेमेर गुरु",
+        "तद्-अनुगा हो’ये, सेविबो राधार,",
+        "चरण-कलप-तरु"
+      ],
+      "bengali": [
+        "সখী-গণ মম, পরম-সুহৃত্,",
+        "যুগল-প্রেমের গুরু",
+        "তদ্-অনুগা হো’যে, সেবিবো রাধার,",
+        "চরণ-কলপ-তরু"
+      ]
     },
     {
       "label": "4",
@@ -46,11 +82,25 @@
         "āmi to’ rādhikā- pakṣa-pātī sadā,",
         "kabhu nāhi heri tā’ke"
       ],
-      "translation": "I myself am always partial to Rādhikā’s camp and therefore never look upon those who have abandoned Rādhā’s entourage, whoever they may be and whatever their ways. ***"
+      "translation": "I myself am always partial to Rādhikā’s camp and therefore never look upon those who have abandoned Rādhā’s entourage, whoever they may be and whatever their ways. ***",
+      "deva": [
+        "राधा-पक्ष छाडि’, ये-जन से-जन,",
+        "ये भावे से भावे थाके",
+        "आमि तो’ राधिका- पक्ष-पाती सदा,",
+        "कभु नाहि हेरि ता’के"
+      ],
+      "bengali": [
+        "রাধা-পক্ষ ছাডি’, যে-জন সে-জন,",
+        "যে ভাবে সে ভাবে থাকে",
+        "আমি তো’ রাধিকা- পক্ষ-পাতী সদা,",
+        "কভু নাহি হেরি তা’কে"
+      ]
     }
   ],
   "source": {
     "name": "Bhaktivinoda Institute",
     "url": "https://bhaktivinodainstitute.org/siddhi-lalasa-song-three/"
-  }
+  },
+  "titleDeva": "बृषभानु-सुता-चरण-सेवने",
+  "titleBengali": "বৃষভানু-সুতা-চরণ-সেবনে"
 }

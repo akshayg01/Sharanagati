@@ -16,7 +16,19 @@
         "brahmā-ādi deva-gaṇa, tava dāsa aganaṇa,",
         "kore tava ājñāra pālan"
       ],
-      "translation": "If You wish to slay someone, then who could possibly protect them? The three worlds are subservient to Your will. The demigods headed by Lord Brahmā are Your countless servants who stand ready to execute Your command."
+      "translation": "If You wish to slay someone, then who could possibly protect them? The three worlds are subservient to Your will. The demigods headed by Lord Brahmā are Your countless servants who stand ready to execute Your command.",
+      "deva": [
+        "तुमि तो’ मारिबे जारे, के तारे राखिते पारे,",
+        "इच्छा-बश त्रिभुवन्",
+        "ब्रह्मा-आदि देव-गण, तव दास अगनण,",
+        "कोरे तव आज्ञार पालन्"
+      ],
+      "bengali": [
+        "তুমি তো’ মারিবে জারে, কে তারে রাখিতে পারে,",
+        "ইচ্ছা-বশ ত্রিভুবন্",
+        "ব্রহ্মা-আদি দেব-গণ, তব দাস অগনণ,",
+        "কোরে তব আজ্ঞার পালন্"
+      ]
     },
     {
       "label": "2",
@@ -26,7 +38,19 @@
         "roga-śoka-mṛti-bhoy, tava icchā-mate hoy,",
         "tava ājñā sadā balavān"
       ],
-      "translation": "By Your will the planets incessantly exercise their auspicious or inauspicious influences. Illness, grief, death, and fear occur by Your will. Your command is all-powerful."
+      "translation": "By Your will the planets incessantly exercise their auspicious or inauspicious influences. Illness, grief, death, and fear occur by Your will. Your command is all-powerful.",
+      "deva": [
+        "तव इच्छा-मते जत, ग्रह-गण अविरत,",
+        "शुभाशुभ फल कोरे दान्",
+        "रोग-शोक-मृति-भोय्, तव इच्छा-मते होय्,",
+        "तव आज्ञा सदा बलवान्"
+      ],
+      "bengali": [
+        "তব ইচ্ছা-মতে জত, গ্রহ-গণ অবিরত,",
+        "শুভাশুভ ফল কোরে দান্",
+        "রোগ-শোক-মৃতি-ভোয্, তব ইচ্ছা-মতে হোয্,",
+        "তব আজ্ঞা সদা বলবান্"
+      ]
     },
     {
       "label": "3",
@@ -36,7 +60,19 @@
         "tumi to’ parameśwar, para-brahma parātpar,",
         "tava bāsa bhakata-antare"
       ],
-      "translation": "In fear of You the wind blows, the sun and moon rise and set, all performing their regulated tasks. You are the Supreme Lord, the ultimate spirit, transcendentally situated beyond even the beyond. Your residence is in the heart of Your loving devotee."
+      "translation": "In fear of You the wind blows, the sun and moon rise and set, all performing their regulated tasks. You are the Supreme Lord, the ultimate spirit, transcendentally situated beyond even the beyond. Your residence is in the heart of Your loving devotee.",
+      "deva": [
+        "तव भोये वायु बोय्, चन्द्र सूर्य समुदोय्,",
+        "स्व-स्व नियमित कर्य कोरे",
+        "तुमि तो’ परमेश्वर्, पर-ब्रह्म परात्पर्,",
+        "तव बास भकत-अन्तरे"
+      ],
+      "bengali": [
+        "তব ভোযে বাযু বোয্, চন্দ্র সূর্য সমুদোয্,",
+        "স্ব-স্ব নিযমিত কর্য কোরে",
+        "তুমি তো’ পরমেশ্বর্, পর-ব্রহ্ম পরাত্পর্,",
+        "তব বাস ভকত-অন্তরে"
+      ]
     },
     {
       "label": "4",
@@ -46,7 +82,19 @@
         "tumi to’ rākhibe jāre, ke tāre mārite pāre,",
         "sakala vidhira vidhi tumi"
       ],
-      "translation": "You are eternally pure. All Your desires are already fulfilled. Your name is Bhakta-vatsala, for You are the eternally affectionate Lord of Your dear devotees. If You wish to protect someone, then who could possibly slay them? You are the law of all laws."
+      "translation": "You are eternally pure. All Your desires are already fulfilled. Your name is Bhakta-vatsala, for You are the eternally affectionate Lord of Your dear devotees. If You wish to protect someone, then who could possibly slay them? You are the law of all laws.",
+      "deva": [
+        "सदा-शुद्ध सिद्ध-काम, ‘भकत-वत्सल’ नाम,",
+        "भकत-जनेर नित्य-स्वामी",
+        "तुमि तो’ राखिबे जारे, के तारे मारिते पारे,",
+        "सकल विधिर विधि तुमि"
+      ],
+      "bengali": [
+        "সদা-শুদ্ধ সিদ্ধ-কাম, ‘ভকত-বত্সল’ নাম,",
+        "ভকত-জনের নিত্য-স্বামী",
+        "তুমি তো’ রাখিবে জারে, কে তারে মারিতে পারে,",
+        "সকল বিধির বিধি তুমি"
+      ]
     },
     {
       "label": "5",
@@ -56,11 +104,25 @@
         "vipada hoite swāmī! avaśya tāhāre tumi,",
         "rakṣibe,-tāhāra e viśvās"
       ],
-      "translation": "Your servant Bhaktivinoda has bowed down submissively at Your lotus feet, O Lord! He cherishes the faith, O master, that You will surely protect him from all dangers."
+      "translation": "Your servant Bhaktivinoda has bowed down submissively at Your lotus feet, O Lord! He cherishes the faith, O master, that You will surely protect him from all dangers.",
+      "deva": [
+        "तोमार चरणे नाथ! कोरियाछे प्रनिपात,",
+        "भकतिविनोद तव दास्",
+        "विपद होइते स्वामी! अवश्य ताहारे तुमि,",
+        "रक्षिबे,-ताहार ए विश्वास्"
+      ],
+      "bengali": [
+        "তোমার চরণে নাথ! কোরিযাছে প্রনিপাত,",
+        "ভকতিবিনোদ তব দাস্",
+        "বিপদ হোইতে স্বামী! অবশ্য তাহারে তুমি,",
+        "রক্ষিবে,-তাহার এ বিশ্বাস্"
+      ]
     }
   ],
   "source": {
     "name": "Bhaktivinoda Institute",
     "url": "https://bhaktivinodainstitute.org/avasya-raksibe-krsna-song-two/"
-  }
+  },
+  "titleDeva": "तुमि तोऽ मारिबे जारे के तारे राखिते पारे",
+  "titleBengali": "তুমি তোঽ মারিবে জারে কে তারে রাখিতে পারে"
 }

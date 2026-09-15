@@ -14,7 +14,15 @@
         "dārā-putra-nija-deho-kuṭumba-pālane",
         "sarvadā vyākula āmi chinu mane mane"
       ],
-      "translation": "Within my mind I have always been anxious for the maintenance of my wife and children, my own body and relatives."
+      "translation": "Within my mind I have always been anxious for the maintenance of my wife and children, my own body and relatives.",
+      "deva": [
+        "दारा-पुत्र-निज-देहो-कुटुम्ब-पालने",
+        "सर्वदा व्याकुल आमि छिनु मने मने"
+      ],
+      "bengali": [
+        "দারা-পুত্র-নিজ-দেহো-কুটুম্ব-পালনে",
+        "সর্বদা ব্যাকুল আমি ছিনু মনে মনে"
+      ]
     },
     {
       "label": "2",
@@ -22,7 +30,15 @@
         "kemone arjibo artha, yaśa kise pābo",
         "kanyā-putra-vivāha kemone sampādibo"
       ],
-      "translation": "How will I earn money? How will I acquire fame? How will I arrange the marriages of my sons and daughters?"
+      "translation": "How will I earn money? How will I acquire fame? How will I arrange the marriages of my sons and daughters?",
+      "deva": [
+        "केमोने अर्जिबो अर्थ, यश किसे पाबो",
+        "कन्या-पुत्र-विवाह केमोने सम्पादिबो"
+      ],
+      "bengali": [
+        "কেমোনে অর্জিবো অর্থ, যশ কিসে পাবো",
+        "কন্যা-পুত্র-বিবাহ কেমোনে সম্পাদিবো"
+      ]
     },
     {
       "label": "3",
@@ -30,7 +46,15 @@
         "ebe ātma-samarpane cintā nāhi ār",
         "tumi nirvāhibe prabhu, saṁsāra tomār"
       ],
-      "translation": "Now, through self-surrender, I have been relieved of all anxiety. O Lord, surely You will provide for the maintenance of Your own household."
+      "translation": "Now, through self-surrender, I have been relieved of all anxiety. O Lord, surely You will provide for the maintenance of Your own household.",
+      "deva": [
+        "एबे आत्म-समर्पने चिन्ता नाहि आर्",
+        "तुमि निर्वाहिबे प्रभु, संसार तोमार्"
+      ],
+      "bengali": [
+        "এবে আত্ম-সমর্পনে চিন্তা নাহি আর্",
+        "তুমি নির্বাহিবে প্রভু, সংসার তোমার্"
+      ]
     },
     {
       "label": "4",
@@ -38,7 +62,15 @@
         "tumi to’ pālibe more nija-dāsa jāni’",
         "tomāra sevāya prabhu boḍo sukha māni"
       ],
-      "translation": "Recognizing me as Your own servant, You will certainly maintain me. While rendering devotional service unto You I feel the greatest happiness."
+      "translation": "Recognizing me as Your own servant, You will certainly maintain me. While rendering devotional service unto You I feel the greatest happiness.",
+      "deva": [
+        "तुमि तो’ पालिबे मोरे निज-दास जानि’",
+        "तोमार सेवाय प्रभु बोडो सुख मानि"
+      ],
+      "bengali": [
+        "তুমি তো’ পালিবে মোরে নিজ-দাস জানি’",
+        "তোমার সেবায প্রভু বোডো সুখ মানি"
+      ]
     },
     {
       "label": "5",
@@ -46,7 +78,15 @@
         "tomāra icchaya prabhu sab kārya hoy",
         "jīva bole,-‘kori āmi’, se to’ satya noy"
       ],
-      "translation": "All events take place only by Your will, O Lord. The deluded soul of this world declares “I am the doer!” but this is pure folly."
+      "translation": "All events take place only by Your will, O Lord. The deluded soul of this world declares “I am the doer!” but this is pure folly.",
+      "deva": [
+        "तोमार इच्छय प्रभु सब् कार्य होय्",
+        "जीव बोले,-‘कोरि आमि’, से तो’ सत्य नोय्"
+      ],
+      "bengali": [
+        "তোমার ইচ্ছয প্রভু সব্ কার্য হোয্",
+        "জীব বোলে,-‘কোরি আমি’, সে তো’ সত্য নোয্"
+      ]
     },
     {
       "label": "6",
@@ -54,7 +94,15 @@
         "jīva ki korite pare, tumi nā korile?",
         "āśā-mātra jīva kore, tava icchā-phale"
       ],
-      "translation": "What is a tiny soul actually able to do unless You act? The jīva can only desire to act, and unless You fulfill his desire by Your own sweet will, he cannot do anything."
+      "translation": "What is a tiny soul actually able to do unless You act? The jīva can only desire to act, and unless You fulfill his desire by Your own sweet will, he cannot do anything.",
+      "deva": [
+        "जीव कि कोरिते परे, तुमि ना कोरिले?",
+        "आशा-मात्र जीव कोरे, तव इच्छा-फले"
+      ],
+      "bengali": [
+        "জীব কি কোরিতে পরে, তুমি না কোরিলে?",
+        "আশা-মাত্র জীব কোরে, তব ইচ্ছা-ফলে"
+      ]
     },
     {
       "label": "7",
@@ -62,7 +110,15 @@
         "niścinta hoiyā āmi sevibo tomāy",
         "gṛhe bhālo-manda ho’le nāhi mora dāy"
       ],
-      "translation": "Being free from all anxiety, I will humbly render service unto You. If any good or evil should occur while serving in Your home, it will not be my responsibility."
+      "translation": "Being free from all anxiety, I will humbly render service unto You. If any good or evil should occur while serving in Your home, it will not be my responsibility.",
+      "deva": [
+        "निश्चिन्त होइया आमि सेविबो तोमाय्",
+        "गृहे भालो-मन्द हो’ले नाहि मोर दाय्"
+      ],
+      "bengali": [
+        "নিশ্চিন্ত হোইযা আমি সেবিবো তোমায্",
+        "গৃহে ভালো-মন্দ হো’লে নাহি মোর দায্"
+      ]
     },
     {
       "label": "8",
@@ -70,11 +126,21 @@
         "bhakativinoda nija-swātantrya tyajiyā",
         "tomāra caraṇa seve’ akiñcana hoiyā"
       ],
-      "translation": "Bhaktivinoda thus completely renounces his own independence and engages in the exclusive service of Your lotus feet with no other interest in life."
+      "translation": "Bhaktivinoda thus completely renounces his own independence and engages in the exclusive service of Your lotus feet with no other interest in life.",
+      "deva": [
+        "भकतिविनोद निज-स्वातन्त्र्य त्यजिया",
+        "तोमार चरण सेवे’ अकिञ्चन होइया"
+      ],
+      "bengali": [
+        "ভকতিবিনোদ নিজ-স্বাতন্ত্র্য ত্যজিযা",
+        "তোমার চরণ সেবে’ অকিঞ্চন হোইযা"
+      ]
     }
   ],
   "source": {
     "name": "Bhaktivinoda Institute",
     "url": "https://bhaktivinodainstitute.org/goptrtve-varana-song-two/"
-  }
+  },
+  "titleDeva": "दारा पुत्र निज देहो कुटुम्ब पालने",
+  "titleBengali": "দারা পুত্র নিজ দেহো কুটুম্ব পালনে"
 }

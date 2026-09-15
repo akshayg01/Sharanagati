@@ -15,7 +15,17 @@
         "karama-vipāke, bhava-vana bhrama-i,",
         "pekhaluṅ raṅga bahu citra"
       ],
-      "translation": "O Keśava! This material creation of Yours is most strange. I have roamed throughout the forest of this universe in consequence of my selfish acts, and I have beheld many curious sights."
+      "translation": "O Keśava! This material creation of Yours is most strange. I have roamed throughout the forest of this universe in consequence of my selfish acts, and I have beheld many curious sights.",
+      "deva": [
+        "केशव! तुवा जगत विचित्र",
+        "करम-विपाके, भव-वन भ्रम-इ,",
+        "पेखलुङ् रङ्ग बहु चित्र"
+      ],
+      "bengali": [
+        "কেশব! তুবা জগত বিচিত্র",
+        "করম-বিপাকে, ভব-বন ভ্রম-ই,",
+        "পেখলুঙ্ রঙ্গ বহু চিত্র"
+      ]
     },
     {
       "label": "2",
@@ -25,7 +35,19 @@
         "kapila, patañjali, gautama, kanabhojī,",
         "jaimini, bauddha āowe dhāi’"
       ],
-      "translation": "Forgetfulness of Your lotus feet, which is bitter suffering unto death, burns me with its scorching pain. In this helpless condition my would-be saviors-the sage-philosophers Kapila, Gautama, Kanāda, Jaiminī, and Buddha-have come running to my aid.*"
+      "translation": "Forgetfulness of Your lotus feet, which is bitter suffering unto death, burns me with its scorching pain. In this helpless condition my would-be saviors-the sage-philosophers Kapila, Gautama, Kanāda, Jaiminī, and Buddha-have come running to my aid.*",
+      "deva": [
+        "तुवा पद-विस्मृति, आ-मर जन्त्रना,",
+        "क्लेश-दहने दोहि’ जाइ",
+        "कपिल, पतञ्जलि, गौतम, कनभोजी,",
+        "जैमिनि, बौद्ध आओवे धाइ’"
+      ],
+      "bengali": [
+        "তুবা পদ-বিস্মৃতি, আ-মর জন্ত্রনা,",
+        "ক্লেশ-দহনে দোহি’ জাই",
+        "কপিল, পতঞ্জলি, গৌতম, কনভোজী,",
+        "জৈমিনি, বৌদ্ধ আওবে ধাই’"
+      ]
     },
     {
       "label": "3",
@@ -35,7 +57,19 @@
         "so-sabu-vañcaka, tuwā bhakti bahir-mukha,",
         "ghaṭāowe viṣama paramād"
       ],
-      "translation": "Each expounds his particular view, dangling various pleasures and liberation as bait in their philosophical traps. But all of them are just bogus cheaters, being averse to Your devotional service, and are therefore a source of fatal danger."
+      "translation": "Each expounds his particular view, dangling various pleasures and liberation as bait in their philosophical traps. But all of them are just bogus cheaters, being averse to Your devotional service, and are therefore a source of fatal danger.",
+      "deva": [
+        "तब् कोइ निज-मते, भुक्ति, मुक्ति याचतो,",
+        "पात-इ नाना-विध फाङ्द्",
+        "सो-सबु-वञ्चक, तुवा भक्ति बहिर्-मुख,",
+        "घटाओवे विषम परमाद्"
+      ],
+      "bengali": [
+        "তব্ কোই নিজ-মতে, ভুক্তি, মুক্তি যাচতো,",
+        "পাত-ই নানা-বিধ ফাঙ্দ্",
+        "সো-সবু-বঞ্চক, তুবা ভক্তি বহির্-মুখ,",
+        "ঘটাওবে বিষম পরমাদ্"
+      ]
     },
     {
       "label": "4",
@@ -45,11 +79,25 @@
         "danḍavat dūrato, bhakativinoda bhelo,",
         "bhakata-caraṇa kori’ sār"
       ],
-      "translation": "Every one of them are cunning experts of karma, jñāna, yoga and tāpa who provide various kinds of tempting bait for cheating the souls who are averse to You. Having paid his respects to these cheating philosophers from afar, Bhaktivinoda takes refuge at the feet of Your devotees as the essence of his life."
+      "translation": "Every one of them are cunning experts of karma, jñāna, yoga and tāpa who provide various kinds of tempting bait for cheating the souls who are averse to You. Having paid his respects to these cheating philosophers from afar, Bhaktivinoda takes refuge at the feet of Your devotees as the essence of his life.",
+      "deva": [
+        "वैमुख-वञ्चने, भट सो-सबु,",
+        "निरमिलो विविध पसार्",
+        "दन्डवत् दूरतो, भकतिविनोद भेलो,",
+        "भकत-चरण कोरि’ सार्"
+      ],
+      "bengali": [
+        "বৈমুখ-বঞ্চনে, ভট সো-সবু,",
+        "নিরমিলো বিবিধ পসার্",
+        "দন্ডবত্ দূরতো, ভকতিবিনোদ ভেলো,",
+        "ভকত-চরণ কোরি’ সার্"
+      ]
     }
   ],
   "source": {
     "name": "Bhaktivinoda Institute",
     "url": "https://bhaktivinodainstitute.org/bhakti-pratikula-bhava-varjanangikara-song-one/"
-  }
+  },
+  "titleDeva": "केशव! तुवा जगत विचित्र",
+  "titleBengali": "কেশব! তুবা জগত বিচিত্র"
 }

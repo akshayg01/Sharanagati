@@ -17,7 +17,21 @@
         "tava nija-jana, kono mahājane,",
         "pāṭhāiyā dile tumi"
       ],
-      "translation": "O Lord! With such a wicked mind as this I have fallen into the material world, but You have sent one of Your pure and elevated devotees to rescue me."
+      "translation": "O Lord! With such a wicked mind as this I have fallen into the material world, but You have sent one of Your pure and elevated devotees to rescue me.",
+      "deva": [
+        "(प्रभु हे!)",
+        "एमोन दुर्मति, संसार भितोरे,",
+        "पोडिया आछिनु आमि",
+        "तव निज-जन, कोनो महाजने,",
+        "पाठाइया दिले तुमि"
+      ],
+      "bengali": [
+        "(প্রভু হে!)",
+        "এমোন দুর্মতি, সংসার ভিতোরে,",
+        "পোডিযা আছিনু আমি",
+        "তব নিজ-জন, কোনো মহাজনে,",
+        "পাঠাইযা দিলে তুমি"
+      ]
     },
     {
       "label": "2",
@@ -27,7 +41,19 @@
         "ohe dīna-jana, śuno bhālo kathā,",
         "ullasita ha’be hiyā"
       ],
-      "translation": "He saw me so fallen and wretched, took pity, and came to me saying, “O humbled soul, please listen to this good tiding, for it will gladden your heart."
+      "translation": "He saw me so fallen and wretched, took pity, and came to me saying, “O humbled soul, please listen to this good tiding, for it will gladden your heart.",
+      "deva": [
+        "दोया कोरि’ मोरे, पतित देखिया,",
+        "कोहिलो आमारे गिया",
+        "ओहे दीन-जन, शुनो भालो कथा,",
+        "उल्लसित ह’बे हिया"
+      ],
+      "bengali": [
+        "দোযা কোরি’ মোরে, পতিত দেখিযা,",
+        "কোহিলো আমারে গিযা",
+        "ওহে দীন-জন, শুনো ভালো কথা,",
+        "উল্লসিত হ’বে হিযা"
+      ]
     },
     {
       "label": "3",
@@ -37,7 +63,19 @@
         "tomā heno koto, dīna hīna jane,",
         "korilena bhava-pār"
       ],
-      "translation": "“Śrī Kṛṣṇa Caitanya has appeared in the land of Navadvīpa in order to deliver you. He has safely conducted many miserable souls such as you across the sea of worldly existence."
+      "translation": "“Śrī Kṛṣṇa Caitanya has appeared in the land of Navadvīpa in order to deliver you. He has safely conducted many miserable souls such as you across the sea of worldly existence.",
+      "deva": [
+        "तोमारे तारिते, श्री-कृष्ण-चैतन्य,",
+        "नवद्वीपे अवतार्",
+        "तोमा हेनो कोतो, दीन हीन जने,",
+        "कोरिलेन भव-पार्"
+      ],
+      "bengali": [
+        "তোমারে তারিতে, শ্রী-কৃষ্ণ-চৈতন্য,",
+        "নবদ্বীপে অবতার্",
+        "তোমা হেনো কোতো, দীন হীন জনে,",
+        "কোরিলেন ভব-পার্"
+      ]
     },
     {
       "label": "4",
@@ -47,7 +85,19 @@
         "mahāprabhu nāme, nadīyā mātāya,",
         "saṅge bhāi avadhūta"
       ],
-      "translation": "“To fulfill the promise of the Vedas, the son of a brāhmana, of golden complexion and bearing the name of Mahāprabhu, has descended along with His brother, the avadhūta. Together They have overwhelmed all of Nadīyā with divine ecstasy.*"
+      "translation": "“To fulfill the promise of the Vedas, the son of a brāhmana, of golden complexion and bearing the name of Mahāprabhu, has descended along with His brother, the avadhūta. Together They have overwhelmed all of Nadīyā with divine ecstasy.*",
+      "deva": [
+        "वेदेर प्रतिज्ञा, राखिबार तरे,",
+        "रुक्म-वर्न विप्र-सुत",
+        "महाप्रभु नामे, नदीया माताय,",
+        "सङ्गे भाइ अवधूत"
+      ],
+      "bengali": [
+        "বেদের প্রতিজ্ঞা, রাখিবার তরে,",
+        "রুক্ম-বর্ন বিপ্র-সুত",
+        "মহাপ্রভু নামে, নদীযা মাতায,",
+        "সঙ্গে ভাই অবধূত"
+      ]
     },
     {
       "label": "5",
@@ -57,7 +107,19 @@
         "tārilo jagat, tumi-o jāiyā,",
         "loho nija-paritrān"
       ],
-      "translation": "“Śrī Caitanya Gosāi, who is Kṛṣṇa Himself, the son of Nanda, has saved the world by freely distributing the gift of His own holy name. Go to Him also and receive your deliverance.”"
+      "translation": "“Śrī Caitanya Gosāi, who is Kṛṣṇa Himself, the son of Nanda, has saved the world by freely distributing the gift of His own holy name. Go to Him also and receive your deliverance.”",
+      "deva": [
+        "नन्द-सुत जिनि, चैतन्य गोसाइ,",
+        "निज-नाम कोरि’ दान्",
+        "तारिलो जगत्, तुमि-ओ जाइया,",
+        "लोहो निज-परित्रान्"
+      ],
+      "bengali": [
+        "নন্দ-সুত জিনি, চৈতন্য গোসাই,",
+        "নিজ-নাম কোরি’ দান্",
+        "তারিলো জগত্, তুমি-ও জাইযা,",
+        "লোহো নিজ-পরিত্রান্"
+      ]
     },
     {
       "label": "6",
@@ -67,11 +129,25 @@
         "bhakativinoda, kāṅdiyā kāṅdiyā,",
         "āpana-kāhinī bole"
       ],
-      "translation": "Hearing those words, O Lord, Bhaktivinoda has come weeping and weeping to the soles of Your lotus feet and tells the story of his life."
+      "translation": "Hearing those words, O Lord, Bhaktivinoda has come weeping and weeping to the soles of Your lotus feet and tells the story of his life.",
+      "deva": [
+        "से कथा शुनिया, आसियाछि, नाथ!",
+        "तोमार चरण-तले",
+        "भकतिविनोद, काङ्दिया काङ्दिया,",
+        "आपन-काहिनी बोले"
+      ],
+      "bengali": [
+        "সে কথা শুনিযা, আসিযাছি, নাথ!",
+        "তোমার চরণ-তলে",
+        "ভকতিবিনোদ, কাঙ্দিযা কাঙ্দিযা,",
+        "আপন-কাহিনী বোলে"
+      ]
     }
   ],
   "source": {
     "name": "Bhaktivinoda Institute",
     "url": "https://bhaktivinodainstitute.org/dainya-song-seven/"
-  }
+  },
+  "titleDeva": "एमोन दुर्मति संसार भितोरे",
+  "titleBengali": "এমোন দুর্মতি সংসার ভিতোরে"
 }

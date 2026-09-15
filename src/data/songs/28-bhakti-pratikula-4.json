@@ -14,7 +14,15 @@
         "āmi to’ swānanda-sukhada-bāsī",
         "rādhikā-mādhava-caraṇa-dāsī"
       ],
-      "translation": "Oh I am a resident of Svānanda-sukhada-kuñja, and a maidservant of the lotus feet of Rādhikā and Mādhava."
+      "translation": "Oh I am a resident of Svānanda-sukhada-kuñja, and a maidservant of the lotus feet of Rādhikā and Mādhava.",
+      "deva": [
+        "आमि तो’ स्वानन्द-सुखद-बासी",
+        "राधिका-माधव-चरण-दासी"
+      ],
+      "bengali": [
+        "আমি তো’ স্বানন্দ-সুখদ-বাসী",
+        "রাধিকা-মাধব-চরণ-দাসী"
+      ]
     },
     {
       "label": "2",
@@ -22,7 +30,15 @@
         "duṅhāra milane ānanda kori",
         "duṅhāra viyoge duḥkhete mari"
       ],
-      "translation": "I happily rejoice at the union of the Divine Couple, and in Their separation I die in utter anguish."
+      "translation": "I happily rejoice at the union of the Divine Couple, and in Their separation I die in utter anguish.",
+      "deva": [
+        "दुङ्हार मिलने आनन्द कोरि",
+        "दुङ्हार वियोगे दुःखेते मरि"
+      ],
+      "bengali": [
+        "দুঙ্হার মিলনে আনন্দ কোরি",
+        "দুঙ্হার বিযোগে দুঃখেতে মরি"
+      ]
     },
     {
       "label": "3",
@@ -30,7 +46,15 @@
         "sakhī-sthalī nāhi heri nayane",
         "dekhile śaibyāke paraye mane"
       ],
-      "translation": "I never look at the area in Vraja called Sakhī-sthalī where Candrāvalī and her friends live. If I were to see that place it reminds me of Candrāvalī’s sharp-tongued gopī friend named Śaibyā."
+      "translation": "I never look at the area in Vraja called Sakhī-sthalī where Candrāvalī and her friends live. If I were to see that place it reminds me of Candrāvalī’s sharp-tongued gopī friend named Śaibyā.",
+      "deva": [
+        "सखी-स्थली नाहि हेरि नयने",
+        "देखिले शैब्याके परये मने"
+      ],
+      "bengali": [
+        "সখী-স্থলী নাহি হেরি নযনে",
+        "দেখিলে শৈব্যাকে পরযে মনে"
+      ]
     },
     {
       "label": "4",
@@ -38,7 +62,15 @@
         "je-je pratikūla candrāra sakhī",
         "prāne duḥkha pāi tāhāre dekhi’"
       ],
-      "translation": "I feel pain in my heart whenever I happen to catch sight of Candrāvalī’s proud girlfriends, for they are all inimical to Rādhā’s camp."
+      "translation": "I feel pain in my heart whenever I happen to catch sight of Candrāvalī’s proud girlfriends, for they are all inimical to Rādhā’s camp.",
+      "deva": [
+        "जे-जे प्रतिकूल चन्द्रार सखी",
+        "प्राने दुःख पाइ ताहारे देखि’"
+      ],
+      "bengali": [
+        "জে-জে প্রতিকূল চন্দ্রার সখী",
+        "প্রানে দুঃখ পাই তাহারে দেখি’"
+      ]
     },
     {
       "label": "5",
@@ -46,7 +78,15 @@
         "rādhikā-kuñja āṅdhāra kori’",
         "loite cāhe se rādhāra hari"
       ],
-      "translation": "Candrāvalī wants to take away Rādhā’s Lord Hari, thus causing the love-grove of Rādhikā to be overcast with the darkness of gloom."
+      "translation": "Candrāvalī wants to take away Rādhā’s Lord Hari, thus causing the love-grove of Rādhikā to be overcast with the darkness of gloom.",
+      "deva": [
+        "राधिका-कुञ्ज आङ्धार कोरि’",
+        "लोइते चाहे से राधार हरि"
+      ],
+      "bengali": [
+        "রাধিকা-কুঞ্জ আঙ্ধার কোরি’",
+        "লোইতে চাহে সে রাধার হরি"
+      ]
     },
     {
       "label": "6",
@@ -54,7 +94,15 @@
         "śrī-rādhā-govinda-milana-sukha",
         "pratikūla-jana nā heri mukha"
       ],
-      "translation": "I never look at the faces of those who wish to obstruct the joy of the union of Śrī Rādhā and Govinda."
+      "translation": "I never look at the faces of those who wish to obstruct the joy of the union of Śrī Rādhā and Govinda.",
+      "deva": [
+        "श्री-राधा-गोविन्द-मिलन-सुख",
+        "प्रतिकूल-जन ना हेरि मुख"
+      ],
+      "bengali": [
+        "শ্রী-রাধা-গোবিন্দ-মিলন-সুখ",
+        "প্রতিকূল-জন না হেরি মুখ"
+      ]
     },
     {
       "label": "7",
@@ -62,7 +110,15 @@
         "rādhā-pratikūla jateka jana-",
         "sambhāṣane kabhu nā hoy mana"
       ],
-      "translation": "Nor do I find any pleasure in conversing with those who are members of a camp opposed to Rādhā."
+      "translation": "Nor do I find any pleasure in conversing with those who are members of a camp opposed to Rādhā.",
+      "deva": [
+        "राधा-प्रतिकूल जतेक जन-",
+        "सम्भाषने कभु ना होय् मन"
+      ],
+      "bengali": [
+        "রাধা-প্রতিকূল জতেক জন-",
+        "সম্ভাষনে কভু না হোয্ মন"
+      ]
     },
     {
       "label": "8",
@@ -70,11 +126,21 @@
         "bhakativinoda śrī-rādhā-caraṇe",
         "saṅpeche parāna atīva jatane"
       ],
-      "translation": "Bhaktivinoda has entrusted his soul with great care unto the lotus feet of Śrīmatī Rādhārāṇī.Sixth Principle of Surrender: Bhakti-Anukūla-Mātra Kāryera"
+      "translation": "Bhaktivinoda has entrusted his soul with great care unto the lotus feet of Śrīmatī Rādhārāṇī.Sixth Principle of Surrender: Bhakti-Anukūla-Mātra Kāryera",
+      "deva": [
+        "भकतिविनोद श्री-राधा-चरणे",
+        "सङ्पेछे परान अतीव जतने"
+      ],
+      "bengali": [
+        "ভকতিবিনোদ শ্রী-রাধা-চরণে",
+        "সঙ্পেছে পরান অতীব জতনে"
+      ]
     }
   ],
   "source": {
     "name": "Bhaktivinoda Institute",
     "url": "https://bhaktivinodainstitute.org/bhakti-pratikula-bhava-varjana%e1%b9%85gikara-song-four/"
-  }
+  },
+  "titleDeva": "आमि तो’ स्वानन्द-सुखद-बासी",
+  "titleBengali": "আমি তো’ স্বানন্দ-সুখদ-বাসী"
 }

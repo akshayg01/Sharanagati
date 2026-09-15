@@ -52,6 +52,7 @@ export default {
         serif: ['"Cormorant Garamond"', 'Georgia', 'serif'],
         sans: ['Inter', 'system-ui', 'sans-serif'],
         deva: ['"Tiro Devanagari Sanskrit"', 'Georgia', 'serif'],
+        bengali: ['"Noto Serif Bengali"', 'Georgia', 'serif'],
       },
       keyframes: {
         'fade-in-up': {

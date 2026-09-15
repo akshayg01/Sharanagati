@@ -14,7 +14,15 @@
         "nivedana kori prabhu! tomāra caraṇe",
         "patita adhama āmi, jāne tri-bhuvane"
       ],
-      "translation": "I submit at Your lotus feet, O Lord, that I am fallen and most wretched. This fact is known to the three worlds."
+      "translation": "I submit at Your lotus feet, O Lord, that I am fallen and most wretched. This fact is known to the three worlds.",
+      "deva": [
+        "निवेदन कोरि प्रभु! तोमार चरणे",
+        "पतित अधम आमि, जाने त्रि-भुवने"
+      ],
+      "bengali": [
+        "নিবেদন কোরি প্রভু! তোমার চরণে",
+        "পতিত অধম আমি, জানে ত্রি-ভুবনে"
+      ]
     },
     {
       "label": "2",
@@ -22,7 +30,15 @@
         "āmā-sama pāpī nāhi jagat-bhitore",
         "mama sama aparādhī nāhiko saṁsāre"
       ],
-      "translation": "There is no sinner in the world more sinful than me. In the entire universe there is no offender whose offenses equal mine."
+      "translation": "There is no sinner in the world more sinful than me. In the entire universe there is no offender whose offenses equal mine.",
+      "deva": [
+        "आमा-सम पापी नाहि जगत्-भितोरे",
+        "मम सम अपराधी नाहिको संसारे"
+      ],
+      "bengali": [
+        "আমা-সম পাপী নাহি জগত্-ভিতোরে",
+        "মম সম অপরাধী নাহিকো সংসারে"
+      ]
     },
     {
       "label": "3",
@@ -30,7 +46,15 @@
         "sei saba pāpa āra aparādha, āmi",
         "parihāre pāi lajjā, saba jāno’ tumi"
       ],
-      "translation": "By attempting to clear myself of all these sins and offenses I am put to shame. All this is surely understood by You."
+      "translation": "By attempting to clear myself of all these sins and offenses I am put to shame. All this is surely understood by You.",
+      "deva": [
+        "सेइ सब पाप आर अपराध, आमि",
+        "परिहारे पाइ लज्जा, सब जानो’ तुमि"
+      ],
+      "bengali": [
+        "সেই সব পাপ আর অপরাধ, আমি",
+        "পরিহারে পাই লজ্জা, সব জানো’ তুমি"
+      ]
     },
     {
       "label": "4",
@@ -38,7 +62,15 @@
         "tumi binā kā’ra āmi loibo śaraṇ?",
         "tumi sarveśvareśvara, brajendra-nandan!"
       ],
-      "translation": "Of whom will I take shelter except for You? You are the Lord of all lords, O son of the King of Vraja!"
+      "translation": "Of whom will I take shelter except for You? You are the Lord of all lords, O son of the King of Vraja!",
+      "deva": [
+        "तुमि बिना का’र आमि लोइबो शरण्?",
+        "तुमि सर्वेश्वरेश्वर, ब्रजेन्द्र-नन्दन्!"
+      ],
+      "bengali": [
+        "তুমি বিনা কা’র আমি লোইবো শরণ্?",
+        "তুমি সর্বেশ্বরেশ্বর, ব্রজেন্দ্র-নন্দন্!"
+      ]
     },
     {
       "label": "5",
@@ -46,7 +78,15 @@
         "jagat tomāra nātha! tumi sarva-moy",
         "tomā prati aparādha tumi koro’ kṣoy"
       ],
-      "translation": "This world is Yours, O Lord, and You pervade all things in it. You dispel the sinful result of offenses committed against You."
+      "translation": "This world is Yours, O Lord, and You pervade all things in it. You dispel the sinful result of offenses committed against You.",
+      "deva": [
+        "जगत् तोमार नाथ! तुमि सर्व-मोय्",
+        "तोमा प्रति अपराध तुमि कोरो’ क्षोय्"
+      ],
+      "bengali": [
+        "জগত্ তোমার নাথ! তুমি সর্ব-মোয্",
+        "তোমা প্রতি অপরাধ তুমি কোরো’ ক্ষোয্"
+      ]
     },
     {
       "label": "6",
@@ -54,7 +94,15 @@
         "tumi to’ skhalita-pada janera āśroy",
         "tumi binā āra kibā āche, doyā-moy!"
       ],
-      "translation": "You alone are the shelter of those whose feet stumble off the proper path. Apart from You, what else exists, O merciful Lord?"
+      "translation": "You alone are the shelter of those whose feet stumble off the proper path. Apart from You, what else exists, O merciful Lord?",
+      "deva": [
+        "तुमि तो’ स्खलित-पद जनेर आश्रोय्",
+        "तुमि बिना आर किबा आछे, दोया-मोय्!"
+      ],
+      "bengali": [
+        "তুমি তো’ স্খলিত-পদ জনের আশ্রোয্",
+        "তুমি বিনা আর কিবা আছে, দোযা-মোয্!"
+      ]
     },
     {
       "label": "7",
@@ -62,7 +110,15 @@
         "sei-rūpa tava aparādhī jana jata",
         "tomāra śaraṇāgata hoibe satata"
       ],
-      "translation": "All persons like me who have offended You will ultimately seek to achieve Your shelter."
+      "translation": "All persons like me who have offended You will ultimately seek to achieve Your shelter.",
+      "deva": [
+        "सेइ-रूप तव अपराधी जन जत",
+        "तोमार शरणागत होइबे सतत"
+      ],
+      "bengali": [
+        "সেই-রূপ তব অপরাধী জন জত",
+        "তোমার শরণাগত হোইবে সতত"
+      ]
     },
     {
       "label": "8",
@@ -70,11 +126,21 @@
         "bhakativinoda ebe loiyā śaraṇ",
         "tuwā pade kore āj ātma-samarpan"
       ],
-      "translation": "Bhaktivinoda now takes full shelter of You and surrenders himself at Your lotus feet on this very day."
+      "translation": "Bhaktivinoda now takes full shelter of You and surrenders himself at Your lotus feet on this very day.",
+      "deva": [
+        "भकतिविनोद एबे लोइया शरण्",
+        "तुवा पदे कोरे आज् आत्म-समर्पन्"
+      ],
+      "bengali": [
+        "ভকতিবিনোদ এবে লোইযা শরণ্",
+        "তুবা পদে কোরে আজ্ আত্ম-সমর্পন্"
+      ]
     }
   ],
   "source": {
     "name": "Bhaktivinoda Institute",
     "url": "https://bhaktivinodainstitute.org/atma-nivedana-song-seven/"
-  }
+  },
+  "titleDeva": "निवेदन कोरि प्रभु तोमार चरणे",
+  "titleBengali": "নিবেদন কোরি প্রভু তোমার চরণে"
 }

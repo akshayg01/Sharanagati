@@ -14,7 +14,15 @@
         "tumi sarveśvareśvara, brajendra-kumāra!",
         "tomāra icchāya viśve sṛjana saṁhāra"
       ],
-      "translation": "O youthful son of the King of Vraja, You are Lord of all lords. According to Your will, creation and destruction take place in the universe."
+      "translation": "O youthful son of the King of Vraja, You are Lord of all lords. According to Your will, creation and destruction take place in the universe.",
+      "deva": [
+        "तुमि सर्वेश्वरेश्वर, ब्रजेन्द्र-कुमार!",
+        "तोमार इच्छाय विश्वे सृजन संहार"
+      ],
+      "bengali": [
+        "তুমি সর্বেশ্বরেশ্বর, ব্রজেন্দ্র-কুমার!",
+        "তোমার ইচ্ছায বিশ্বে সৃজন সংহার"
+      ]
     },
     {
       "label": "2",
@@ -22,7 +30,15 @@
         "tava icchā-mato brahmā korena sṛjana",
         "tava icchā-mato viṣnu korena pālana"
       ],
-      "translation": "According to Your will Lord Brahmā creates, and according to Your will Lord Viṣnu maintains."
+      "translation": "According to Your will Lord Brahmā creates, and according to Your will Lord Viṣnu maintains.",
+      "deva": [
+        "तव इच्छा-मतो ब्रह्मा कोरेन सृजन",
+        "तव इच्छा-मतो विष्नु कोरेन पालन"
+      ],
+      "bengali": [
+        "তব ইচ্ছা-মতো ব্রহ্মা কোরেন সৃজন",
+        "তব ইচ্ছা-মতো বিষ্নু কোরেন পালন"
+      ]
     },
     {
       "label": "3",
@@ -30,7 +46,15 @@
         "tava icchā-mate śiva korena saṁhāra",
         "tava icchā-mate māyā sṛje kārāgāra"
       ],
-      "translation": "According to Your will Lord Śiva destroys, and according to Your will Māyā constructs the prison house of this world."
+      "translation": "According to Your will Lord Śiva destroys, and according to Your will Māyā constructs the prison house of this world.",
+      "deva": [
+        "तव इच्छा-मते शिव कोरेन संहार",
+        "तव इच्छा-मते माया सृजे कारागार"
+      ],
+      "bengali": [
+        "তব ইচ্ছা-মতে শিব কোরেন সংহার",
+        "তব ইচ্ছা-মতে মাযা সৃজে কারাগার"
+      ]
     },
     {
       "label": "4",
@@ -38,7 +62,15 @@
         "tava icchā-mate jīver janama-maraṇa",
         "samṛddhi-nipāte duḥkha sukha-saṁghaṭana"
       ],
-      "translation": "According to Your will the living beings take birth and die, and according to Your will they meet with prosperity and ruin, happiness and sorrow."
+      "translation": "According to Your will the living beings take birth and die, and according to Your will they meet with prosperity and ruin, happiness and sorrow.",
+      "deva": [
+        "तव इच्छा-मते जीवेर् जनम-मरण",
+        "समृद्धि-निपाते दुःख सुख-संघटन"
+      ],
+      "bengali": [
+        "তব ইচ্ছা-মতে জীবের্ জনম-মরণ",
+        "সমৃদ্ধি-নিপাতে দুঃখ সুখ-সংঘটন"
+      ]
     },
     {
       "label": "5",
@@ -46,7 +78,15 @@
         "miche māyā-baddha jīva āśā-pāśe phire’",
         "tava icchā binā kichu korite nā pāre"
       ],
-      "translation": "The tiny soul bound up by Māyā vainly struggles in the fetters of worldly desire. Without Your sanction he is unable to do anything."
+      "translation": "The tiny soul bound up by Māyā vainly struggles in the fetters of worldly desire. Without Your sanction he is unable to do anything.",
+      "deva": [
+        "मिछे माया-बद्ध जीव आशा-पाशे फिरे’",
+        "तव इच्छा बिना किछु कोरिते ना पारे"
+      ],
+      "bengali": [
+        "মিছে মাযা-বদ্ধ জীব আশা-পাশে ফিরে’",
+        "তব ইচ্ছা বিনা কিছু কোরিতে না পারে"
+      ]
     },
     {
       "label": "6",
@@ -54,7 +94,15 @@
         "tumi to’ rākhaka ār pālaka āmāra",
         "tomāra caraṇa binā āśā nāhi āra"
       ],
-      "translation": "You are my only protector and maintainer. Except for Your lotus feet there is no other hope for me."
+      "translation": "You are my only protector and maintainer. Except for Your lotus feet there is no other hope for me.",
+      "deva": [
+        "तुमि तो’ राखक आर् पालक आमार",
+        "तोमार चरण बिना आशा नाहि आर"
+      ],
+      "bengali": [
+        "তুমি তো’ রাখক আর্ পালক আমার",
+        "তোমার চরণ বিনা আশা নাহি আর"
+      ]
     },
     {
       "label": "7",
@@ -62,7 +110,15 @@
         "nija-bala-ceṣṭā-prati bharasā chāḍiyā",
         "tomāra icchāya āchi nirbhara koriyā"
       ],
-      "translation": "No longer confident of my own strength and endeavor, I have become solely dependent on Your will."
+      "translation": "No longer confident of my own strength and endeavor, I have become solely dependent on Your will.",
+      "deva": [
+        "निज-बल-चेष्टा-प्रति भरसा छाडिया",
+        "तोमार इच्छाय आछि निर्भर कोरिया"
+      ],
+      "bengali": [
+        "নিজ-বল-চেষ্টা-প্রতি ভরসা ছাডিযা",
+        "তোমার ইচ্ছায আছি নির্ভর কোরিযা"
+      ]
     },
     {
       "label": "8",
@@ -70,11 +126,21 @@
         "bhakativinoda ati dīna akiñcana",
         "tomāra icchāya tā’r jīvana maraṇa"
       ],
-      "translation": "Bhaktivinoda is most poor, and his pride has been leveled. Now in accordance with Your will he lives and dies."
+      "translation": "Bhaktivinoda is most poor, and his pride has been leveled. Now in accordance with Your will he lives and dies.",
+      "deva": [
+        "भकतिविनोद अति दीन अकिञ्चन",
+        "तोमार इच्छाय ता’र् जीवन मरण"
+      ],
+      "bengali": [
+        "ভকতিবিনোদ অতি দীন অকিঞ্চন",
+        "তোমার ইচ্ছায তা’র্ জীবন মরণ"
+      ]
     }
   ],
   "source": {
     "name": "Bhaktivinoda Institute",
     "url": "https://bhaktivinodainstitute.org/goptrtve-varana-song-four/"
-  }
+  },
+  "titleDeva": "तुमि सर्वेश्वरेश्वर ब्रजेन्द्र-कुमार",
+  "titleBengali": "তুমি সর্বেশ্বরেশ্বর ব্রজেন্দ্র-কুমার"
 }

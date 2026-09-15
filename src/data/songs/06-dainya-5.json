@@ -15,7 +15,17 @@
         "viṣaya-halāhala, sudhā-bhāne piyaluṅ,",
         "āb avasāna dinamaṇi"
       ],
-      "translation": "O Lord! Please hear the story of my sadness. I drank the deadly poison of worldliness, pretending it was nectar, and now the sun is setting on the horizon of my life."
+      "translation": "O Lord! Please hear the story of my sadness. I drank the deadly poison of worldliness, pretending it was nectar, and now the sun is setting on the horizon of my life.",
+      "deva": [
+        "(प्रभु हे!) शुनो मोर् दुःखेर् काहिनी",
+        "विषय-हलाहल, सुधा-भाने पियलुङ्,",
+        "आब् अवसान दिनमणि"
+      ],
+      "bengali": [
+        "(প্রভু হে!) শুনো মোর্ দুঃখের্ কাহিনী",
+        "বিষয-হলাহল, সুধা-ভানে পিযলুঙ্,",
+        "আব্ অবসান দিনমণি"
+      ]
     },
     {
       "label": "2",
@@ -25,7 +35,19 @@
         "bhoga-baśe yauvane, ghara pāti’ bosiluṅ,",
         "suta-mita bāḍhalo anek"
       ],
-      "translation": "I spent my childhood in play, my youth in academic pursuit, and in me there arose no sense of discrimination. In young manhood I set up a household and settled down to the spell of material enjoyment while my children and friends quickly multiplied."
+      "translation": "I spent my childhood in play, my youth in academic pursuit, and in me there arose no sense of discrimination. In young manhood I set up a household and settled down to the spell of material enjoyment while my children and friends quickly multiplied.",
+      "deva": [
+        "खेला-रसे शैशव, पोढैते कैशोर,",
+        "गोवाओलुङ्, ना भेलो विवेक्",
+        "भोग-बशे यौवने, घर पाति’ बोसिलुङ्,",
+        "सुत-मित बाढलो अनेक्"
+      ],
+      "bengali": [
+        "খেলা-রসে শৈশব, পোঢৈতে কৈশোর,",
+        "গোবাওলুঙ্, না ভেলো বিবেক্",
+        "ভোগ-বশে যৌবনে, ঘর পাতি’ বোসিলুঙ্,",
+        "সুত-মিত বাঢলো অনেক্"
+      ]
     },
     {
       "label": "3",
@@ -35,7 +57,19 @@
         "sarvendriya durbala, kṣīna kalevara,",
         "bhogābhāve duḥkhita antar"
       ],
-      "translation": "Old age soon arrived, and all joys consequently departed. Subjected to the torments of disease, I am troubled and weak. All my senses are feeble now, my body is racked and exhausted, and my spirits are downcast in the absence of former sense pleasures."
+      "translation": "Old age soon arrived, and all joys consequently departed. Subjected to the torments of disease, I am troubled and weak. All my senses are feeble now, my body is racked and exhausted, and my spirits are downcast in the absence of former sense pleasures.",
+      "deva": [
+        "वृद्ध-काल आओलो, सब सुख भागलो,",
+        "पीडा-बशे होइनु कातर्",
+        "सर्वेन्द्रिय दुर्बल, क्षीन कलेवर,",
+        "भोगाभावे दुःखित अन्तर्"
+      ],
+      "bengali": [
+        "বৃদ্ধ-কাল আওলো, সব সুখ ভাগলো,",
+        "পীডা-বশে হোইনু কাতর্",
+        "সর্বেন্দ্রিয দুর্বল, ক্ষীন কলেবর,",
+        "ভোগাভাবে দুঃখিত অন্তর্"
+      ]
     },
     {
       "label": "4",
@@ -45,7 +79,19 @@
         "patita-bandhu, tuhuṅ, patitādhama hāma,",
         "kṛpāya uṭhāo tava pāy"
       ],
-      "translation": "Devoid of even a particle of enlightenment, cheated of the mellows of devotion-what help is there for me now? O Lord, You are the friend of the fallen. I am certainly fallen, the lowest of men. Please, therefore, in mercy lift me to Your lotus feet."
+      "translation": "Devoid of even a particle of enlightenment, cheated of the mellows of devotion-what help is there for me now? O Lord, You are the friend of the fallen. I am certainly fallen, the lowest of men. Please, therefore, in mercy lift me to Your lotus feet.",
+      "deva": [
+        "ज्ञान-लव-हीन, भक्ति-रसे वञ्छित,",
+        "आर मोर कि हबे उपाय्",
+        "पतित-बन्धु, तुहुङ्, पतिताधम हाम,",
+        "कृपाय उठाओ तव पाय्"
+      ],
+      "bengali": [
+        "জ্ঞান-লব-হীন, ভক্তি-রসে বঞ্ছিত,",
+        "আর মোর কি হবে উপায্",
+        "পতিত-বন্ধু, তুহুঙ্, পতিতাধম হাম,",
+        "কৃপায উঠাও তব পায্"
+      ]
     },
     {
       "label": "5",
@@ -55,11 +101,25 @@
         "tava pada-paṅkaja- sīdhu pibāoto,",
         "bhakativinoda karo pār"
       ],
-      "translation": "Were You to judge me now, You would find no good qualities. Have mercy and judge me not. Cause me to drink the honey of Your lotus feet and thereby deliver this Bhaktivinoda."
+      "translation": "Were You to judge me now, You would find no good qualities. Have mercy and judge me not. Cause me to drink the honey of Your lotus feet and thereby deliver this Bhaktivinoda.",
+      "deva": [
+        "विचारिते आबहि, गुन नाहि पाओबि,",
+        "कृपा कोरो, छोडतो विचार्",
+        "तव पद-पङ्कज- सीधु पिबाओतो,",
+        "भकतिविनोद करो पार्"
+      ],
+      "bengali": [
+        "বিচারিতে আবহি, গুন নাহি পাওবি,",
+        "কৃপা কোরো, ছোডতো বিচার্",
+        "তব পদ-পঙ্কজ- সীধু পিবাওতো,",
+        "ভকতিবিনোদ করো পার্"
+      ]
     }
   ],
   "source": {
     "name": "Bhaktivinoda Institute",
     "url": "https://bhaktivinodainstitute.org/dainya-song-five/"
-  }
+  },
+  "titleDeva": "प्रभु हे! शुनो मोर् दुःखेर् काहिनी",
+  "titleBengali": "প্রভু হে! শুনো মোর্ দুঃখের্ কাহিনী"
 }

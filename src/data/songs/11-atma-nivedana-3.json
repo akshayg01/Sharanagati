@@ -14,7 +14,15 @@
         "mānasa, deho, geho, jo kichu mor",
         "arpiluṅ tuwā pade, nanda-kiśor!"
       ],
-      "translation": "Mind, body, family, and whatever else may be mine, I have surrendered at Your lotus feet, O youthful son of Nanda!"
+      "translation": "Mind, body, family, and whatever else may be mine, I have surrendered at Your lotus feet, O youthful son of Nanda!",
+      "deva": [
+        "मानस, देहो, गेहो, जो किछु मोर्",
+        "अर्पिलुङ् तुवा पदे, नन्द-किशोर्!"
+      ],
+      "bengali": [
+        "মানস, দেহো, গেহো, জো কিছু মোর্",
+        "অর্পিলুঙ্ তুবা পদে, নন্দ-কিশোর্!"
+      ]
     },
     {
       "label": "2",
@@ -22,7 +30,15 @@
         "sampade vipade, jīvane-maraṇe",
         "dāy mama gelā, tuwā o-pada varaṇe"
       ],
-      "translation": "In good fortune or in bad, in life or in death, all my difficulties have disappeared by accepting those feet of Yours as my only shelter."
+      "translation": "In good fortune or in bad, in life or in death, all my difficulties have disappeared by accepting those feet of Yours as my only shelter.",
+      "deva": [
+        "सम्पदे विपदे, जीवने-मरणे",
+        "दाय् मम गेला, तुवा ओ-पद वरणे"
+      ],
+      "bengali": [
+        "সম্পদে বিপদে, জীবনে-মরণে",
+        "দায্ মম গেলা, তুবা ও-পদ বরণে"
+      ]
     },
     {
       "label": "3",
@@ -30,7 +46,15 @@
         "mārobi rākhobi jo icchā tohāra",
         "nitya-dāsa prati tuwā adhikāra"
       ],
-      "translation": "Slay me or protect me as You wish, for You have full authority over Your eternal servant."
+      "translation": "Slay me or protect me as You wish, for You have full authority over Your eternal servant.",
+      "deva": [
+        "मारोबि राखोबि जो इच्छा तोहार",
+        "नित्य-दास प्रति तुवा अधिकार"
+      ],
+      "bengali": [
+        "মারোবি রাখোবি জো ইচ্ছা তোহার",
+        "নিত্য-দাস প্রতি তুবা অধিকার"
+      ]
     },
     {
       "label": "4",
@@ -38,7 +62,15 @@
         "janmāobi moe icchā jadi tor",
         "bhakta-gṛhe jani janma hau mor"
       ],
-      "translation": "If it is Your wish that I be born again, then may I take birth in the home of Your devotee."
+      "translation": "If it is Your wish that I be born again, then may I take birth in the home of Your devotee.",
+      "deva": [
+        "जन्माओबि मोए इच्छा जदि तोर्",
+        "भक्त-गृहे जनि जन्म हौ मोर्"
+      ],
+      "bengali": [
+        "জন্মাওবি মোএ ইচ্ছা জদি তোর্",
+        "ভক্ত-গৃহে জনি জন্ম হৌ মোর্"
+      ]
     },
     {
       "label": "5",
@@ -46,7 +78,15 @@
         "kīṭa-janma hau jathā tuwā dās",
         "bahir-mukha brahmā-janme nāhi āś"
       ],
-      "translation": "May I be born again even as a worm, as long as I remain Your devotee. I have no desire to be born as a Brahmā averse to You.*"
+      "translation": "May I be born again even as a worm, as long as I remain Your devotee. I have no desire to be born as a Brahmā averse to You.*",
+      "deva": [
+        "कीट-जन्म हौ जथा तुवा दास्",
+        "बहिर्-मुख ब्रह्मा-जन्मे नाहि आश्"
+      ],
+      "bengali": [
+        "কীট-জন্ম হৌ জথা তুবা দাস্",
+        "বহির্-মুখ ব্রহ্মা-জন্মে নাহি আশ্"
+      ]
     },
     {
       "label": "6",
@@ -54,7 +94,15 @@
         "bhukti-mukti-spṛhā vihīna je bhakta",
         "labhaite tāṅko saṅga anurakta"
       ],
-      "translation": "I yearn for the company of that devotee who is completely devoid of all desire for worldly enjoyment or liberation."
+      "translation": "I yearn for the company of that devotee who is completely devoid of all desire for worldly enjoyment or liberation.",
+      "deva": [
+        "भुक्ति-मुक्ति-स्पृहा विहीन जे भक्त",
+        "लभैते ताङ्को सङ्ग अनुरक्त"
+      ],
+      "bengali": [
+        "ভুক্তি-মুক্তি-স্পৃহা বিহীন জে ভক্ত",
+        "লভৈতে তাঙ্কো সঙ্গ অনুরক্ত"
+      ]
     },
     {
       "label": "7",
@@ -62,7 +110,15 @@
         "janaka, jananī, dayita, tanay",
         "prabhu, guru, pati-tuhū sarva-moy"
       ],
-      "translation": "Father, mother, lover, son, Lord, preceptor, and husband-You are everything to me."
+      "translation": "Father, mother, lover, son, Lord, preceptor, and husband-You are everything to me.",
+      "deva": [
+        "जनक, जननी, दयित, तनय्",
+        "प्रभु, गुरु, पति-तुहू सर्व-मोय्"
+      ],
+      "bengali": [
+        "জনক, জননী, দযিত, তনয্",
+        "প্রভু, গুরু, পতি-তুহূ সর্ব-মোয্"
+      ]
     },
     {
       "label": "8",
@@ -70,11 +126,21 @@
         "bhakativinoda kohe, śuno kāna!",
         "rādhā-nātha! tuhuṅ hāmāra parāna"
       ],
-      "translation": "Bhaktivinoda says, “O Kāna, please hear me! O Lord of Rādhā, You are my life and soul!”"
+      "translation": "Bhaktivinoda says, “O Kāna, please hear me! O Lord of Rādhā, You are my life and soul!”",
+      "deva": [
+        "भकतिविनोद कोहे, शुनो कान!",
+        "राधा-नाथ! तुहुङ् हामार परान"
+      ],
+      "bengali": [
+        "ভকতিবিনোদ কোহে, শুনো কান!",
+        "রাধা-নাথ! তুহুঙ্ হামার পরান"
+      ]
     }
   ],
   "source": {
     "name": "Bhaktivinoda Institute",
     "url": "https://bhaktivinodainstitute.org/atma-nivedana-song-three/"
-  }
+  },
+  "titleDeva": "मानस देहो गेहो जो किछु मोर्",
+  "titleBengali": "মানস দেহো গেহো জো কিছু মোর্"
 }

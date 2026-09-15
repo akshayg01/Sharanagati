@@ -17,7 +17,21 @@
         "saṅgera lakṣana, ei chaya hoya,",
         "ihāte bhaktira prāna"
       ],
-      "translation": "O my Lord Hari! Offering and receiving gifts, giving and receiving spiritual food, revealing one’s thoughts, and making confidential inquiries-these are the six characteristics of loving association, and in them is found the very life of devotion. *"
+      "translation": "O my Lord Hari! Offering and receiving gifts, giving and receiving spiritual food, revealing one’s thoughts, and making confidential inquiries-these are the six characteristics of loving association, and in them is found the very life of devotion. *",
+      "deva": [
+        "हरि हे!",
+        "दान, प्रतिग्रह, मिथो गुप्त-कथा,",
+        "भक्षन, भोजन-दान",
+        "सङ्गेर लक्षन, एइ छय होय,",
+        "इहाते भक्तिर प्रान"
+      ],
+      "bengali": [
+        "হরি হে!",
+        "দান, প্রতিগ্রহ, মিথো গুপ্ত-কথা,",
+        "ভক্ষন, ভোজন-দান",
+        "সঙ্গের লক্ষন, এই ছয হোয,",
+        "ইহাতে ভক্তির প্রান"
+      ]
     },
     {
       "label": "2",
@@ -27,7 +41,19 @@
         "bhakti hārāinu, saṁsārī hoinu,",
         "sudūre rohile hari"
       ],
-      "translation": "I have failed to understand the truth, and by practicing these six activities with non-devotees, either knowingly or unknowingly, I lost all devotional inclination and have become a materialist. Consequently You, O Lord, still remain far away."
+      "translation": "I have failed to understand the truth, and by practicing these six activities with non-devotees, either knowingly or unknowingly, I lost all devotional inclination and have become a materialist. Consequently You, O Lord, still remain far away.",
+      "deva": [
+        "तत्त्व ना बुझिये, ज्ञाने वा अज्ञाने,",
+        "असते ए सब कोरि’",
+        "भक्ति हाराइनु, संसारी होइनु,",
+        "सुदूरे रोहिले हरि"
+      ],
+      "bengali": [
+        "তত্ত্ব না বুঝিযে, জ্ঞানে বা অজ্ঞানে,",
+        "অসতে এ সব কোরি’",
+        "ভক্তি হারাইনু, সংসারী হোইনু,",
+        "সুদূরে রোহিলে হরি"
+      ]
     },
     {
       "label": "3",
@@ -37,7 +63,19 @@
         "bhakti-mahā-devī, āmāra hṛdoya-",
         "āsane bosibe tabe"
       ],
-      "translation": "The day I cherish these activities of intimate association with the devotees of Śrī Kṛṣṇa, that very day the high goddess of devotion will take her seat upon the throne of my heart."
+      "translation": "The day I cherish these activities of intimate association with the devotees of Śrī Kṛṣṇa, that very day the high goddess of devotion will take her seat upon the throne of my heart.",
+      "deva": [
+        "कृष्ण-भक्त-जने, एइ सङ्ग-लक्षने,",
+        "आदर कोरिबो जबे",
+        "भक्ति-महा-देवी, आमार हृदोय-",
+        "आसने बोसिबे तबे"
+      ],
+      "bengali": [
+        "কৃষ্ণ-ভক্ত-জনে, এই সঙ্গ-লক্ষনে,",
+        "আদর কোরিবো জবে",
+        "ভক্তি-মহা-দেবী, আমার হৃদোয-",
+        "আসনে বোসিবে তবে"
+      ]
     },
     {
       "label": "4",
@@ -47,11 +85,25 @@
         "tava bhakta-jana-saṅga anukṣana,",
         "kabe vā hoibe hari!"
       ],
-      "translation": "When will I give up the company of those who are addicted to the company of materialistic women and those who are averse to You? And when will I cultivate the constant association of Your devotees, O Lord?"
+      "translation": "When will I give up the company of those who are addicted to the company of materialistic women and those who are averse to You? And when will I cultivate the constant association of Your devotees, O Lord?",
+      "deva": [
+        "योषित्-सङ्गी-जन, कृष्णा-भक्त आर,",
+        "दुङ्हु-सङ्ग-परिहरि’",
+        "तव भक्त-जन-सङ्ग अनुक्षन,",
+        "कबे वा होइबे हरि!"
+      ],
+      "bengali": [
+        "যোষিত্-সঙ্গী-জন, কৃষ্ণা-ভক্ত আর,",
+        "দুঙ্হু-সঙ্গ-পরিহরি’",
+        "তব ভক্ত-জন-সঙ্গ অনুক্ষন,",
+        "কবে বা হোইবে হরি!"
+      ]
     }
   ],
   "source": {
     "name": "Bhaktivinoda Institute",
     "url": "https://bhaktivinodainstitute.org/bhajana-lalasa-song-four/"
-  }
+  },
+  "titleDeva": "दान, प्रतिग्रह, मिथो गुप्त-कथा",
+  "titleBengali": "দান, প্রতিগ্রহ, মিথো গুপ্ত-কথা"
 }

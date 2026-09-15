@@ -17,7 +17,21 @@
         "mānase ādara, koribo tāhāre,",
         "jāni’ nija-jana tāya"
       ],
-      "translation": "O my Lord Hari! Within my mind I will honor and consider as my own relative one who naturally avoids the offense of bad association and sings Your holy name, be he formally initiated or not. *"
+      "translation": "O my Lord Hari! Within my mind I will honor and consider as my own relative one who naturally avoids the offense of bad association and sings Your holy name, be he formally initiated or not. *",
+      "deva": [
+        "हरि हे!",
+        "सङ्ग-दोष-शून्य, दीक्षितादीक्षित,",
+        "जदि तव नाम गा’य",
+        "मानसे आदर, कोरिबो ताहारे,",
+        "जानि’ निज-जन ताय"
+      ],
+      "bengali": [
+        "হরি হে!",
+        "সঙ্গ-দোষ-শূন্য, দীক্ষিতাদীক্ষিত,",
+        "জদি তব নাম গা’য",
+        "মানসে আদর, কোরিবো তাহারে,",
+        "জানি’ নিজ-জন তায"
+      ]
     },
     {
       "label": "2",
@@ -27,7 +41,19 @@
         "ananya-bhajane, vijña yei jana,",
         "tāhāre sevibo, hari!"
       ],
-      "translation": "I offer obeisances to that devotee who is initiated and worships Your lotus feet, and I will faithfully serve, O Hari, a devotee who is fixed in unalloyed devotion to You."
+      "translation": "I offer obeisances to that devotee who is initiated and worships Your lotus feet, and I will faithfully serve, O Hari, a devotee who is fixed in unalloyed devotion to You.",
+      "deva": [
+        "दीक्षित होइया, भजे तुवा पद,",
+        "ताहारे प्रनति कोरि",
+        "अनन्य-भजने, विज्ञ येइ जन,",
+        "ताहारे सेविबो, हरि!"
+      ],
+      "bengali": [
+        "দীক্ষিত হোইযা, ভজে তুবা পদ,",
+        "তাহারে প্রনতি কোরি",
+        "অনন্য-ভজনে, বিজ্ঞ যেই জন,",
+        "তাহারে সেবিবো, হরি!"
+      ]
     },
     {
       "label": "3",
@@ -37,7 +63,19 @@
         "āpanāke dhanya, se saṅga pāiyā,",
         "caritārtha hoiluṅ jāni"
       ],
-      "translation": "I consider myself greatly fortunate to even see that devotee who regards all living beings equally. Obtaining his association I consider myself fortunate, for I know that I have become successful in life."
+      "translation": "I consider myself greatly fortunate to even see that devotee who regards all living beings equally. Obtaining his association I consider myself fortunate, for I know that I have become successful in life.",
+      "deva": [
+        "सर्व-भूते सम, ये भक्तेर मति,",
+        "ताहार दर्शने मानि",
+        "आपनाके धन्य, से सङ्ग पाइया,",
+        "चरितार्थ होइलुङ् जानि"
+      ],
+      "bengali": [
+        "সর্ব-ভূতে সম, যে ভক্তের মতি,",
+        "তাহার দর্শনে মানি",
+        "আপনাকে ধন্য, সে সঙ্গ পাইযা,",
+        "চরিতার্থ হোইলুঙ্ জানি"
+      ]
     },
     {
       "label": "4",
@@ -47,11 +85,25 @@
         "kabe saṁsāra-sindhu-pāra ho’ye,",
         "tava braja-pure jā’bo"
       ],
-      "translation": "When will my attitude toward the Vaiṣṇavas become simple and innocent? And when will I cross over this ocean of worldly existence and reach Your transcendental abode of Vraja?"
+      "translation": "When will my attitude toward the Vaiṣṇavas become simple and innocent? And when will I cross over this ocean of worldly existence and reach Your transcendental abode of Vraja?",
+      "deva": [
+        "निष्कपट-मति, वैष्णवेर प्रति,",
+        "एइ धर्म कबे पा’बो",
+        "कबे संसार-सिन्धु-पार हो’ये,",
+        "तव ब्रज-पुरे जा’बो"
+      ],
+      "bengali": [
+        "নিষ্কপট-মতি, বৈষ্ণবের প্রতি,",
+        "এই ধর্ম কবে পা’বো",
+        "কবে সংসার-সিন্ধু-পার হো’যে,",
+        "তব ব্রজ-পুরে জা’বো"
+      ]
     }
   ],
   "source": {
     "name": "Bhaktivinoda Institute",
     "url": "https://bhaktivinodainstitute.org/bhajana-lalasa-song-five/"
-  }
+  },
+  "titleDeva": "सङ्ग-दोष-शून्य, दीक्षितादीक्षित",
+  "titleBengali": "সঙ্গ-দোষ-শূন্য, দীক্ষিতাদীক্ষিত"
 }

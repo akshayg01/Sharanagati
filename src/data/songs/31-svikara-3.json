@@ -16,7 +16,19 @@
         "bhakata-sevā, parama-siddhi,",
         "prema-latikāra mūla"
       ],
-      "translation": "Dust from the lotus feet of pure devotees is conducive to devotional service, while service to the Vaiṣṇavas is itself the supreme perfection as well as the root of the tender creeper of divine love."
+      "translation": "Dust from the lotus feet of pure devotees is conducive to devotional service, while service to the Vaiṣṇavas is itself the supreme perfection as well as the root of the tender creeper of divine love.",
+      "deva": [
+        "शुद्ध-भकत-चरण-रेणु,",
+        "भजन-अनुकूल",
+        "भकत-सेवा, परम-सिद्धि,",
+        "प्रेम-लतिकार मूल"
+      ],
+      "bengali": [
+        "শুদ্ধ-ভকত-চরণ-রেণু,",
+        "ভজন-অনুকূল",
+        "ভকত-সেবা, পরম-সিদ্ধি,",
+        "প্রেম-লতিকার মূল"
+      ]
     },
     {
       "label": "2",
@@ -26,7 +38,19 @@
         "kṛṣṇa-vasati, vasati boli’,",
         "parama ādare bori"
       ],
-      "translation": "I observe with great care the holy days commemorating the pastimes of Lord Mādhava, for they are the mother of devotion. As my dwelling place I choose with the greatest of reverence and love the transcendental abode of Śrī Kṛṣṇa."
+      "translation": "I observe with great care the holy days commemorating the pastimes of Lord Mādhava, for they are the mother of devotion. As my dwelling place I choose with the greatest of reverence and love the transcendental abode of Śrī Kṛṣṇa.",
+      "deva": [
+        "माधव-तिथि, भक्ति-जननी,",
+        "जतने पालन कोरि",
+        "कृष्ण-वसति, वसति बोलि’,",
+        "परम आदरे बोरि"
+      ],
+      "bengali": [
+        "মাধব-তিথি, ভক্তি-জননী,",
+        "জতনে পালন কোরি",
+        "কৃষ্ণ-বসতি, বসতি বোলি’,",
+        "পরম আদরে বোরি"
+      ]
     },
     {
       "label": "3",
@@ -36,7 +60,19 @@
         "se-saba sthāna, heribo āmi,",
         "pranayi-bhakata-saṅge"
       ],
-      "translation": "All those places where my Lord Gaura-sundara traveled for pastimes I will visit in the company of loving devotees."
+      "translation": "All those places where my Lord Gaura-sundara traveled for pastimes I will visit in the company of loving devotees.",
+      "deva": [
+        "गौर् आमार, ये-सब स्थाने,",
+        "कोरलो भ्रमण रङ्गे",
+        "से-सब स्थान, हेरिबो आमि,",
+        "प्रनयि-भकत-सङ्गे"
+      ],
+      "bengali": [
+        "গৌর্ আমার, যে-সব স্থানে,",
+        "কোরলো ভ্রমণ রঙ্গে",
+        "সে-সব স্থান, হেরিবো আমি,",
+        "প্রনযি-ভকত-সঙ্গে"
+      ]
     },
     {
       "label": "4",
@@ -46,7 +82,19 @@
         "gaura-vihita, kīrtana śuni’,",
         "ānande hṛdoya nāce"
       ],
-      "translation": "My mind ever longs for the opportunity to hear the music of the mṛdaṅga. Upon hearing the kind of kīrtan ordained by Lord Gaura-candra, my heart dances in ecstasy.*"
+      "translation": "My mind ever longs for the opportunity to hear the music of the mṛdaṅga. Upon hearing the kind of kīrtan ordained by Lord Gaura-candra, my heart dances in ecstasy.*",
+      "deva": [
+        "मृदङ्ग-वाद्य, शुनिते मन,",
+        "अबसर सदा याचे",
+        "गौर-विहित, कीर्तन शुनि’,",
+        "आनन्दे हृदोय नाचे"
+      ],
+      "bengali": [
+        "মৃদঙ্গ-বাদ্য, শুনিতে মন,",
+        "অবসর সদা যাচে",
+        "গৌর-বিহিত, কীর্তন শুনি’,",
+        "আনন্দে হৃদোয নাচে"
+      ]
     },
     {
       "label": "5",
@@ -56,7 +104,19 @@
         "prasāda-sevā, korite hoya,",
         "sakala prapañca jaya"
       ],
-      "translation": "Beholding the Deity forms of the Divine Couple, Śrī Śrī Rādhā-Kṛṣṇa, I feel the greatest joy. By honoring the Lord’s prasād, I conquer over all worldly illusions."
+      "translation": "Beholding the Deity forms of the Divine Couple, Śrī Śrī Rādhā-Kṛṣṇa, I feel the greatest joy. By honoring the Lord’s prasād, I conquer over all worldly illusions.",
+      "deva": [
+        "युगल-मूर्ति, देखिया मोर,",
+        "परम-आनन्द होय",
+        "प्रसाद-सेवा, कोरिते होय,",
+        "सकल प्रपञ्च जय"
+      ],
+      "bengali": [
+        "যুগল-মূর্তি, দেখিযা মোর,",
+        "পরম-আনন্দ হোয",
+        "প্রসাদ-সেবা, কোরিতে হোয,",
+        "সকল প্রপঞ্চ জয"
+      ]
     },
     {
       "label": "6",
@@ -66,7 +126,19 @@
         "caraṇa-sīdhu, dekhiyā gaṅgā,",
         "sukha nā sīmā pāya"
       ],
-      "translation": "Goloka Vṛndāvana appears in my home whenever I see the worship service of Lord Hari taking place there. When I see the Gaṅgā, that river of nectar emanating from the lotus feet of the Lord, my happiness knows no bounds."
+      "translation": "Goloka Vṛndāvana appears in my home whenever I see the worship service of Lord Hari taking place there. When I see the Gaṅgā, that river of nectar emanating from the lotus feet of the Lord, my happiness knows no bounds.",
+      "deva": [
+        "ये-दिन गृहे, भजन देखि,",
+        "गृहेते गोलोक भाय",
+        "चरण-सीधु, देखिया गङ्गा,",
+        "सुख ना सीमा पाय"
+      ],
+      "bengali": [
+        "যে-দিন গৃহে, ভজন দেখি,",
+        "গৃহেতে গোলোক ভায",
+        "চরণ-সীধু, দেখিযা গঙ্গা,",
+        "সুখ না সীমা পায"
+      ]
     },
     {
       "label": "7",
@@ -76,7 +148,19 @@
         "gaura-priya, śāka-sevane,",
         "jīvana sārthaka māni"
       ],
-      "translation": "The sight of the holy tulasī tree soothes my soul, for I know she gives pleasure to Lord Mādhava. By tasting the green leafy preparation named śāk, a great favorite of Lord Gaurāṅga’s, I consider life worthwhile.**"
+      "translation": "The sight of the holy tulasī tree soothes my soul, for I know she gives pleasure to Lord Mādhava. By tasting the green leafy preparation named śāk, a great favorite of Lord Gaurāṅga’s, I consider life worthwhile.**",
+      "deva": [
+        "तुलसी देखि’, जुडाय प्रान,",
+        "माधव-तोषनी जानि’",
+        "गौर-प्रिय, शाक-सेवने,",
+        "जीवन सार्थक मानि"
+      ],
+      "bengali": [
+        "তুলসী দেখি’, জুডায প্রান,",
+        "মাধব-তোষনী জানি’",
+        "গৌর-প্রিয, শাক-সেবনে,",
+        "জীবন সার্থক মানি"
+      ]
     },
     {
       "label": "8",
@@ -86,11 +170,25 @@
         "prati-divase, parama-sukhe,",
         "swīkāra koroye tāhā"
       ],
-      "translation": "Whatever Bhaktivinoda obtains that is favorable for the service of Śrī Kṛṣṇa he accepts every day with the greatest joy."
+      "translation": "Whatever Bhaktivinoda obtains that is favorable for the service of Śrī Kṛṣṇa he accepts every day with the greatest joy.",
+      "deva": [
+        "भकतिविनोद, कृष्ण-भजने,",
+        "अनुकूल पाय जाहा",
+        "प्रति-दिवसे, परम-सुखे,",
+        "स्वीकार कोरोये ताहा"
+      ],
+      "bengali": [
+        "ভকতিবিনোদ, কৃষ্ণ-ভজনে,",
+        "অনুকূল পায জাহা",
+        "প্রতি-দিবসে, পরম-সুখে,",
+        "স্বীকার কোরোযে তাহা"
+      ]
     }
   ],
   "source": {
     "name": "Bhaktivinoda Institute",
     "url": "https://bhaktivinodainstitute.org/svikara-song-three/"
-  }
+  },
+  "titleDeva": "शुद्ध-भकत-चरण-रेणु",
+  "titleBengali": "শুদ্ধ-ভকত-চরণ-রেণু"
 }

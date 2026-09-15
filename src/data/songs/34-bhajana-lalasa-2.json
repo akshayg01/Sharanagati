@@ -17,7 +17,21 @@
         "āno-adhikāra, niyama āgrahe,",
         "asat-saṅga-saṁghaṭane"
       ],
-      "translation": "O my Lord Hari! I have become absorbed in accumulating wealth and endeavoring for material possessions. I am addicted to idle conversations on topics apart from You. I mistakenly accept duties apart from my own qualifications, and am always eager to adhere to the letter of the law. This is the consequence of associating with worldly men. *"
+      "translation": "O my Lord Hari! I have become absorbed in accumulating wealth and endeavoring for material possessions. I am addicted to idle conversations on topics apart from You. I mistakenly accept duties apart from my own qualifications, and am always eager to adhere to the letter of the law. This is the consequence of associating with worldly men. *",
+      "deva": [
+        "हरि हे!",
+        "अर्थेर सञ्चये, विषय-प्रयासे,",
+        "आनो-कथा-प्रजल्पने",
+        "आनो-अधिकार, नियम आग्रहे,",
+        "असत्-सङ्ग-संघटने"
+      ],
+      "bengali": [
+        "হরি হে!",
+        "অর্থের সঞ্চযে, বিষয-প্রযাসে,",
+        "আনো-কথা-প্রজল্পনে",
+        "আনো-অধিকার, নিযম আগ্রহে,",
+        "অসত্-সঙ্গ-সংঘটনে"
+      ]
     },
     {
       "label": "2",
@@ -27,7 +41,19 @@
         "e hṛdoye mātro, para-hiṁsā, mada,",
         "pratiṣṭhā, śaṭhatā sphure"
       ],
-      "translation": "I remain deeply absorbed in the quicksand of ever-changing, uncertain opinions. Therefore, devotion to You has remained distant from me. In this heart of mine dwells only envy and malice towards others, false pride, the desire for fame and honor, and deceitfulness."
+      "translation": "I remain deeply absorbed in the quicksand of ever-changing, uncertain opinions. Therefore, devotion to You has remained distant from me. In this heart of mine dwells only envy and malice towards others, false pride, the desire for fame and honor, and deceitfulness.",
+      "deva": [
+        "अस्थिर सिद्धान्ते, रोहिनु मोजिया,",
+        "हरि-भक्ति रोइलो दूरे",
+        "ए हृदोये मात्रो, पर-हिंसा, मद,",
+        "प्रतिष्ठा, शठता स्फुरे"
+      ],
+      "bengali": [
+        "অস্থির সিদ্ধান্তে, রোহিনু মোজিযা,",
+        "হরি-ভক্তি রোইলো দূরে",
+        "এ হৃদোযে মাত্রো, পর-হিংসা, মদ,",
+        "প্রতিষ্ঠা, শঠতা স্ফুরে"
+      ]
     },
     {
       "label": "3",
@@ -37,7 +63,19 @@
         "janama biphala, hoilo āmāra,",
         "ekhona ki kori, hari!"
       ],
-      "translation": "I have not been able to give up any of these inclinations. Thus my own faults have been my downfall. My birth as a human being has been totally wasted. O Lord Hari, what am I to do now?"
+      "translation": "I have not been able to give up any of these inclinations. Thus my own faults have been my downfall. My birth as a human being has been totally wasted. O Lord Hari, what am I to do now?",
+      "deva": [
+        "ए सब आग्रह, छाडिते नारिनु,",
+        "आपन दोषते मरि",
+        "जनम बिफल, होइलो आमार,",
+        "एखोन कि कोरि, हरि!"
+      ],
+      "bengali": [
+        "এ সব আগ্রহ, ছাডিতে নারিনু,",
+        "আপন দোষতে মরি",
+        "জনম বিফল, হোইলো আমার,",
+        "এখোন কি কোরি, হরি!"
+      ]
     },
     {
       "label": "4",
@@ -47,11 +85,25 @@
         "se sambandha dhori’, tomāra caraṇe,",
         "śaraṇa loinu hāma"
       ],
-      "translation": "I am indeed fallen (patita); but Your pure holy name is Patita-pāvana – the savior of the fallen. Clinging to our relationship as implied by that holy name, I have taken shelter of Your lotus feet."
+      "translation": "I am indeed fallen (patita); but Your pure holy name is Patita-pāvana – the savior of the fallen. Clinging to our relationship as implied by that holy name, I have taken shelter of Your lotus feet.",
+      "deva": [
+        "आमि तो’ पतित, पतित-पावन,",
+        "तोमार पवित्र नाम",
+        "से सम्बन्ध धोरि’, तोमार चरणे,",
+        "शरण लोइनु हाम"
+      ],
+      "bengali": [
+        "আমি তো’ পতিত, পতিত-পাবন,",
+        "তোমার পবিত্র নাম",
+        "সে সম্বন্ধ ধোরি’, তোমার চরণে,",
+        "শরণ লোইনু হাম"
+      ]
     }
   ],
   "source": {
     "name": "Bhaktivinoda Institute",
     "url": "https://bhaktivinodainstitute.org/bhajana-lalasa-song-two/"
-  }
+  },
+  "titleDeva": "अर्थेर सञ्चये, विषय-प्रयासे",
+  "titleBengali": "অর্থের সঞ্চযে, বিষয-প্রযাসে"
 }

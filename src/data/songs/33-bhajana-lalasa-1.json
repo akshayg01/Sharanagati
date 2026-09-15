@@ -1,4 +1,4 @@
-    {
+{
   "slug": "bhajana-lalasa-1",
   "section": "bhajana-lalasa",
   "order": 33,
@@ -17,7 +17,21 @@
         "agatira gati, caraṇe śaraṇa,",
         "tomāya korinu sār"
       ],
-      "translation": "O my Lord Hari! Having fallen into the illusion of this world, thus rendered helpless, I see no other means of deliverance but You. Since You are the only recourse for the helpless, I accept the shelter of Your lotus feet as most essential."
+      "translation": "O my Lord Hari! Having fallen into the illusion of this world, thus rendered helpless, I see no other means of deliverance but You. Since You are the only recourse for the helpless, I accept the shelter of Your lotus feet as most essential.",
+      "deva": [
+        "हरि हे!",
+        "प्रपञ्चे पोडिया, अगति होइया,",
+        "ना देखि उपाय आर्",
+        "अगतिर गति, चरणे शरण,",
+        "तोमाय कोरिनु सार्"
+      ],
+      "bengali": [
+        "হরি হে!",
+        "প্রপঞ্চে পোডিযা, অগতি হোইযা,",
+        "না দেখি উপায আর্",
+        "অগতির গতি, চরণে শরণ,",
+        "তোমায কোরিনু সার্"
+      ]
     },
     {
       "label": "2",
@@ -27,7 +41,19 @@
         "tumi kṛpā-moya, āmi to’ kāṅgāla,",
         "ahaitukī kṛpā cāi"
       ],
-      "translation": "I have no background of pious activities, nor any knowledge, nor any regulated devotional practice. But You are full of compassion and kindness; therefore I, being indeed destitute, solicit Your causeless mercy."
+      "translation": "I have no background of pious activities, nor any knowledge, nor any regulated devotional practice. But You are full of compassion and kindness; therefore I, being indeed destitute, solicit Your causeless mercy.",
+      "deva": [
+        "करम गेयान, किछु नाहि मोर,",
+        "साधन भजन नाइ",
+        "तुमि कृपा-मोय, आमि तो’ काङ्गाल,",
+        "अहैतुकी कृपा चाइ"
+      ],
+      "bengali": [
+        "করম গেযান, কিছু নাহি মোর,",
+        "সাধন ভজন নাই",
+        "তুমি কৃপা-মোয, আমি তো’ কাঙ্গাল,",
+        "অহৈতুকী কৃপা চাই"
+      ]
     },
     {
       "label": "3",
@@ -37,7 +63,19 @@
         "miliyā e saba, saṁsāre bhāsā’ye,",
         "diteche paramodvega"
       ],
-      "translation": "The powerful urges of speech, mind, anger, tongue, belly, and genitals have banded together to cast me adrift on the sea of this material world, thus causing me grievous trouble. *"
+      "translation": "The powerful urges of speech, mind, anger, tongue, belly, and genitals have banded together to cast me adrift on the sea of this material world, thus causing me grievous trouble. *",
+      "deva": [
+        "वाक्य-मनो-वेग, क्रोध-जिह्वा-वेग,",
+        "उदर-उपस्थ-वेग",
+        "मिलिया ए सब, संसारे भासा’ये,",
+        "दितेछे परमोद्वेग"
+      ],
+      "bengali": [
+        "বাক্য-মনো-বেগ, ক্রোধ-জিহ্বা-বেগ,",
+        "উদর-উপস্থ-বেগ",
+        "মিলিযা এ সব, সংসারে ভাসা’যে,",
+        "দিতেছে পরমোদ্বেগ"
+      ]
     },
     {
       "label": "4",
@@ -47,11 +85,25 @@
         "anāthera nātha! ḍāki tava nāma,",
         "ekhona bharasā tumi"
       ],
-      "translation": "After numerous endeavors to subdue these material demands, I have completely given up all hope. O Lord of the destitute! I call upon Your holy name, for now You are my only hope. **"
+      "translation": "After numerous endeavors to subdue these material demands, I have completely given up all hope. O Lord of the destitute! I call upon Your holy name, for now You are my only hope. **",
+      "deva": [
+        "अनेक जतने, से सब दमने,",
+        "छाडियाछि आशा आमि",
+        "अनाथेर नाथ! डाकि तव नाम,",
+        "एखोन भरसा तुमि"
+      ],
+      "bengali": [
+        "অনেক জতনে, সে সব দমনে,",
+        "ছাডিযাছি আশা আমি",
+        "অনাথের নাথ! ডাকি তব নাম,",
+        "এখোন ভরসা তুমি"
+      ]
     }
   ],
   "source": {
     "name": "Bhaktivinoda Institute",
     "url": "https://bhaktivinodainstitute.org/bhajana-lalasa-song-one/"
-  }
+  },
+  "titleDeva": "प्रपञ्चे पोडिया, अगति होइया",
+  "titleBengali": "প্রপঞ্চে পোডিযা, অগতি হোইযা"
 }

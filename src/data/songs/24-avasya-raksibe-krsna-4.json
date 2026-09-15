@@ -14,7 +14,15 @@
         "choḍato puruṣa-abhimān",
         "kiṅkorī hoiluṅ āji, kān!"
       ],
-      "translation": "I give up the vanity of the error that I am a male. Today I have become Your faithful maidservant, O Kāna!"
+      "translation": "I give up the vanity of the error that I am a male. Today I have become Your faithful maidservant, O Kāna!",
+      "deva": [
+        "छोडतो पुरुष-अभिमान्",
+        "किङ्कोरी होइलुङ् आजि, कान्!"
+      ],
+      "bengali": [
+        "ছোডতো পুরুষ-অভিমান্",
+        "কিঙ্কোরী হোইলুঙ্ আজি, কান্!"
+      ]
     },
     {
       "label": "2",
@@ -22,7 +30,15 @@
         "baraja-bipine sakhī-sāth",
         "sevana korobuṅ, rādhā-nāth!"
       ],
-      "translation": "In the groves of Vraja I will render personal service as a follower of one of the confidential sakhīs, O Lord of Rādhā!"
+      "translation": "In the groves of Vraja I will render personal service as a follower of one of the confidential sakhīs, O Lord of Rādhā!",
+      "deva": [
+        "बरज-बिपिने सखी-साथ्",
+        "सेवन कोरोबुङ्, राधा-नाथ्!"
+      ],
+      "bengali": [
+        "বরজ-বিপিনে সখী-সাথ্",
+        "সেবন কোরোবুঙ্, রাধা-নাথ্!"
+      ]
     },
     {
       "label": "3",
@@ -30,7 +46,15 @@
         "kusume gāṅthobuṅ hār",
         "tulasī-maṇi-mañjarī tār"
       ],
-      "translation": "I will string together a garland of forest flowers, in which tulasī buds shall be the jewelled pendants."
+      "translation": "I will string together a garland of forest flowers, in which tulasī buds shall be the jewelled pendants.",
+      "deva": [
+        "कुसुमे गाङ्थोबुङ् हार्",
+        "तुलसी-मणि-मञ्जरी तार्"
+      ],
+      "bengali": [
+        "কুসুমে গাঙ্থোবুঙ্ হার্",
+        "তুলসী-মণি-মঞ্জরী তার্"
+      ]
     },
     {
       "label": "4",
@@ -38,7 +62,15 @@
         "jatane deobuṅ sakhī-kare",
         "hāte laobo sakhī ādare"
       ],
-      "translation": "With utmost care I will place the garland in the hands of my superior sakhī, and she will take it out of my hands with loving regard."
+      "translation": "With utmost care I will place the garland in the hands of my superior sakhī, and she will take it out of my hands with loving regard.",
+      "deva": [
+        "जतने देओबुङ् सखी-करे",
+        "हाते लओबो सखी आदरे"
+      ],
+      "bengali": [
+        "জতনে দেওবুঙ্ সখী-করে",
+        "হাতে লওবো সখী আদরে"
+      ]
     },
     {
       "label": "5",
@@ -46,7 +78,15 @@
         "sakhī dibo tuwā duhuk gale",
         "dūrato herobuṅ kutūhale"
       ],
-      "translation": "Then she will place the garland around both of Your necks, while from afar I watch in wonder."
+      "translation": "Then she will place the garland around both of Your necks, while from afar I watch in wonder.",
+      "deva": [
+        "सखी दिबो तुवा दुहुक् गले",
+        "दूरतो हेरोबुङ् कुतूहले"
+      ],
+      "bengali": [
+        "সখী দিবো তুবা দুহুক্ গলে",
+        "দূরতো হেরোবুঙ্ কুতূহলে"
+      ]
     },
     {
       "label": "6",
@@ -54,7 +94,15 @@
         "sakhī kahabo,-“śuno sundarī!",
         "rahobi kuñje mama kiṅkorī"
       ],
-      "translation": "The confidante will then say to me, “Listen, O beautiful one, you shall remain in this grove as my attendant."
+      "translation": "The confidante will then say to me, “Listen, O beautiful one, you shall remain in this grove as my attendant.",
+      "deva": [
+        "सखी कहबो,-“शुनो सुन्दरी!",
+        "रहोबि कुञ्जे मम किङ्कोरी"
+      ],
+      "bengali": [
+        "সখী কহবো,-“শুনো সুন্দরী!",
+        "রহোবি কুঞ্জে মম কিঙ্কোরী"
+      ]
     },
     {
       "label": "7",
@@ -62,7 +110,15 @@
         "gāṅthobi mālā mano-hārinī",
         "niti rādhā-kṛṣṇa-vimohinī"
       ],
-      "translation": "“Daily you will string together beautiful flower garlands that will enchant Rādhā and Kṛṣṇa."
+      "translation": "“Daily you will string together beautiful flower garlands that will enchant Rādhā and Kṛṣṇa.",
+      "deva": [
+        "गाङ्थोबि माला मनो-हारिनी",
+        "निति राधा-कृष्ण-विमोहिनी"
+      ],
+      "bengali": [
+        "গাঙ্থোবি মালা মনো-হারিনী",
+        "নিতি রাধা-কৃষ্ণ-বিমোহিনী"
+      ]
     },
     {
       "label": "8",
@@ -70,7 +126,15 @@
         "tuwā rakhana-bhāra hāmārā",
         "mama kuñja-kuṭīra tohārā"
       ],
-      "translation": "“The responsibility for your maintenance is mine. My cottage in this grove is yours."
+      "translation": "“The responsibility for your maintenance is mine. My cottage in this grove is yours.",
+      "deva": [
+        "तुवा रखन-भार हामारा",
+        "मम कुञ्ज-कुटीर तोहारा"
+      ],
+      "bengali": [
+        "তুবা রখন-ভার হামারা",
+        "মম কুঞ্জ-কুটীর তোহারা"
+      ]
     },
     {
       "label": "9",
@@ -78,7 +142,15 @@
         "rādhā-mādhava-sevana-kāle",
         "rahobi hāmāra antarāle"
       ],
-      "translation": "“When the time comes for me to go and serve Rādhā and Mādhava, you will stay close to me while remaining hidden."
+      "translation": "“When the time comes for me to go and serve Rādhā and Mādhava, you will stay close to me while remaining hidden.",
+      "deva": [
+        "राधा-माधव-सेवन-काले",
+        "रहोबि हामार अन्तराले"
+      ],
+      "bengali": [
+        "রাধা-মাধব-সেবন-কালে",
+        "রহোবি হামার অন্তরালে"
+      ]
     },
     {
       "label": "10",
@@ -86,7 +158,15 @@
         "tāmbula sāji’ karpūra āni’",
         "deobi moe āpana jāni’ “"
       ],
-      "translation": "“After dressing packets of betel nuts and fetching the camphor, you will hand them to me, knowing me to be your very own.”"
+      "translation": "“After dressing packets of betel nuts and fetching the camphor, you will hand them to me, knowing me to be your very own.”",
+      "deva": [
+        "ताम्बुल साजि’ कर्पूर आनि’",
+        "देओबि मोए आपन जानि’ “"
+      ],
+      "bengali": [
+        "তাম্বুল সাজি’ কর্পূর আনি’",
+        "দেওবি মোএ আপন জানি’ “"
+      ]
     },
     {
       "label": "11",
@@ -94,11 +174,21 @@
         "bhakativinoda śuni’ bāt",
         "sakhī-pade kare pranipāt"
       ],
-      "translation": "Bhaktivinoda, having heard all these instructions, bows down at the lotus feet of that confidential sakhī."
+      "translation": "Bhaktivinoda, having heard all these instructions, bows down at the lotus feet of that confidential sakhī.",
+      "deva": [
+        "भकतिविनोद शुनि’ बात्",
+        "सखी-पदे करे प्रनिपात्"
+      ],
+      "bengali": [
+        "ভকতিবিনোদ শুনি’ বাত্",
+        "সখী-পদে করে প্রনিপাত্"
+      ]
     }
   ],
   "source": {
     "name": "Bhaktivinoda Institute",
     "url": "https://bhaktivinodainstitute.org/avasya-raksibe-krsna-song-four/"
-  }
+  },
+  "titleDeva": "छोडतो पुरुष-अभिमान्",
+  "titleBengali": "ছোডতো পুরুষ-অভিমান্"
 }

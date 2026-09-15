@@ -16,7 +16,19 @@
         "tomāra caraṇa, nā bhajinu kabhu,",
         "ekhona śaraṇa tumi"
       ],
-      "translation": "With great enthusiasm I spent my time in the pleasures of mundane learning, and never worshiped Your lotus feet, O Lord. Now You are my only shelter."
+      "translation": "With great enthusiasm I spent my time in the pleasures of mundane learning, and never worshiped Your lotus feet, O Lord. Now You are my only shelter.",
+      "deva": [
+        "विद्यार विलासे, काटाइनु काल,",
+        "परम साहसे आमि",
+        "तोमार चरण, ना भजिनु कभु,",
+        "एखोन शरण तुमि"
+      ],
+      "bengali": [
+        "বিদ্যার বিলাসে, কাটাইনু কাল,",
+        "পরম সাহসে আমি",
+        "তোমার চরণ, না ভজিনু কভু,",
+        "এখোন শরণ তুমি"
+      ]
     },
     {
       "label": "2",
@@ -26,7 +38,19 @@
         "se āśā biphala, se jñāna durbala,",
         "se jñāna ajñāna jāni"
       ],
-      "translation": "Reading on and on, my hopes grew and grew, for I considered the aquisition of material knowledge to be life’s true goal. How fruitless those hopes turned out to be, for all my knowledge proved feeble. Now I know that all such erudition is actually pure ignorance."
+      "translation": "Reading on and on, my hopes grew and grew, for I considered the aquisition of material knowledge to be life’s true goal. How fruitless those hopes turned out to be, for all my knowledge proved feeble. Now I know that all such erudition is actually pure ignorance.",
+      "deva": [
+        "पोडिते पोडिते, भरसा बारिलो,",
+        "ज्ञाने गति हबे मानि’",
+        "से आशा बिफल, से ज्ञान दुर्बल,",
+        "से ज्ञान अज्ञान जानि"
+      ],
+      "bengali": [
+        "পোডিতে পোডিতে, ভরসা বারিলো,",
+        "জ্ঞানে গতি হবে মানি’",
+        "সে আশা বিফল, সে জ্ঞান দুর্বল,",
+        "সে জ্ঞান অজ্ঞান জানি"
+      ]
     },
     {
       "label": "3",
@@ -36,7 +60,19 @@
         "moha janamiyā, anitya saṁsāre,",
         "jīvake koraye gādhā"
       ],
-      "translation": "All the so-called knowledge of this world is born of the flickering potency of Your illusory energy (māyā). It is an impediment to the execution of devotional service to You. Indulgence in mundane knowledge verily makes an ass of the eternal soul by encouraging his infatuation with this temporary world.*"
+      "translation": "All the so-called knowledge of this world is born of the flickering potency of Your illusory energy (māyā). It is an impediment to the execution of devotional service to You. Indulgence in mundane knowledge verily makes an ass of the eternal soul by encouraging his infatuation with this temporary world.*",
+      "deva": [
+        "जड-विद्या जत, मायार वैभव,",
+        "तोमार भजने बाधा",
+        "मोह जनमिया, अनित्य संसारे,",
+        "जीवके कोरये गाधा"
+      ],
+      "bengali": [
+        "জড-বিদ্যা জত, মাযার বৈভব,",
+        "তোমার ভজনে বাধা",
+        "মোহ জনমিযা, অনিত্য সংসারে,",
+        "জীবকে কোরযে গাধা"
+      ]
     },
     {
       "label": "4",
@@ -46,7 +82,19 @@
         "bārdhakye ekhona, śaktira abhāve,",
         "kichu nāhi lāge bhālo"
       ],
-      "translation": "Here is one person who has been turned into such an ass, who for so long has carried on his back the useless burden of material existence. Now in my old age, for want of the power to enjoy, I find that nothing at all pleases me."
+      "translation": "Here is one person who has been turned into such an ass, who for so long has carried on his back the useless burden of material existence. Now in my old age, for want of the power to enjoy, I find that nothing at all pleases me.",
+      "deva": [
+        "सेइ गाधा हो’ये, संसारेर बोझा,",
+        "बहिनु अनेक काल",
+        "बार्धक्ये एखोन, शक्तिर अभावे,",
+        "किछु नाहि लागे भालो"
+      ],
+      "bengali": [
+        "সেই গাধা হো’যে, সংসারের বোঝা,",
+        "বহিনু অনেক কাল",
+        "বার্ধক্যে এখোন, শক্তির অভাবে,",
+        "কিছু নাহি লাগে ভালো"
+      ]
     },
     {
       "label": "5",
@@ -56,7 +104,19 @@
         "avidyāra jwālā, ghaṭilo biṣama,",
         "se vidyā hoilo śelo"
       ],
-      "translation": "Life has now become agony, for my so-called erudite knowledge has proven itself to be worthless ignorance. Material knowledge has now become a pointed shaft and has pierced my heart with the intolerable, burning pain of ignorance."
+      "translation": "Life has now become agony, for my so-called erudite knowledge has proven itself to be worthless ignorance. Material knowledge has now become a pointed shaft and has pierced my heart with the intolerable, burning pain of ignorance.",
+      "deva": [
+        "जीवन जातना, होइलो एखोन,",
+        "से विद्या अविद्या भेलो",
+        "अविद्यार ज्वाला, घटिलो बिषम,",
+        "से विद्या होइलो शेलो"
+      ],
+      "bengali": [
+        "জীবন জাতনা, হোইলো এখোন,",
+        "সে বিদ্যা অবিদ্যা ভেলো",
+        "অবিদ্যার জ্বালা, ঘটিলো বিষম,",
+        "সে বিদ্যা হোইলো শেলো"
+      ]
     },
     {
       "label": "6",
@@ -66,11 +126,25 @@
         "bhakativinoda, jaḍa-vidyā chāḍi,’",
         "tuwā pada kore sāra"
       ],
-      "translation": "O Lord, there is no treasure worth seeking in this world other than Your lotus feet. Bhaktivinoda abandons all his mundane knowledge and makes Your lotus feet the sum and substance of his life."
+      "translation": "O Lord, there is no treasure worth seeking in this world other than Your lotus feet. Bhaktivinoda abandons all his mundane knowledge and makes Your lotus feet the sum and substance of his life.",
+      "deva": [
+        "तोमार चरण, बिना किछु धन,",
+        "संसारे ना आछे आर",
+        "भकतिविनोद, जड-विद्या छाडि,’",
+        "तुवा पद कोरे सार"
+      ],
+      "bengali": [
+        "তোমার চরণ, বিনা কিছু ধন,",
+        "সংসারে না আছে আর",
+        "ভকতিবিনোদ, জড-বিদ্যা ছাডি,’",
+        "তুবা পদ কোরে সার"
+      ]
     }
   ],
   "source": {
     "name": "Bhaktivinoda Institute",
     "url": "https://bhaktivinodainstitute.org/dainya-song-two/"
-  }
+  },
+  "titleDeva": "विद्यार विलासे काटाइनु काल",
+  "titleBengali": "বিদ্যার বিলাসে কাটাইনু কাল"
 }

@@ -14,7 +14,15 @@
         "bastutaḥ sakali tava, jīva keho noy",
         "‘aham’-‘mama’-bhrame bhromi’ bhoge śoka-bhoy"
       ],
-      "translation": "In truth, all things belong to You; no jīva is ever the owner of anything. The tiny soul wanders in this world mistakenly thinking in terms of aham (“I am this material body and mind”), and mama (“everything related to this body is mine”). Thus he suffers the consequences of both sorrow and fear."
+      "translation": "In truth, all things belong to You; no jīva is ever the owner of anything. The tiny soul wanders in this world mistakenly thinking in terms of aham (“I am this material body and mind”), and mama (“everything related to this body is mine”). Thus he suffers the consequences of both sorrow and fear.",
+      "deva": [
+        "बस्तुतः सकलि तव, जीव केहो नोय्",
+        "‘अहम्’-‘मम’-भ्रमे भ्रोमि’ भोगे शोक-भोय्"
+      ],
+      "bengali": [
+        "বস্তুতঃ সকলি তব, জীব কেহো নোয্",
+        "‘অহম্’-‘মম’-ভ্রমে ভ্রোমি’ ভোগে শোক-ভোয্"
+      ]
     },
     {
       "label": "2",
@@ -22,7 +30,15 @@
         "ahaṁ-mama-abhimāna ei-mātro dhan",
         "baddha-jīva nija boli’ jāne mane man"
       ],
-      "translation": "The conditioned soul thinks that all the things related to the false conceptions of “I” and “mine” are his exclusive treasures. Calling them his own, his mind is firmly convinced of this gross delusion."
+      "translation": "The conditioned soul thinks that all the things related to the false conceptions of “I” and “mine” are his exclusive treasures. Calling them his own, his mind is firmly convinced of this gross delusion.",
+      "deva": [
+        "अहं-मम-अभिमान एइ-मात्रो धन्",
+        "बद्ध-जीव निज बोलि’ जाने मने मन्"
+      ],
+      "bengali": [
+        "অহং-মম-অভিমান এই-মাত্রো ধন্",
+        "বদ্ধ-জীব নিজ বোলি’ জানে মনে মন্"
+      ]
     },
     {
       "label": "3",
@@ -30,7 +46,15 @@
         "sei abhimāne āmi saṁsāre poḍiyā",
         "hābuḍubu khāi bhava-sindhu sāṅtāriyā"
       ],
-      "translation": "Due to such vanity, I also fell into this material world. Floundering in the ocean of mundane existence like a drowning man, I suffer the pangs of rising and sinking in that ocean."
+      "translation": "Due to such vanity, I also fell into this material world. Floundering in the ocean of mundane existence like a drowning man, I suffer the pangs of rising and sinking in that ocean.",
+      "deva": [
+        "सेइ अभिमाने आमि संसारे पोडिया",
+        "हाबुडुबु खाइ भव-सिन्धु साङ्तारिया"
+      ],
+      "bengali": [
+        "সেই অভিমানে আমি সংসারে পোডিযা",
+        "হাবুডুবু খাই ভব-সিন্ধু সাঙ্তারিযা"
+      ]
     },
     {
       "label": "4",
@@ -38,7 +62,15 @@
         "tomāra abhoya-pade loiyā śaraṇ",
         "āji āmi korilāma ātma-nivedan"
       ],
-      "translation": "I take shelter at Your lotus feet, which deliver one from fear, and dedicate the whole of myself to You on this day."
+      "translation": "I take shelter at Your lotus feet, which deliver one from fear, and dedicate the whole of myself to You on this day.",
+      "deva": [
+        "तोमार अभोय-पदे लोइया शरण्",
+        "आजि आमि कोरिलाम आत्म-निवेदन्"
+      ],
+      "bengali": [
+        "তোমার অভোয-পদে লোইযা শরণ্",
+        "আজি আমি কোরিলাম আত্ম-নিবেদন্"
+      ]
     },
     {
       "label": "5",
@@ -46,7 +78,15 @@
         "‘ahaṁ’-‘mama’-abhimāna chāḍilo āmāy",
         "ār jeno mama hṛde stāna nāhi pāy"
       ],
-      "translation": "The false conception of thinking in terms of “I” and “mine” has left me now. May it never again find a place to settle within my heart."
+      "translation": "The false conception of thinking in terms of “I” and “mine” has left me now. May it never again find a place to settle within my heart.",
+      "deva": [
+        "‘अहं’-‘मम’-अभिमान छाडिलो आमाय्",
+        "आर् जेनो मम हृदे स्तान नाहि पाय्"
+      ],
+      "bengali": [
+        "‘অহং’-‘মম’-অভিমান ছাডিলো আমায্",
+        "আর্ জেনো মম হৃদে স্তান নাহি পায্"
+      ]
     },
     {
       "label": "6",
@@ -54,7 +94,15 @@
         "ei mātro bala prabhu! dibe he āmāre",
         "ahaṁtā-mamatā dūre pāri rākhibāre"
       ],
-      "translation": "Please give me this strength alone, O Lord, that I may be able to keep the false conceptions of “I” and “mine” far away."
+      "translation": "Please give me this strength alone, O Lord, that I may be able to keep the false conceptions of “I” and “mine” far away.",
+      "deva": [
+        "एइ मात्रो बल प्रभु! दिबे हे आमारे",
+        "अहंता-ममता दूरे पारि राखिबारे"
+      ],
+      "bengali": [
+        "এই মাত্রো বল প্রভু! দিবে হে আমারে",
+        "অহংতা-মমতা দূরে পারি রাখিবারে"
+      ]
     },
     {
       "label": "7",
@@ -62,7 +110,15 @@
         "ātma-nivedana-bhāva hṛde dṛḍha rot",
         "hasti-snāna sama jeno khanika nā hoy"
       ],
-      "translation": "May the mood of self-surrender to You remain firmly fixed in my heart and not prove to be momentary like the cleanliness of an elephant after a bath."
+      "translation": "May the mood of self-surrender to You remain firmly fixed in my heart and not prove to be momentary like the cleanliness of an elephant after a bath.",
+      "deva": [
+        "आत्म-निवेदन-भाव हृदे दृढ रोत्",
+        "हस्ति-स्नान सम जेनो खनिक ना होय्"
+      ],
+      "bengali": [
+        "আত্ম-নিবেদন-ভাব হৃদে দৃঢ রোত্",
+        "হস্তি-স্নান সম জেনো খনিক না হোয্"
+      ]
     },
     {
       "label": "8",
@@ -70,11 +126,21 @@
         "bhakativinoda prabhu nityānanda pāy",
         "māge parasāda, jāhe abhimāna jāy"
       ],
-      "translation": ""
+      "translation": "",
+      "deva": [
+        "भकतिविनोद प्रभु नित्यानन्द पाय्",
+        "मागे परसाद, जाहे अभिमान जाय्"
+      ],
+      "bengali": [
+        "ভকতিবিনোদ প্রভু নিত্যানন্দ পায্",
+        "মাগে পরসাদ, জাহে অভিমান জায্"
+      ]
     }
   ],
   "source": {
     "name": "Bhaktivinoda Institute",
     "url": "https://bhaktivinodainstitute.org/atma-nivedana-song-six/"
-  }
+  },
+  "titleDeva": "बस्तुतः सकलि तव जीव केहो नो",
+  "titleBengali": "বস্তুতঃ সকলি তব জীব কেহো নো"
 }

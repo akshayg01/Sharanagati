@@ -16,7 +16,19 @@
         "tumi to’ ṭhākur, tomāra kukur,",
         "boliyā jānaho more"
       ],
-      "translation": "Now that I have surrendered all that I possess unto Your lotus feet, I throw myself down before Your house. You are the master of the house; kindly consider me Your own dog."
+      "translation": "Now that I have surrendered all that I possess unto Your lotus feet, I throw myself down before Your house. You are the master of the house; kindly consider me Your own dog.",
+      "deva": [
+        "सर्वस्व तोमार्, चरणे संपिया,",
+        "पोडेछि तोमार घरे",
+        "तुमि तो’ ठाकुर्, तोमार कुकुर्,",
+        "बोलिया जानहो मोरे"
+      ],
+      "bengali": [
+        "সর্বস্ব তোমার্, চরণে সংপিযা,",
+        "পোডেছি তোমার ঘরে",
+        "তুমি তো’ ঠাকুর্, তোমার কুকুর্,",
+        "বোলিযা জানহো মোরে"
+      ]
     },
     {
       "label": "2",
@@ -26,7 +38,19 @@
         "pratīpa-janere, āsite nā dibo,",
         "rākhibo gaḍera pāre"
       ],
-      "translation": "Chaining me nearby, You will maintain me, and I shall lie at Your doorstep. I will not allow Your enemies to enter, but will keep them outside the bounds of the surrounding moat."
+      "translation": "Chaining me nearby, You will maintain me, and I shall lie at Your doorstep. I will not allow Your enemies to enter, but will keep them outside the bounds of the surrounding moat.",
+      "deva": [
+        "बाङ्धिया निकटे, आमारे पालिबे,",
+        "रोहिबो तोमार द्वारे",
+        "प्रतीप-जनेरे, आसिते ना दिबो,",
+        "राखिबो गडेर पारे"
+      ],
+      "bengali": [
+        "বাঙ্ধিযা নিকটে, আমারে পালিবে,",
+        "রোহিবো তোমার দ্বারে",
+        "প্রতীপ-জনেরে, আসিতে না দিবো,",
+        "রাখিবো গডের পারে"
+      ]
     },
     {
       "label": "3",
@@ -36,7 +60,19 @@
         "āmāra bhojan, parama-ānande,",
         "prati-din ha’be tāhā"
       ],
-      "translation": "Whatever food remnants Your devotees leave behind after honoring Your prasād will be my daily sustenance. I will feast on those remnants in great bliss."
+      "translation": "Whatever food remnants Your devotees leave behind after honoring Your prasād will be my daily sustenance. I will feast on those remnants in great bliss.",
+      "deva": [
+        "तव निज-जन, प्रसाद् सेविया,",
+        "उच्छिष्ट राखिबे जाहा",
+        "आमार भोजन्, परम-आनन्दे,",
+        "प्रति-दिन् ह’बे ताहा"
+      ],
+      "bengali": [
+        "তব নিজ-জন, প্রসাদ্ সেবিযা,",
+        "উচ্ছিষ্ট রাখিবে জাহা",
+        "আমার ভোজন্, পরম-আনন্দে,",
+        "প্রতি-দিন্ হ’বে তাহা"
+      ]
     },
     {
       "label": "4",
@@ -46,7 +82,19 @@
         "nācite nācite, nikaṭe jāibo,",
         "jakhona ḍākibe tumi"
       ],
-      "translation": "While sitting up or lying down, I will constantly meditate on Your lotus feet. Whenever You call, I will immediately run to You and dance in rapture."
+      "translation": "While sitting up or lying down, I will constantly meditate on Your lotus feet. Whenever You call, I will immediately run to You and dance in rapture.",
+      "deva": [
+        "बोसिया शुइया, तोमार चरण,",
+        "चिन्तिबो सतत आमि",
+        "नाचिते नाचिते, निकटे जाइबो,",
+        "जखोन डाकिबे तुमि"
+      ],
+      "bengali": [
+        "বোসিযা শুইযা, তোমার চরণ,",
+        "চিন্তিবো সতত আমি",
+        "নাচিতে নাচিতে, নিকটে জাইবো,",
+        "জখোন ডাকিবে তুমি"
+      ]
     },
     {
       "label": "5",
@@ -56,11 +104,25 @@
         "bhakativinoda, tomāre pālaka,",
         "boliyā varaṇa kore"
       ],
-      "translation": "I will never think for my own nourishment, and will remain absorbed in ever cherishing love for my Master. Bhaktivinoda now accepts You as his only maintainer."
+      "translation": "I will never think for my own nourishment, and will remain absorbed in ever cherishing love for my Master. Bhaktivinoda now accepts You as his only maintainer.",
+      "deva": [
+        "निजेर पोषन, कभु ना भाविबो,",
+        "रोहिबो भावेर भोरे",
+        "भकतिविनोद, तोमारे पालक,",
+        "बोलिया वरण कोरे"
+      ],
+      "bengali": [
+        "নিজের পোষন, কভু না ভাবিবো,",
+        "রোহিবো ভাবের ভোরে",
+        "ভকতিবিনোদ, তোমারে পালক,",
+        "বোলিযা বরণ কোরে"
+      ]
     }
   ],
   "source": {
     "name": "Bhaktivinoda Institute",
     "url": "https://bhaktivinodainstitute.org/goptrtve-varana-song-three/"
-  }
+  },
+  "titleDeva": "सर्वस्व तोमार् चरणे संपिया",
+  "titleBengali": "সর্বস্ব তোমার্ চরণে সংপিযা"
 }

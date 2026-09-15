@@ -16,7 +16,19 @@
         "kāṅdiyā beḍā’bo, deho-sukha chāḍi’,",
         "nānā latā-taru-tale"
       ],
-      "translation": "When will I wander weeping under the shade of various trees and creepers on the banks of the celestial Gaṅgā river in the land of Navadvīpa, crying, “O Rādhe! O Kṛṣṇa!” and forgetting all physical comforts?"
+      "translation": "When will I wander weeping under the shade of various trees and creepers on the banks of the celestial Gaṅgā river in the land of Navadvīpa, crying, “O Rādhe! O Kṛṣṇa!” and forgetting all physical comforts?",
+      "deva": [
+        "कबे गौर-वने, सुरधुनी-तटे,",
+        "‘हा राधे हा कृष्ण’ बोले’",
+        "काङ्दिया बेडा’बो, देहो-सुख छाडि’,",
+        "नाना लता-तरु-तले"
+      ],
+      "bengali": [
+        "কবে গৌর-বনে, সুরধুনী-তটে,",
+        "‘হা রাধে হা কৃষ্ণ’ বোলে’",
+        "কাঙ্দিযা বেডা’বো, দেহো-সুখ ছাডি’,",
+        "নানা লতা-তরু-তলে"
+      ]
     },
     {
       "label": "2",
@@ -26,7 +38,19 @@
         "puline puline, gaḍā-gaḍi dibo,",
         "kori’ kṛṣṇa-kolāhala"
       ],
-      "translation": "I will take my meals by begging at the homes of dog-eaters, and will drink the water of the Sarasvatī river. In ecstasy I will roll on the ground from bank to bank of the river, raising an uproar of “Kṛṣṇa! Kṛṣṇa!”"
+      "translation": "I will take my meals by begging at the homes of dog-eaters, and will drink the water of the Sarasvatī river. In ecstasy I will roll on the ground from bank to bank of the river, raising an uproar of “Kṛṣṇa! Kṛṣṇa!”",
+      "deva": [
+        "श्व-पच-गृहेते, मागिया खाइबो,",
+        "पिबो सरस्वती-जल",
+        "पुलिने पुलिने, गडा-गडि दिबो,",
+        "कोरि’ कृष्ण-कोलाहल"
+      ],
+      "bengali": [
+        "শ্ব-পচ-গৃহেতে, মাগিযা খাইবো,",
+        "পিবো সরস্বতী-জল",
+        "পুলিনে পুলিনে, গডা-গডি দিবো,",
+        "কোরি’ কৃষ্ণ-কোলাহল"
+      ]
     },
     {
       "label": "3",
@@ -36,7 +60,19 @@
         "vaiṣṇava-caraṇa- reṇu gāya mākhi’,",
         "dhori’ avadhūta-veśa"
       ],
-      "translation": "Bowing down to the inhabitants of the holy land, I will beg a particle of their mercy. I will smear the dust of the Vaiṣṇavas’ feet all over my body and wear the dress of a mendicant."
+      "translation": "Bowing down to the inhabitants of the holy land, I will beg a particle of their mercy. I will smear the dust of the Vaiṣṇavas’ feet all over my body and wear the dress of a mendicant.",
+      "deva": [
+        "धाम-बासी जने, प्रनति कोरिया,",
+        "मागिबो कृपार लेश",
+        "वैष्णव-चरण- रेणु गाय माखि’,",
+        "धोरि’ अवधूत-वेश"
+      ],
+      "bengali": [
+        "ধাম-বাসী জনে, প্রনতি কোরিযা,",
+        "মাগিবো কৃপার লেশ",
+        "বৈষ্ণব-চরণ- রেণু গায মাখি’,",
+        "ধোরি’ অবধূত-বেশ"
+      ]
     },
     {
       "label": "4",
@@ -46,11 +82,25 @@
         "dhāmera swarūpa, sphuribe nayane,",
         "hoibo rādhāra dāsī"
       ],
-      "translation": "I will see no difference between the inhabitants of Vraja Bhūmi and those of Navadvīpa, and I will be transformed into a resident of Vraja. The true nature of the Lord’s abode will manifest itself to my eyes, and I will become a maidservant of Śrīmatī Rādhārāṇī. *"
+      "translation": "I will see no difference between the inhabitants of Vraja Bhūmi and those of Navadvīpa, and I will be transformed into a resident of Vraja. The true nature of the Lord’s abode will manifest itself to my eyes, and I will become a maidservant of Śrīmatī Rādhārāṇī. *",
+      "deva": [
+        "गौड-ब्रज-जने, भेद ना देखिबो,",
+        "होइबो बरज-बासी",
+        "धामेर स्वरूप, स्फुरिबे नयने,",
+        "होइबो राधार दासी"
+      ],
+      "bengali": [
+        "গৌড-ব্রজ-জনে, ভেদ না দেখিবো,",
+        "হোইবো বরজ-বাসী",
+        "ধামের স্বরূপ, স্ফুরিবে নযনে,",
+        "হোইবো রাধার দাসী"
+      ]
     }
   ],
   "source": {
     "name": "Bhaktivinoda Institute",
     "url": "https://bhaktivinodainstitute.org/siddhi-lalasa-song-one/"
-  }
+  },
+  "titleDeva": "कबे गौर-वने, सुरधुनी-तटे",
+  "titleBengali": "কবে গৌর-বনে, সুরধুনী-তটে"
 }

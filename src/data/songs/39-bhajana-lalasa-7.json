@@ -17,7 +17,21 @@
         "diyā pada-chāyā, śodho he āmāya,",
         "tomāra caraṇa dhori"
       ],
-      "translation": "O revered Vaiṣnava Ṭhākura! O ocean of mercy! Please be merciful to me, your humble servant. Purify me by giving the shade of your lotus feet. Your feet I clasp submissively."
+      "translation": "O revered Vaiṣnava Ṭhākura! O ocean of mercy! Please be merciful to me, your humble servant. Purify me by giving the shade of your lotus feet. Your feet I clasp submissively.",
+      "deva": [
+        "ओहे!",
+        "वैष्णव ठाकुर, दोयार सागर,",
+        "ए दासे कोरुना कोरि’",
+        "दिया पद-छाया, शोधो हे आमाय,",
+        "तोमार चरण धोरि"
+      ],
+      "bengali": [
+        "ওহে!",
+        "বৈষ্ণব ঠাকুর, দোযার সাগর,",
+        "এ দাসে কোরুনা কোরি’",
+        "দিযা পদ-ছাযা, শোধো হে আমায,",
+        "তোমার চরণ ধোরি"
+      ]
     },
     {
       "label": "2",
@@ -27,7 +41,19 @@
         "chaya sat-saṅga, deho’ he āmāre,",
         "bosechi saṅgera āśe"
       ],
-      "translation": "Please help me to control the six urges, purify me of the six faults, and please instill in your servant the six good qualities. Oh, bestow upon me the six kinds of holy association! I am seated here in the hope of having your company. *"
+      "translation": "Please help me to control the six urges, purify me of the six faults, and please instill in your servant the six good qualities. Oh, bestow upon me the six kinds of holy association! I am seated here in the hope of having your company. *",
+      "deva": [
+        "छय वेग दोमि’, छय दोष शोधि’,",
+        "छय गुन देहो’ दासे",
+        "छय सत्-सङ्ग, देहो’ हे आमारे,",
+        "बोसेछि सङ्गेर आशे"
+      ],
+      "bengali": [
+        "ছয বেগ দোমি’, ছয দোষ শোধি’,",
+        "ছয গুন দেহো’ দাসে",
+        "ছয সত্-সঙ্গ, দেহো’ হে আমারে,",
+        "বোসেছি সঙ্গের আশে"
+      ]
     },
     {
       "label": "3",
@@ -37,7 +63,19 @@
         "tumi kṛpā kori’, śraddhā-bindu diyā,",
         "deho’ kṛṣṇa-nāma-dhane"
       ],
-      "translation": "On my own, I find I have no strength to chant the holy name of Lord Hari. Please be merciful by awarding me with a particle of faith and giving me the great treasure of the holy name of Kṛṣṇa."
+      "translation": "On my own, I find I have no strength to chant the holy name of Lord Hari. Please be merciful by awarding me with a particle of faith and giving me the great treasure of the holy name of Kṛṣṇa.",
+      "deva": [
+        "एककी आमार, नाहि पाय बल,",
+        "हरि-नाम-सङ्कीर्तने",
+        "तुमि कृपा कोरि’, श्रद्धा-बिन्दु दिया,",
+        "देहो’ कृष्ण-नाम-धने"
+      ],
+      "bengali": [
+        "এককী আমার, নাহি পায বল,",
+        "হরি-নাম-সঙ্কীর্তনে",
+        "তুমি কৃপা কোরি’, শ্রদ্ধা-বিন্দু দিযা,",
+        "দেহো’ কৃষ্ণ-নাম-ধনে"
+      ]
     },
     {
       "label": "4",
@@ -47,11 +85,25 @@
         "āmi to’ kāṅgāla, ‘kṛṣṇa’ ‘kṛṣṇa’ boli’,",
         "dhāi tava pāche pāche"
       ],
-      "translation": "Kṛṣṇa is yours, therefore you are able to give Him to others. This is certainly within your power. I am indeed wretched and fallen, simply running after you crying “Kṛṣṇa! Kṛṣṇa!”"
+      "translation": "Kṛṣṇa is yours, therefore you are able to give Him to others. This is certainly within your power. I am indeed wretched and fallen, simply running after you crying “Kṛṣṇa! Kṛṣṇa!”",
+      "deva": [
+        "कृष्ण से तोमार, कृष्ण दिते पारो,",
+        "तोमार शकति आछे",
+        "आमि तो’ काङ्गाल, ‘कृष्ण’ ‘कृष्ण’ बोलि’,",
+        "धाइ तव पाछे पाछे"
+      ],
+      "bengali": [
+        "কৃষ্ণ সে তোমার, কৃষ্ণ দিতে পারো,",
+        "তোমার শকতি আছে",
+        "আমি তো’ কাঙ্গাল, ‘কৃষ্ণ’ ‘কৃষ্ণ’ বোলি’,",
+        "ধাই তব পাছে পাছে"
+      ]
     }
   ],
   "source": {
     "name": "Bhaktivinoda Institute",
     "url": "https://bhaktivinodainstitute.org/bhajana-lalasa-song-seven/"
-  }
+  },
+  "titleDeva": "वैष्णव ठाकुर, दोयार सागर",
+  "titleBengali": "বৈষ্ণব ঠাকুর, দোযার সাগর"
 }

@@ -17,7 +17,21 @@
         "tathāpi kakhona, brahma-drava-dharma,",
         "se salila nā chāḍoya"
       ],
-      "translation": "O my Lord Hari! Mud and foam are seen in the waters of the Gaṅgā, for that is the inherent nature of river water. Yet the water of the sacred Gaṅgā never loses its purely spiritual nature.*"
+      "translation": "O my Lord Hari! Mud and foam are seen in the waters of the Gaṅgā, for that is the inherent nature of river water. Yet the water of the sacred Gaṅgā never loses its purely spiritual nature.*",
+      "deva": [
+        "हरि हे!",
+        "नीर-धर्म-गत, जाह्नवी-सलिले,",
+        "पङ्क-फेन दृष्ट होय",
+        "तथापि कखोन, ब्रह्म-द्रव-धर्म,",
+        "से सलिल ना छाडोय"
+      ],
+      "bengali": [
+        "হরি হে!",
+        "নীর-ধর্ম-গত, জাহ্নবী-সলিলে,",
+        "পঙ্ক-ফেন দৃষ্ট হোয",
+        "তথাপি কখোন, ব্রহ্ম-দ্রব-ধর্ম,",
+        "সে সলিল না ছাডোয"
+      ]
     },
     {
       "label": "2",
@@ -27,7 +41,19 @@
         "kabhu nāhe jaḍa, tathāpi ye ninde,",
         "poḍe se viṣamādharme"
       ],
-      "translation": "One may likewise find natural defects in the body of a Vaiṣnava, yet his body is always spiritual. It is never to be considered material. That person who criticizes the body of a Vaiṣṇava falls into deadly irreligion."
+      "translation": "One may likewise find natural defects in the body of a Vaiṣnava, yet his body is always spiritual. It is never to be considered material. That person who criticizes the body of a Vaiṣṇava falls into deadly irreligion.",
+      "deva": [
+        "वैष्नव-शरीर, अप्राकृत सदा,",
+        "स्वभाव-वपुर धर्मे",
+        "कभु नाहे जड, तथापि ये निन्दे,",
+        "पोडे से विषमाधर्मे"
+      ],
+      "bengali": [
+        "বৈষ্নব-শরীর, অপ্রাকৃত সদা,",
+        "স্বভাব-বপুর ধর্মে",
+        "কভু নাহে জড, তথাপি যে নিন্দে,",
+        "পোডে সে বিষমাধর্মে"
+      ]
     },
     {
       "label": "3",
@@ -37,7 +63,19 @@
         "he nanda-nandana! sei aparādhe,",
         "yeno nāhi hoi hata"
       ],
-      "translation": "For such an offense, the fallen soul ceaselessly suffers the tortures of Yamarāja, lord of death. O youthful son of Nanda! I pray that I will not be destroyed by committing such an offense."
+      "translation": "For such an offense, the fallen soul ceaselessly suffers the tortures of Yamarāja, lord of death. O youthful son of Nanda! I pray that I will not be destroyed by committing such an offense.",
+      "deva": [
+        "सेइ अपराधे, यमेर जातना,",
+        "पाय जीव अविरत",
+        "हे नन्द-नन्दन! सेइ अपराधे,",
+        "येनो नाहि होइ हत"
+      ],
+      "bengali": [
+        "সেই অপরাধে, যমের জাতনা,",
+        "পায জীব অবিরত",
+        "হে নন্দ-নন্দন! সেই অপরাধে,",
+        "যেনো নাহি হোই হত"
+      ]
     },
     {
       "label": "4",
@@ -47,11 +85,25 @@
         "tabe mora gati, ha’be tava prati,",
         "pā’bo tava pada-chāyā"
       ],
-      "translation": "The Vaiṣṇava is Your own, representing Your glorious divine potency. May he be merciful to me. Then my life’s journey will turn toward You, and I will attain shelter in the shade of Your lotus feet."
+      "translation": "The Vaiṣṇava is Your own, representing Your glorious divine potency. May he be merciful to me. Then my life’s journey will turn toward You, and I will attain shelter in the shade of Your lotus feet.",
+      "deva": [
+        "तोमार वैष्णव, वैभव तोमार,",
+        "आमारे कोरुना दोया",
+        "तबे मोर गति, ह’बे तव प्रति,",
+        "पा’बो तव पद-छाया"
+      ],
+      "bengali": [
+        "তোমার বৈষ্ণব, বৈভব তোমার,",
+        "আমারে কোরুনা দোযা",
+        "তবে মোর গতি, হ’বে তব প্রতি,",
+        "পা’বো তব পদ-ছাযা"
+      ]
     }
   ],
   "source": {
     "name": "Bhaktivinoda Institute",
     "url": "https://bhaktivinodainstitute.org/bhajana-lalasa-song-six/"
-  }
+  },
+  "titleDeva": "नीर-धर्म-गत, जाह्नवी-सलिले",
+  "titleBengali": "নীর-ধর্ম-গত, জাহ্নবী-সলিলে"
 }

@@ -17,7 +17,21 @@
         "bhakti-anukūla, karma-pravartana,",
         "asat-saṅga-visarjana"
       ],
-      "translation": "O my Lord Hari! Enthusiasm in devotional service, faith in the process of devotional service, the treasure of patience in the attainment of love of God, performing activities favorable to pure devotion, abandoning the company of worldly people…"
+      "translation": "O my Lord Hari! Enthusiasm in devotional service, faith in the process of devotional service, the treasure of patience in the attainment of love of God, performing activities favorable to pure devotion, abandoning the company of worldly people…",
+      "deva": [
+        "हरि हे!",
+        "भजने उत्साह, भक्तिते विश्वास,",
+        "प्रेम-लभे धैर्य-धन",
+        "भक्ति-अनुकूल, कर्म-प्रवर्तन,",
+        "असत्-सङ्ग-विसर्जन"
+      ],
+      "bengali": [
+        "হরি হে!",
+        "ভজনে উত্সাহ, ভক্তিতে বিশ্বাস,",
+        "প্রেম-লভে ধৈর্য-ধন",
+        "ভক্তি-অনুকূল, কর্ম-প্রবর্তন,",
+        "অসত্-সঙ্গ-বিসর্জন"
+      ]
     },
     {
       "label": "2",
@@ -27,7 +41,19 @@
         "kemone bhojibo, tomāra caraṇa,",
         "chāḍiyā māyāra sātha"
       ],
-      "translation": "…performing approved devotional practices-I have never possessed these six devotional qualities, O Lord. How, then, shall I give up my affinity for Māyā and worship Your lotus feet? *"
+      "translation": "…performing approved devotional practices-I have never possessed these six devotional qualities, O Lord. How, then, shall I give up my affinity for Māyā and worship Your lotus feet? *",
+      "deva": [
+        "भक्ति-सदाचार, एइ छय गुन,",
+        "नाहिलो आमार नाथ!",
+        "केमोने भोजिबो, तोमार चरण,",
+        "छाडिया मायार साथ"
+      ],
+      "bengali": [
+        "ভক্তি-সদাচার, এই ছয গুন,",
+        "নাহিলো আমার নাথ!",
+        "কেমোনে ভোজিবো, তোমার চরণ,",
+        "ছাডিযা মাযার সাথ"
+      ]
     },
     {
       "label": "3",
@@ -37,7 +63,19 @@
         "lo’ye sādhu-veśa, āne upadeśi,",
         "e boḍo māyāra raṅga"
       ],
-      "translation": "Remaining absorbed in abominable activities, I never kept company with sādhus. Now I adopt the garb of a sādhu and act out the role of instructing others. This is Māyā’s big joke."
+      "translation": "Remaining absorbed in abominable activities, I never kept company with sādhus. Now I adopt the garb of a sādhu and act out the role of instructing others. This is Māyā’s big joke.",
+      "deva": [
+        "गर्हित आचारे, रोहिलाम मोजि’,",
+        "ना कोरिनु साधु-सङ्ग",
+        "लो’ये साधु-वेश, आने उपदेशि,",
+        "ए बोडो मायार रङ्ग"
+      ],
+      "bengali": [
+        "গর্হিত আচারে, রোহিলাম মোজি’,",
+        "না কোরিনু সাধু-সঙ্গ",
+        "লো’যে সাধু-বেশ, আনে উপদেশি,",
+        "এ বোডো মাযার রঙ্গ"
+      ]
     },
     {
       "label": "4",
@@ -47,11 +85,25 @@
         "śrī-guru-āśroye, ḍākibo tomāya,",
         "kabe vā minati kori’"
       ],
-      "translation": "O Lord Hari, in such a helpless condition surely I will receive Your causeless mercy. O when, under the shelter of my spiritual master, will I call out to You with my humble entreaty?"
+      "translation": "O Lord Hari, in such a helpless condition surely I will receive Your causeless mercy. O when, under the shelter of my spiritual master, will I call out to You with my humble entreaty?",
+      "deva": [
+        "ए हेनो दशाय, अहैतुकी कृपा,",
+        "तोमार पाइबो, हरि!",
+        "श्री-गुरु-आश्रोये, डाकिबो तोमाय,",
+        "कबे वा मिनति कोरि’"
+      ],
+      "bengali": [
+        "এ হেনো দশায, অহৈতুকী কৃপা,",
+        "তোমার পাইবো, হরি!",
+        "শ্রী-গুরু-আশ্রোযে, ডাকিবো তোমায,",
+        "কবে বা মিনতি কোরি’"
+      ]
     }
   ],
   "source": {
     "name": "Bhaktivinoda Institute",
     "url": "https://bhaktivinodainstitute.org/bhajana-lalasa-song-three/"
-  }
+  },
+  "titleDeva": "भजने उत्साह, भक्तिते विश्वास",
+  "titleBengali": "ভজনে উত্সাহ, ভক্তিতে বিশ্বাস"
 }

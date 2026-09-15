@@ -16,7 +16,19 @@
         "jaḍa-sukhe mātiyā, āpanaku vañca-i,",
         "pekhahuṅ caudiśa āndhiyār"
       ],
-      "translation": "I have not performed any good works. I have not amassed any transcendental knowledge. I have never worshiped Your feet. Being intoxicated by sensual pleasures, I have simply cheated myself. Now I see only darkness in all directions.*"
+      "translation": "I have not performed any good works. I have not amassed any transcendental knowledge. I have never worshiped Your feet. Being intoxicated by sensual pleasures, I have simply cheated myself. Now I see only darkness in all directions.*",
+      "deva": [
+        "ना कोरोलुङ् करम, गेयान नाहि भेलो,",
+        "ना सेविलुन् चरण तोहार्",
+        "जड-सुखे मातिया, आपनकु वञ्च-इ,",
+        "पेखहुङ् चौदिश आन्धियार्"
+      ],
+      "bengali": [
+        "না কোরোলুঙ্ করম, গেযান নাহি ভেলো,",
+        "না সেবিলুন্ চরণ তোহার্",
+        "জড-সুখে মাতিযা, আপনকু বঞ্চ-ই,",
+        "পেখহুঙ্ চৌদিশ আন্ধিযার্"
+      ]
     },
     {
       "label": "2",
@@ -25,7 +37,17 @@
         "tuwā pada-paṅkaje, ātma samarpiluṅ,",
         "more kṛpā korobi vidhān"
       ],
-      "translation": "You, O Lord, are the fountainhead of all mercy. I surrender myself at Your lotus feet; kindly show me Your compassion."
+      "translation": "You, O Lord, are the fountainhead of all mercy. I surrender myself at Your lotus feet; kindly show me Your compassion.",
+      "deva": [
+        "तुहुङ् नाथ! करुना-निदान्",
+        "तुवा पद-पङ्कजे, आत्म समर्पिलुङ्,",
+        "मोरे कृपा कोरोबि विधान्"
+      ],
+      "bengali": [
+        "তুহুঙ্ নাথ! করুনা-নিদান্",
+        "তুবা পদ-পঙ্কজে, আত্ম সমর্পিলুঙ্,",
+        "মোরে কৃপা কোরোবি বিধান্"
+      ]
     },
     {
       "label": "3",
@@ -35,7 +57,19 @@
         "so hāma duṣkṛti, gati nā hera-i āna,",
         "āb māgoṅ tuwā parasād"
       ],
-      "translation": "It is Your promise that one who takes refuge in You will come to no harm. For a sinner like me I see no other shelter; therefore I beg You now for Your grace."
+      "translation": "It is Your promise that one who takes refuge in You will come to no harm. For a sinner like me I see no other shelter; therefore I beg You now for Your grace.",
+      "deva": [
+        "प्रतिज्ञा तोहार ओइ, जो हि शरणागत,",
+        "नाहि सो जानबो परमाद्",
+        "सो हाम दुष्कृति, गति ना हेर-इ आन,",
+        "आब् मागोङ् तुवा परसाद्"
+      ],
+      "bengali": [
+        "প্রতিজ্ঞা তোহার ওই, জো হি শরণাগত,",
+        "নাহি সো জানবো পরমাদ্",
+        "সো হাম দুষ্কৃতি, গতি না হের-ই আন,",
+        "আব্ মাগোঙ্ তুবা পরসাদ্"
+      ]
     },
     {
       "label": "4",
@@ -45,11 +79,25 @@
         "nitya-sevya tuhuṅ, nitya-sevaka mui,",
         "bhakativinoda bhāva sārā"
       ],
-      "translation": "O when will I know freedom from incessant material desires and thus become exclusively Yours? This is the sum of Bhaktivinoda’s musings-You are eternally to be served, and I am Your eternal servant."
+      "translation": "O when will I know freedom from incessant material desires and thus become exclusively Yours? This is the sum of Bhaktivinoda’s musings-You are eternally to be served, and I am Your eternal servant.",
+      "deva": [
+        "आन मनो-रथ, निःशेष छोडतो,",
+        "कब् हाम हौबुङ् तोहारा",
+        "नित्य-सेव्य तुहुङ्, नित्य-सेवक मुइ,",
+        "भकतिविनोद भाव सारा"
+      ],
+      "bengali": [
+        "আন মনো-রথ, নিঃশেষ ছোডতো,",
+        "কব্ হাম হৌবুঙ্ তোহারা",
+        "নিত্য-সেব্য তুহুঙ্, নিত্য-সেবক মুই,",
+        "ভকতিবিনোদ ভাব সারা"
+      ]
     }
   ],
   "source": {
     "name": "Bhaktivinoda Institute",
     "url": "https://bhaktivinodainstitute.org/atma-nivedana-song-one/"
-  }
+  },
+  "titleDeva": "ना कोरोलुङ् करम गेयान नाहि भेलो",
+  "titleBengali": "না কোরোলুঙ্ করম গেযান নাহি ভেলো"
 }

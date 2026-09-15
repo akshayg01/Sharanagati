@@ -14,7 +14,15 @@
         "‘ahaṁ mama’-śabda-arthe jāhā kichu hoy",
         "arpiluṅ tomāra pade, ohe doyā-moy!"
       ],
-      "translation": "All there is that may be indicated by the words aham (“I”) and mama (“mine”), I offer at Your lotus feet, O merciful Lord!"
+      "translation": "All there is that may be indicated by the words aham (“I”) and mama (“mine”), I offer at Your lotus feet, O merciful Lord!",
+      "deva": [
+        "‘अहं मम’-शब्द-अर्थे जाहा किछु होय्",
+        "अर्पिलुङ् तोमार पदे, ओहे दोया-मोय्!"
+      ],
+      "bengali": [
+        "‘অহং মম’-শব্দ-অর্থে জাহা কিছু হোয্",
+        "অর্পিলুঙ্ তোমার পদে, ওহে দোযা-মোয্!"
+      ]
     },
     {
       "label": "2",
@@ -22,7 +30,15 @@
         "‘āmāra’ āmi to’ nātha! nā rohinu ār",
         "ekhona hoinu āmi kevala tomār"
       ],
-      "translation": "I no longer consider even myself to be “mine”, O Lord! Now I have become exclusively Yours."
+      "translation": "I no longer consider even myself to be “mine”, O Lord! Now I have become exclusively Yours.",
+      "deva": [
+        "‘आमार’ आमि तो’ नाथ! ना रोहिनु आर्",
+        "एखोन होइनु आमि केवल तोमार्"
+      ],
+      "bengali": [
+        "‘আমার’ আমি তো’ নাথ! না রোহিনু আর্",
+        "এখোন হোইনু আমি কেবল তোমার্"
+      ]
     },
     {
       "label": "3",
@@ -30,7 +46,15 @@
         "‘āmi’ śabde dehī jīva ahaṁtā chāḍilo",
         "twadīyābhimāna āji hṛdoye paśilo"
       ],
-      "translation": ""
+      "translation": "",
+      "deva": [
+        "‘आमि’ शब्दे देही जीव अहंता छाडिलो",
+        "त्वदीयाभिमान आजि हृदोये पशिलो"
+      ],
+      "bengali": [
+        "‘আমি’ শব্দে দেহী জীব অহংতা ছাডিলো",
+        "ত্বদীযাভিমান আজি হৃদোযে পশিলো"
+      ]
     },
     {
       "label": "4",
@@ -38,7 +62,15 @@
         "āmār sarvasva-deho, geho anucar",
         "bhāi, bandhu, dārā, suta, dravya, dwāra, ghar"
       ],
-      "translation": "All my possessions-body, home, servants, brothers, friends, wife, sons, personal belongings, fencing and gateways…"
+      "translation": "All my possessions-body, home, servants, brothers, friends, wife, sons, personal belongings, fencing and gateways…",
+      "deva": [
+        "आमार् सर्वस्व-देहो, गेहो अनुचर्",
+        "भाइ, बन्धु, दारा, सुत, द्रव्य, द्वार, घर्"
+      ],
+      "bengali": [
+        "আমার্ সর্বস্ব-দেহো, গেহো অনুচর্",
+        "ভাই, বন্ধু, দারা, সুত, দ্রব্য, দ্বার, ঘর্"
+      ]
     },
     {
       "label": "5",
@@ -46,7 +78,15 @@
         "se saba hoilo tava, āmi hoinu dās",
         "tomāra gṛhete ebe āmi kori bās"
       ],
-      "translation": "…all of these things are now Yours, for I have become Your servant. I am but a mere occupant in Your house."
+      "translation": "…all of these things are now Yours, for I have become Your servant. I am but a mere occupant in Your house.",
+      "deva": [
+        "से सब होइलो तव, आमि होइनु दास्",
+        "तोमार गृहेते एबे आमि कोरि बास्"
+      ],
+      "bengali": [
+        "সে সব হোইলো তব, আমি হোইনু দাস্",
+        "তোমার গৃহেতে এবে আমি কোরি বাস্"
+      ]
     },
     {
       "label": "6",
@@ -54,7 +94,15 @@
         "tumi gṛha-swāmī, āmi sevaka tomār",
         "tomāra sukhete ceṣṭā ekhona āmār"
       ],
-      "translation": "You are the owner of the house, and I am Your most obedient servant. My only activity now is endeavoring for Your happiness."
+      "translation": "You are the owner of the house, and I am Your most obedient servant. My only activity now is endeavoring for Your happiness.",
+      "deva": [
+        "तुमि गृह-स्वामी, आमि सेवक तोमार्",
+        "तोमार सुखेते चेष्टा एखोन आमार्"
+      ],
+      "bengali": [
+        "তুমি গৃহ-স্বামী, আমি সেবক তোমার্",
+        "তোমার সুখেতে চেষ্টা এখোন আমার্"
+      ]
     },
     {
       "label": "7",
@@ -62,7 +110,15 @@
         "sthūla-liṅga-dehe mora sukṛta duṣkṛta",
         "āra mora nahe, prabhu! āmi to’ niṣkṛta"
       ],
-      "translation": "Whatever pious or impious activities that were performed by me, either with my gross or subtle bodies, are no longer mine, O Lord, for I am redeemed!"
+      "translation": "Whatever pious or impious activities that were performed by me, either with my gross or subtle bodies, are no longer mine, O Lord, for I am redeemed!",
+      "deva": [
+        "स्थूल-लिङ्ग-देहे मोर सुकृत दुष्कृत",
+        "आर मोर नहे, प्रभु! आमि तो’ निष्कृत"
+      ],
+      "bengali": [
+        "স্থূল-লিঙ্গ-দেহে মোর সুকৃত দুষ্কৃত",
+        "আর মোর নহে, প্রভু! আমি তো’ নিষ্কৃত"
+      ]
     },
     {
       "label": "8",
@@ -70,11 +126,21 @@
         "tomāra icchāya mora icchā miśāilo",
         "bhakativinoda āja āpane bhulilo"
       ],
-      "translation": "My will has become merged with Your will. From this day forward Bhaktivinoda has completely for-gotten himself."
+      "translation": "My will has become merged with Your will. From this day forward Bhaktivinoda has completely for-gotten himself.",
+      "deva": [
+        "तोमार इच्छाय मोर इच्छा मिशाइलो",
+        "भकतिविनोद आज आपने भुलिलो"
+      ],
+      "bengali": [
+        "তোমার ইচ্ছায মোর ইচ্ছা মিশাইলো",
+        "ভকতিবিনোদ আজ আপনে ভুলিলো"
+      ]
     }
   ],
   "source": {
     "name": "Bhaktivinoda Institute",
     "url": "https://bhaktivinodainstitute.org/atma-nivedana-song-four/"
-  }
+  },
+  "titleDeva": "अहं मम-शब्द-अर्थे जाहा किछु होय्",
+  "titleBengali": "অহং মম-শব্দ-অর্থে জাহা কিছু হোয্"
 }

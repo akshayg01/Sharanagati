@@ -15,7 +15,17 @@
         "tuwā pada-pallava, tyajato maru-mana,",
         "viṣama viṣaye bhelo bhor"
       ],
-      "translation": "O Lord! I offer this humble prayer at Your feet. I gave up the shelter of Your feet, which are soft as newly-grown leaves, and now my mind has become dried up like a desert, being scorched by the fire of absorption in horrible worldliness."
+      "translation": "O Lord! I offer this humble prayer at Your feet. I gave up the shelter of Your feet, which are soft as newly-grown leaves, and now my mind has become dried up like a desert, being scorched by the fire of absorption in horrible worldliness.",
+      "deva": [
+        "(प्रभु हे!) तुवा पदे ए मिनति मोर्",
+        "तुवा पद-पल्लव, त्यजतो मरु-मन,",
+        "विषम विषये भेलो भोर्"
+      ],
+      "bengali": [
+        "(প্রভু হে!) তুবা পদে এ মিনতি মোর্",
+        "তুবা পদ-পল্লব, ত্যজতো মরু-মন,",
+        "বিষম বিষযে ভেলো ভোর্"
+      ]
     },
     {
       "label": "2",
@@ -25,7 +35,19 @@
         "dīna-jana-nātha, tuhuṅ kahāyasi,",
         "tumāri caraṇa mama āś"
       ],
-      "translation": "I find no strength to rise again, and thus I spend my days bitterly lamenting. O Lord who is called the master of the meek and humble! Your lotus feet are my only hope."
+      "translation": "I find no strength to rise again, and thus I spend my days bitterly lamenting. O Lord who is called the master of the meek and humble! Your lotus feet are my only hope.",
+      "deva": [
+        "उठयिते ताकत, पुन नाहि मिलो-इ,",
+        "अनुदिन कोरोहुङ् हुताश्",
+        "दीन-जन-नाथ, तुहुङ् कहायसि,",
+        "तुमारि चरण मम आश्"
+      ],
+      "bengali": [
+        "উঠযিতে তাকত, পুন নাহি মিলো-ই,",
+        "অনুদিন কোরোহুঙ্ হুতাশ্",
+        "দীন-জন-নাথ, তুহুঙ্ কহাযসি,",
+        "তুমারি চরণ মম আশ্"
+      ]
     },
     {
       "label": "3",
@@ -35,7 +57,19 @@
         "tuwā jana-saṅge, tuwā kathā-raṅge,",
         "chāḍahuṅ sakala paramād"
       ],
-      "translation": "There has never been a soul as forlorn as me. Please be merciful and award me the association of Your devotees, for by tasting the pleasure of hearing discussions of Your pastimes I shall give up all evils."
+      "translation": "There has never been a soul as forlorn as me. Please be merciful and award me the association of Your devotees, for by tasting the pleasure of hearing discussions of Your pastimes I shall give up all evils.",
+      "deva": [
+        "ऐछन दीन-जन, कोहि नाहि मिलो-इ,",
+        "तुहुङ् मोरे कोरो परसाद्",
+        "तुवा जन-सङ्गे, तुवा कथा-रङ्गे,",
+        "छाडहुङ् सकल परमाद्"
+      ],
+      "bengali": [
+        "ঐছন দীন-জন, কোহি নাহি মিলো-ই,",
+        "তুহুঙ্ মোরে কোরো পরসাদ্",
+        "তুবা জন-সঙ্গে, তুবা কথা-রঙ্গে,",
+        "ছাডহুঙ্ সকল পরমাদ্"
+      ]
     },
     {
       "label": "4",
@@ -45,11 +79,25 @@
         "tuwā pada-chāyā, parama suśītala,",
         "māge bhakativinoda dās"
       ],
-      "translation": "One hope animates my soul: To spend day and night singing Your holy name while living in Your divine abode. Your servant Bhaktivinoda begs a place in the supremely cooling shade of Your lotus feet."
+      "translation": "One hope animates my soul: To spend day and night singing Your holy name while living in Your divine abode. Your servant Bhaktivinoda begs a place in the supremely cooling shade of Your lotus feet.",
+      "deva": [
+        "तुवा धाम-माहे, तुवा नाम गाओतो,",
+        "गोवायबुङ् दिवा-निशि आश्",
+        "तुवा पद-छाया, परम सुशीतल,",
+        "मागे भकतिविनोद दास्"
+      ],
+      "bengali": [
+        "তুবা ধাম-মাহে, তুবা নাম গাওতো,",
+        "গোবাযবুঙ্ দিবা-নিশি আশ্",
+        "তুবা পদ-ছাযা, পরম সুশীতল,",
+        "মাগে ভকতিবিনোদ দাস্"
+      ]
     }
   ],
   "source": {
     "name": "Bhaktivinoda Institute",
     "url": "https://bhaktivinodainstitute.org/dainya-song-six/"
-  }
+  },
+  "titleDeva": "प्रभु हे! तुवा पदे ए मिनति मोर्",
+  "titleBengali": "প্রভু হে! তুবা পদে এ মিনতি মোর্"
 }

@@ -18,7 +18,23 @@
         "‘hari hari’ boli’, godruma-kānane,",
         "bhromibo darśana-āśe"
       ],
-      "translation": "O Gurudeva! When will it be, as a manifestation of your mercy? I will become fixed in the firm faith that Lord Gaurāṅga’s pastimes are eternal realities. Chanting “Hari! Hari!” I will wander throughout the groves of Godruma, hoping to catch a glimpse of those pastimes."
+      "translation": "O Gurudeva! When will it be, as a manifestation of your mercy? I will become fixed in the firm faith that Lord Gaurāṅga’s pastimes are eternal realities. Chanting “Hari! Hari!” I will wander throughout the groves of Godruma, hoping to catch a glimpse of those pastimes.",
+      "deva": [
+        "गुरुदेव्!",
+        "कबे तव करुना-प्रकाशे",
+        "श्री-गौराङ्ग-लीला, होय नित्य-तत्त्व,",
+        "एइ दृढ विश्वासे",
+        "‘हरि हरि’ बोलि’, गोद्रुम-कानने,",
+        "भ्रोमिबो दर्शन-आशे"
+      ],
+      "bengali": [
+        "গুরুদেব্!",
+        "কবে তব করুনা-প্রকাশে",
+        "শ্রী-গৌরাঙ্গ-লীলা, হোয নিত্য-তত্ত্ব,",
+        "এই দৃঢ বিশ্বাসে",
+        "‘হরি হরি’ বোলি’, গোদ্রুম-কাননে,",
+        "ভ্রোমিবো দর্শন-আশে"
+      ]
     },
     {
       "label": "2",
@@ -28,7 +44,19 @@
         "kṛṣṇa-nāma-rase, bhāsā’be jagat,",
         "kori’ mahā-saṅkīrtana"
       ],
-      "translation": "The five personalities-Nitāi, Gaurāṅga, Advaita, Śrīvāsa, and Gadādhara-will flood the entire universe with the intoxicating nectar of the holy name of Śrī Kṛṣṇa by performing a mahā-saṅkīrtan."
+      "translation": "The five personalities-Nitāi, Gaurāṅga, Advaita, Śrīvāsa, and Gadādhara-will flood the entire universe with the intoxicating nectar of the holy name of Śrī Kṛṣṇa by performing a mahā-saṅkīrtan.",
+      "deva": [
+        "निताइ, गौराङ्ग, अद्वैत, श्रीवास,",
+        "गदाधर,-पञ्च-जन",
+        "कृष्ण-नाम-रसे, भासा’बे जगत्,",
+        "कोरि’ महा-सङ्कीर्तन"
+      ],
+      "bengali": [
+        "নিতাই, গৌরাঙ্গ, অদ্বৈত, শ্রীবাস,",
+        "গদাধর,-পঞ্চ-জন",
+        "কৃষ্ণ-নাম-রসে, ভাসা’বে জগত্,",
+        "কোরি’ মহা-সঙ্কীর্তন"
+      ]
     },
     {
       "label": "3",
@@ -38,7 +66,19 @@
         "dekhiyā dekhiyā, se līlā-mādhurī,",
         "bhāsibo premera bāne"
       ],
-      "translation": "With my own ears I will hear the sounds of playful dancing and the rhythmic pulsations of the mṛdaṅga drums. By constantly looking and looking upon the sweetness and beauty of that pastime, I will float in the flood-tide of divine love."
+      "translation": "With my own ears I will hear the sounds of playful dancing and the rhythmic pulsations of the mṛdaṅga drums. By constantly looking and looking upon the sweetness and beauty of that pastime, I will float in the flood-tide of divine love.",
+      "deva": [
+        "नर्तन-विलास, मृदङ्ग-वादन,",
+        "शुनिबो आपन-काने",
+        "देखिया देखिया, से लीला-माधुरी,",
+        "भासिबो प्रेमेर बाने"
+      ],
+      "bengali": [
+        "নর্তন-বিলাস, মৃদঙ্গ-বাদন,",
+        "শুনিবো আপন-কানে",
+        "দেখিযা দেখিযা, সে লীলা-মাধুরী,",
+        "ভাসিবো প্রেমের বানে"
+      ]
     },
     {
       "label": "4",
@@ -48,11 +88,25 @@
         "āmāre viṣayī, pāgala boliyā,",
         "aṅgete dibeka dhūli"
       ],
-      "translation": "The next moment losing sight of the jewel of that pastime, I shall weep and cry out, “O my Lord Gaurāṅga!” Materialists will then proclaim me thoroughly mad and will throw dust upon my body."
+      "translation": "The next moment losing sight of the jewel of that pastime, I shall weep and cry out, “O my Lord Gaurāṅga!” Materialists will then proclaim me thoroughly mad and will throw dust upon my body.",
+      "deva": [
+        "ना देखि’ आबार, से लीला-रतन,",
+        "काङ्दि हा गौराङ्ग! बोलि’",
+        "आमारे विषयी, पागल बोलिया,",
+        "अङ्गेते दिबेक धूलि"
+      ],
+      "bengali": [
+        "না দেখি’ আবার, সে লীলা-রতন,",
+        "কাঙ্দি হা গৌরাঙ্গ! বোলি’",
+        "আমারে বিষযী, পাগল বোলিযা,",
+        "অঙ্গেতে দিবেক ধূলি"
+      ]
     }
   ],
   "source": {
     "name": "Bhaktivinoda Institute",
     "url": "https://bhaktivinodainstitute.org/bhajana-lalasa-song-thirteen/"
-  }
+  },
+  "titleDeva": "कबे तव करुना-प्रकाशे",
+  "titleBengali": "কবে তব করুনা-প্রকাশে"
 }

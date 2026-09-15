@@ -17,7 +17,21 @@
         "sakala sahane, bala diyā koro’,",
         "nija-māne spṛhā-hīna"
       ],
-      "translation": "O Gurudeva! By administering a drop of your mercy make this servant of yours infinitely more humble than a blade of grass. Giving me the strength to bear all trials and troubles, free me from desires for personal honor. *"
+      "translation": "O Gurudeva! By administering a drop of your mercy make this servant of yours infinitely more humble than a blade of grass. Giving me the strength to bear all trials and troubles, free me from desires for personal honor. *",
+      "deva": [
+        "गुरुदेव्!",
+        "कृपा-बिन्दु दिया, कोरो’ एइ दासे,",
+        "तृणापेक्षा अति हीन",
+        "सकल सहने, बल दिया कोरो’,",
+        "निज-माने स्पृहा-हीन"
+      ],
+      "bengali": [
+        "গুরুদেব্!",
+        "কৃপা-বিন্দু দিযা, কোরো’ এই দাসে,",
+        "তৃণাপেক্ষা অতি হীন",
+        "সকল সহনে, বল দিযা কোরো’,",
+        "নিজ-মানে স্পৃহা-হীন"
+      ]
     },
     {
       "label": "2",
@@ -27,7 +41,19 @@
         "tabe to’ gāibo, hari-nāma-sukhe,",
         "aparādha ha’be hata"
       ],
-      "translation": "O lord and master! Inspire me with the power to befittingly honor all living beings. Only then will I sing the holy name of the Lord in great ecstasy, and my offensive activities will cease."
+      "translation": "O lord and master! Inspire me with the power to befittingly honor all living beings. Only then will I sing the holy name of the Lord in great ecstasy, and my offensive activities will cease.",
+      "deva": [
+        "सकले सम्मान, कोरिते शकति,",
+        "देहो’ नाथ! जथाजथ",
+        "तबे तो’ गाइबो, हरि-नाम-सुखे,",
+        "अपराध ह’बे हत"
+      ],
+      "bengali": [
+        "সকলে সম্মান, কোরিতে শকতি,",
+        "দেহো’ নাথ! জথাজথ",
+        "তবে তো’ গাইবো, হরি-নাম-সুখে,",
+        "অপরাধ হ’বে হত"
+      ]
     },
     {
       "label": "3",
@@ -37,7 +63,19 @@
         "śakti-buddhi-hīna, āmi ati dīna,",
         "koro’ more ātma-sātha"
       ],
-      "translation": "When will this person be indeed blessed by receiving your mercy, O lord and master? Devoid of all strength and intelligence, I am very low and fallen. Please make me your own."
+      "translation": "When will this person be indeed blessed by receiving your mercy, O lord and master? Devoid of all strength and intelligence, I am very low and fallen. Please make me your own.",
+      "deva": [
+        "कबे हेनो कृपा, लभिया ए जन,",
+        "कृतार्थ होइबे, नाथ!",
+        "शक्ति-बुद्धि-हीन, आमि अति दीन,",
+        "कोरो’ मोरे आत्म-साथ"
+      ],
+      "bengali": [
+        "কবে হেনো কৃপা, লভিযা এ জন,",
+        "কৃতার্থ হোইবে, নাথ!",
+        "শক্তি-বুদ্ধি-হীন, আমি অতি দীন,",
+        "কোরো’ মোরে আত্ম-সাথ"
+      ]
     },
     {
       "label": "4",
@@ -47,11 +85,25 @@
         "karuṇā nā hoile, kāṅdiyā kāṅdiyā,",
         "prāṇa nā rākhibo āra"
       ],
-      "translation": "When I examine myself for worthiness, I find nothing of value. Therefore Your mercy is the essence of life. If you are not merciful to me, then I will constantly weep and weep, no longer being able to maintain my life."
+      "translation": "When I examine myself for worthiness, I find nothing of value. Therefore Your mercy is the essence of life. If you are not merciful to me, then I will constantly weep and weep, no longer being able to maintain my life.",
+      "deva": [
+        "योग्यता-विचारे, किछु नाहि पाइ,",
+        "तोमार करुणा-सार",
+        "करुणा ना होइले, काङ्दिया काङ्दिया,",
+        "प्राण ना राखिबो आर"
+      ],
+      "bengali": [
+        "যোগ্যতা-বিচারে, কিছু নাহি পাই,",
+        "তোমার করুণা-সার",
+        "করুণা না হোইলে, কাঙ্দিযা কাঙ্দিযা,",
+        "প্রাণ না রাখিবো আর"
+      ]
     }
   ],
   "source": {
     "name": "Bhaktivinoda Institute",
     "url": "https://bhaktivinodainstitute.org/bhajana-lalasa-song-eleven/"
-  }
+  },
+  "titleDeva": "कृपा-बिन्दु दिया, कोरोऽ एइ दासे",
+  "titleBengali": "কৃপা-বিন্দু দিযা, কোরোঽ এই দাসে"
 }

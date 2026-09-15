@@ -13,6 +13,11 @@ export default function Songbook() {
     }
   }, [hash])
 
+  const scrollToSection = (slug) => {
+    const el = document.getElementById(slug)
+    if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' })
+  }
+
   return (
     <div className="mx-auto max-w-5xl px-5 py-14">
       <header className="text-center">
@@ -28,13 +33,14 @@ export default function Songbook() {
       {/* Quick section index */}
       <nav className="mt-8 flex flex-wrap justify-center gap-2">
         {sectionsWithSongs.map((s) => (
-          <a
+          <button
             key={s.slug}
-            href={`#${s.slug}`}
+            type="button"
+            onClick={() => scrollToSection(s.slug)}
             className="rounded-full border border-white/10 px-3 py-1.5 text-xs text-night-200 transition-colors hover:border-saffron-400/40 hover:text-saffron-300"
           >
             {s.name}
-          </a>
+          </button>
         ))}
       </nav>
 

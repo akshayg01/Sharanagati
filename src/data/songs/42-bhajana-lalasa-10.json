@@ -17,7 +17,21 @@
         "ājñā dila more, ei braje bosi’,",
         "hari-nāma koro gāna"
       ],
-      "translation": "O Gurudeva! Because you are so merciful, you gave me a place to live in Godruma amid the woodlands of Gauḍa-deśa, with this order to fulfill: “Dwell here in this sacred place of Vraja and sing the holy name of Hari.”"
+      "translation": "O Gurudeva! Because you are so merciful, you gave me a place to live in Godruma amid the woodlands of Gauḍa-deśa, with this order to fulfill: “Dwell here in this sacred place of Vraja and sing the holy name of Hari.”",
+      "deva": [
+        "गुरुदेव्!",
+        "बोडो कृपा कोरि’, गौड-वन माझे,",
+        "गोद्रुमे दियाछो स्थान",
+        "आज्ञा दिल मोरे, एइ ब्रजे बोसि’,",
+        "हरि-नाम कोरो गान"
+      ],
+      "bengali": [
+        "গুরুদেব্!",
+        "বোডো কৃপা কোরি’, গৌড-বন মাঝে,",
+        "গোদ্রুমে দিযাছো স্থান",
+        "আজ্ঞা দিল মোরে, এই ব্রজে বোসি’,",
+        "হরি-নাম কোরো গান"
+      ]
     },
     {
       "label": "2",
@@ -27,7 +41,19 @@
         "citta sthira habe, sakala sohibo,",
         "ekānte bhajibo hari"
       ],
-      "translation": "But when, O master, out of your great mercy, will you bestow upon this servant the spiritual qualification to fulfill that order? My mind will then become tranquil, I will endure all hardships, and I will serve Lord Hari with undivided attention."
+      "translation": "But when, O master, out of your great mercy, will you bestow upon this servant the spiritual qualification to fulfill that order? My mind will then become tranquil, I will endure all hardships, and I will serve Lord Hari with undivided attention.",
+      "deva": [
+        "किन्तु कबे प्रभु, योग्यता अर्पिबे,",
+        "ए दासेरे दोया कोरि’",
+        "चित्त स्थिर हबे, सकल सोहिबो,",
+        "एकान्ते भजिबो हरि"
+      ],
+      "bengali": [
+        "কিন্তু কবে প্রভু, যোগ্যতা অর্পিবে,",
+        "এ দাসেরে দোযা কোরি’",
+        "চিত্ত স্থির হবে, সকল সোহিবো,",
+        "একান্তে ভজিবো হরি"
+      ]
     },
     {
       "label": "3",
@@ -37,7 +63,19 @@
         "nija-karma-doṣe, e deho hoilo,",
         "bhajanera pratibandha"
       ],
-      "translation": "Due to attachment to worldly pleasures in childhood and youth, I have developed many bad habits. Due to the reaction of these sinful acts my body itself has become an impediment to the service of the Supreme Lord."
+      "translation": "Due to attachment to worldly pleasures in childhood and youth, I have developed many bad habits. Due to the reaction of these sinful acts my body itself has become an impediment to the service of the Supreme Lord.",
+      "deva": [
+        "शैशव-यौवने, जड-सुख-सङ्गे,",
+        "अभ्यास होइलो मन्द",
+        "निज-कर्म-दोषे, ए देहो होइलो,",
+        "भजनेर प्रतिबन्ध"
+      ],
+      "bengali": [
+        "শৈশব-যৌবনে, জড-সুখ-সঙ্গে,",
+        "অভ্যাস হোইলো মন্দ",
+        "নিজ-কর্ম-দোষে, এ দেহো হোইলো,",
+        "ভজনের প্রতিবন্ধ"
+      ]
     },
     {
       "label": "4",
@@ -47,11 +85,25 @@
         "kāṅdiyā kāṅdiyā, tomāra caraṇe,",
         "poḍiyāchi suvihvala"
       ],
-      "translation": "Now, in old age, afflicted by the five-fold illnesses, how will I serve the Lord? O master, please tell me! Weeping and weeping, I have fallen at your feet, overwhelmed with anxiety. *"
+      "translation": "Now, in old age, afflicted by the five-fold illnesses, how will I serve the Lord? O master, please tell me! Weeping and weeping, I have fallen at your feet, overwhelmed with anxiety. *",
+      "deva": [
+        "वार्धक्ये एखोन, पञ्च-रोगे हत,",
+        "केमोने भोजिबो बोलो’",
+        "काङ्दिया काङ्दिया, तोमार चरणे,",
+        "पोडियाछि सुविह्वल"
+      ],
+      "bengali": [
+        "বার্ধক্যে এখোন, পঞ্চ-রোগে হত,",
+        "কেমোনে ভোজিবো বোলো’",
+        "কাঙ্দিযা কাঙ্দিযা, তোমার চরণে,",
+        "পোডিযাছি সুবিহ্বল"
+      ]
     }
   ],
   "source": {
     "name": "Bhaktivinoda Institute",
     "url": "https://bhaktivinodainstitute.org/bhajana-lalasa-song-ten/"
-  }
+  },
+  "titleDeva": "बोडो कृपा कोरिऽ, गौड-वन माझे",
+  "titleBengali": "বোডো কৃপা কোরিঽ, গৌড-বন মাঝে"
 }
