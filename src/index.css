@@ -8,6 +8,13 @@
 
 html {
   scroll-behavior: smooth;
+  font-size: 17.5px; /* base bump from the default 16px — scales all rem sizing */
+}
+
+@media (min-width: 640px) {
+  html {
+    font-size: 18px;
+  }
 }
 
 body {
