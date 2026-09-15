@@ -1,0 +1,65 @@
+{
+  "slug": "dainya-5",
+  "section": "dainya",
+  "order": 6,
+  "label": "Dainya Song Five",
+  "title": "prabhu he! śuno mor duḥkher kāhinī",
+  "incipit": "(prabhu he!) śuno mor duḥkher kāhinī",
+  "metaDescription": "Dainya Song Five: (prabhu he! śuno mor duḥkher kāhinī) of Śaraṇāgati (‘Surrender’) written by Bhaktivinoda Ṭhākura in 1893. This songbook contains 50 songs detailing the six symptoms of surrender unto the lotus feet of Śrī Kṛṣṇa.",
+  "verseCount": 5,
+  "verses": [
+    {
+      "label": "1",
+      "translit": [
+        "(prabhu he!) śuno mor duḥkher kāhinī",
+        "viṣaya-halāhala, sudhā-bhāne piyaluṅ,",
+        "āb avasāna dinamaṇi"
+      ],
+      "translation": "O Lord! Please hear the story of my sadness. I drank the deadly poison of worldliness, pretending it was nectar, and now the sun is setting on the horizon of my life."
+    },
+    {
+      "label": "2",
+      "translit": [
+        "khelā-rase śaiśava, poḍhaite kaiśora,",
+        "gowāoluṅ, nā bhelo vivek",
+        "bhoga-baśe yauvane, ghara pāti’ bosiluṅ,",
+        "suta-mita bāḍhalo anek"
+      ],
+      "translation": "I spent my childhood in play, my youth in academic pursuit, and in me there arose no sense of discrimination. In young manhood I set up a household and settled down to the spell of material enjoyment while my children and friends quickly multiplied."
+    },
+    {
+      "label": "3",
+      "translit": [
+        "vṛddha-kāla āolo, saba sukha bhāgalo,",
+        "pīḍā-baśe hoinu kātar",
+        "sarvendriya durbala, kṣīna kalevara,",
+        "bhogābhāve duḥkhita antar"
+      ],
+      "translation": "Old age soon arrived, and all joys consequently departed. Subjected to the torments of disease, I am troubled and weak. All my senses are feeble now, my body is racked and exhausted, and my spirits are downcast in the absence of former sense pleasures."
+    },
+    {
+      "label": "4",
+      "translit": [
+        "jñāna-lava-hīna, bhakti-rase vañchita,",
+        "āra mora ki habe upāy",
+        "patita-bandhu, tuhuṅ, patitādhama hāma,",
+        "kṛpāya uṭhāo tava pāy"
+      ],
+      "translation": "Devoid of even a particle of enlightenment, cheated of the mellows of devotion-what help is there for me now? O Lord, You are the friend of the fallen. I am certainly fallen, the lowest of men. Please, therefore, in mercy lift me to Your lotus feet."
+    },
+    {
+      "label": "5",
+      "translit": [
+        "vicārite ābahi, guna nāhi pāobi,",
+        "kṛpā koro, choḍato vicār",
+        "tava pada-paṅkaja- sīdhu pibāoto,",
+        "bhakativinoda karo pār"
+      ],
+      "translation": "Were You to judge me now, You would find no good qualities. Have mercy and judge me not. Cause me to drink the honey of Your lotus feet and thereby deliver this Bhaktivinoda."
+    }
+  ],
+  "source": {
+    "name": "Bhaktivinoda Institute",
+    "url": "https://bhaktivinodainstitute.org/dainya-song-five/"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "slug": "svikara-1",
+  "section": "svikara",
+  "order": 29,
+  "label": "Svīkara Song One",
+  "title": "tuwā-bhakti-anukūla",
+  "incipit": "tuwā-bhakti-anukūla je-je kārya hoy",
+  "metaDescription": "Svīkara Song One (tuwā-bhakti-anukūla) of Śaraṇāgati (‘Surrender’) written by Bhaktivinoda Ṭhākura in 1893. This songbook contains 50 songs detailing the six symptoms of surrender unto the lotus feet of Śrī Kṛṣṇa.",
+  "verseCount": 9,
+  "verses": [
+    {
+      "label": "1",
+      "translit": [
+        "tuwā-bhakti-anukūla je-je kārya hoy",
+        "parama-jatane tāhā koribo niścoy"
+      ],
+      "translation": "I will surely execute with utmost care those activities favorable to Your pure devotional service."
+    },
+    {
+      "label": "2",
+      "translit": [
+        "bhakti-anukūla jata viṣaya saṁsāre",
+        "koribo tāhāte rati indriyera dwāre"
+      ],
+      "translation": "I will feel fondness for those things in this world which are conducive to pure devotion, and with my senses I will engage them in Your service."
+    },
+    {
+      "label": "3",
+      "translit": [
+        "śunibo tomāra kathā jatana koriyā",
+        "dekhibo tomāra dhāma nayana bhoriyā"
+      ],
+      "translation": "I will carefully listen to all discussions concerning You, and the satisfaction of my eyes will be to behold Your divine abode."
+    },
+    {
+      "label": "4",
+      "translit": [
+        "tomāra prasāde deho koribo poṣan",
+        "naivedya-tulasī-ghrāna koribo grahan"
+      ],
+      "translation": "I will nourish my body with the sacred remnants of Your food, and I will smell the sweet scent of tulasī leaves adorning those offerings."
+    },
+    {
+      "label": "5",
+      "translit": [
+        "kara-dwāre koribo tomāra sevā sadā",
+        "tomāra vasati-sthale basibo sarvadā"
+      ],
+      "translation": "With my hands I will always execute Your service, and I will forever dwell at that place where You abide."
+    },
+    {
+      "label": "6",
+      "translit": [
+        "tomāra sevāya kāma niyoga koribo",
+        "tomāra vidveṣi-jane krodha dekhāibo"
+      ],
+      "translation": "I will employ my desires in Your devotional service, and will show my anger to those who are envious of You."
+    },
+    {
+      "label": "7",
+      "translit": [
+        "ei-rūpe sarva-vṛtti āra sarva-bhāva",
+        "tuwā anukūla hoye labhuka prabhāva"
+      ],
+      "translation": "In this way, may all of my propensities and emotions earn spiritual potency by being favorably dovetailed in Your interest."
+    },
+    {
+      "label": "8",
+      "translit": [
+        "tuwā bhakta-anukūla jāhā jāhā kori",
+        "tuwā bhakti-anukūla boli’ tāhā dhori"
+      ],
+      "translation": "Anything I do which gives pleasure to Your devotee I will embrace as conducive to Your devotional service."
+    },
+    {
+      "label": "9",
+      "translit": [
+        "bhakativinoda nāhi jāne dharmādharma",
+        "bhakti-anukūla tāra hau saba karma"
+      ],
+      "translation": "Bhaktivinoda knows neither religion nor irreligion. He simply prays that all his activities be favorable for pure devotion unto You."
+    }
+  ],
+  "source": {
+    "name": "Bhaktivinoda Institute",
+    "url": "https://bhaktivinodainstitute.org/svikara-song-one/"
+  }
+}

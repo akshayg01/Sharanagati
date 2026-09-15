@@ -1,0 +1,55 @@
+{
+  "slug": "atma-nivedana-2",
+  "section": "atma-nivedana",
+  "order": 10,
+  "label": "Ātma-Nivedana Song Two",
+  "title": "prāneśwar! kohobuṅ ki sarama ki bāt",
+  "incipit": "(prāneśwar!) kohobuṅ ki sarama ki bāt",
+  "metaDescription": "Ātma-Nivedana Song Two: (prāneśwar! kohobuṅ ki sarama ki bāt) of Śaraṇāgati (‘Surrender’) written by Bhaktivinoda Ṭhākura in 1893. This songbook contains 50 songs detailing the six symptoms of surrender unto the lotus feet of Śrī Kṛṣṇa.",
+  "verseCount": 4,
+  "verses": [
+    {
+      "label": "1",
+      "translit": [
+        "(prāneśwar!) kohobuṅ ki sarama ki bāt",
+        "aichana pāp nāhi, jo hāma nā koraluṅ,",
+        "sahasra sahasra beri nāth"
+      ],
+      "translation": "O Lord of my life! How shall I tell You of my shameful story? There is no sin which I have not committed thousands of times and more, O Lord.*"
+    },
+    {
+      "label": "2",
+      "translit": [
+        "sohi karama-phala, bhave moke peśa-i,",
+        "dokha deobo āb kāhi",
+        "takhonaka parinām, kachu nā bicāraluṅ,",
+        "āb pachu taraite cāhi"
+      ],
+      "translation": "My life in this world has only been one of affliction and torment as a result of those sins. Who is there to blame for this misery? At the time I did not consider the consequences; but now, in the aftermath, I seek to be saved."
+    },
+    {
+      "label": "3",
+      "translit": [
+        "dokha vicāra-i, tuṅhu danḍa deobi,",
+        "hāma bhoga korabuṅ saṁsār",
+        "karato gatāgati, bhakata-jana-saṅge,",
+        "mati rohu caraṇe tohār"
+      ],
+      "translation": "After judging my sins, You will surely punish me befittingly, and I shall suffer the pangs of rebirth in this world. I only pray that, as I come and go through repeated births and deaths, my mind may ever dwell at Your lotus feet as I keep the company of Your devotees."
+    },
+    {
+      "label": "4",
+      "translit": [
+        "āpana caturpana, tuwā pade soṅpaluṅ,",
+        "hṛdoya-garava dūre gelo",
+        "dīna-doyā-moya, tuwā kṛpā niramala,",
+        "bhakativinoda āśā bhelo"
+      ],
+      "translation": "I offer this judicious prayer at Your feet: The pride of my heart has gone far away. O You who are so kind to the meek, Your spotlessly pure mercy has become Bhaktivinoda’s only hope."
+    }
+  ],
+  "source": {
+    "name": "Bhaktivinoda Institute",
+    "url": "https://bhaktivinodainstitute.org/atma-nivedana-song-two/"
+  }
+}

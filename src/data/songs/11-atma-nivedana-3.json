@@ -1,0 +1,80 @@
+{
+  "slug": "atma-nivedana-3",
+  "section": "atma-nivedana",
+  "order": 11,
+  "label": "Ātma-Nivedana Song Three",
+  "title": "mānasa deho geho jo kichu mor",
+  "incipit": "mānasa, deho, geho, jo kichu mor",
+  "metaDescription": "Ātma-Nivedana Song Three: (mānasa deho geho jo kichu mor) of Śaraṇāgati (‘Surrender’) written by Bhaktivinoda Ṭhākura in 1893. This songbook contains 50 songs detailing the six symptoms of surrender unto the lotus feet of Śrī Kṛṣṇa.",
+  "verseCount": 8,
+  "verses": [
+    {
+      "label": "1",
+      "translit": [
+        "mānasa, deho, geho, jo kichu mor",
+        "arpiluṅ tuwā pade, nanda-kiśor!"
+      ],
+      "translation": "Mind, body, family, and whatever else may be mine, I have surrendered at Your lotus feet, O youthful son of Nanda!"
+    },
+    {
+      "label": "2",
+      "translit": [
+        "sampade vipade, jīvane-maraṇe",
+        "dāy mama gelā, tuwā o-pada varaṇe"
+      ],
+      "translation": "In good fortune or in bad, in life or in death, all my difficulties have disappeared by accepting those feet of Yours as my only shelter."
+    },
+    {
+      "label": "3",
+      "translit": [
+        "mārobi rākhobi jo icchā tohāra",
+        "nitya-dāsa prati tuwā adhikāra"
+      ],
+      "translation": "Slay me or protect me as You wish, for You have full authority over Your eternal servant."
+    },
+    {
+      "label": "4",
+      "translit": [
+        "janmāobi moe icchā jadi tor",
+        "bhakta-gṛhe jani janma hau mor"
+      ],
+      "translation": "If it is Your wish that I be born again, then may I take birth in the home of Your devotee."
+    },
+    {
+      "label": "5",
+      "translit": [
+        "kīṭa-janma hau jathā tuwā dās",
+        "bahir-mukha brahmā-janme nāhi āś"
+      ],
+      "translation": "May I be born again even as a worm, as long as I remain Your devotee. I have no desire to be born as a Brahmā averse to You.*"
+    },
+    {
+      "label": "6",
+      "translit": [
+        "bhukti-mukti-spṛhā vihīna je bhakta",
+        "labhaite tāṅko saṅga anurakta"
+      ],
+      "translation": "I yearn for the company of that devotee who is completely devoid of all desire for worldly enjoyment or liberation."
+    },
+    {
+      "label": "7",
+      "translit": [
+        "janaka, jananī, dayita, tanay",
+        "prabhu, guru, pati-tuhū sarva-moy"
+      ],
+      "translation": "Father, mother, lover, son, Lord, preceptor, and husband-You are everything to me."
+    },
+    {
+      "label": "8",
+      "translit": [
+        "bhakativinoda kohe, śuno kāna!",
+        "rādhā-nātha! tuhuṅ hāmāra parāna"
+      ],
+      "translation": "Bhaktivinoda says, “O Kāna, please hear me! O Lord of Rādhā, You are my life and soul!”"
+    }
+  ],
+  "source": {
+    "name": "Bhaktivinoda Institute",
+    "url": "https://bhaktivinodainstitute.org/atma-nivedana-song-three/"
+  }
+}

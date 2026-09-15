@@ -1,0 +1,80 @@
+{
+  "slug": "svikara-4",
+  "section": "svikara",
+  "order": 32,
+  "label": "Svīkara Song Four",
+  "title": "rādhā-kunḍa-taṭa-kuñja-kuṭīr",
+  "incipit": "rādhā-kunḍa-taṭa-kuñja-kuṭīr",
+  "metaDescription": "Svīkara Song Four (rādhā-kunḍa-taṭa-kuñja-kuṭīr) of Śaraṇāgati (‘Surrender’) written by Bhaktivinoda Ṭhākura in 1893. This songbook contains 50 songs detailing the six symptoms of surrender unto the lotus feet of Śrī Kṛṣṇa.",
+  "verseCount": 8,
+  "verses": [
+    {
+      "label": "1",
+      "translit": [
+        "rādhā-kunḍa-taṭa-kuñja-kuṭīr",
+        "govardhana-parvata, jāmuna-tīr"
+      ],
+      "translation": "The cottage in the grove on the bank of Rādhā Kunḍa, the great Govardhana Hill, the banks of the Yamunā river…"
+    },
+    {
+      "label": "2",
+      "translit": [
+        "kusuma-sarovara, mānasa-gaṅgā",
+        "kalinda-nandinī vipula-taraṅga"
+      ],
+      "translation": "…the Kusuma Sarovara lake, the Manasa Gaṅgā stream, the daughter of Mt. Kalinda (the Yamunā river) with her many waves…"
+    },
+    {
+      "label": "3",
+      "translit": [
+        "vaṁśī-vaṭa, gokula, dhīra-samīr",
+        "bṛndābana-taru-latikā-bānīr"
+      ],
+      "translation": "…the Vaṁśī Vaṭ banyan tree, the town of Gokula, the holy place Dhīra Samīra, the trees and creepers and reeds of Vṛndāvana…"
+    },
+    {
+      "label": "4",
+      "translit": [
+        "khaga-mṛga-kula, malaya-bātās",
+        "mayūra, bhramara, muralī-vilās"
+      ],
+      "translation": "…the different varieties of birds and deer, the cooling breeze from the Malaya mountains, the peacocks, the bumblebees, the pastimes of the low-pitched muralī flute…"
+    },
+    {
+      "label": "5",
+      "translit": [
+        "venu, śṛṅga, pada-cihna, megha-mālā",
+        "vasanta, śaśaṅka, śaṅkha, karatāla"
+      ],
+      "translation": "…the high-pitched venu flute, the buffalo horn bugle, the footprints of the Lord and His consort in the dust of Vraja, the wreaths of blackish rain clouds, springtime, the moon, the conchshell, and the karatālas-"
+    },
+    {
+      "label": "6",
+      "translit": [
+        "yugala-vilāse anukūla jāni",
+        "līlā-vilāse-uddīpaka māni"
+      ],
+      "translation": "-all these I know to be very favorable for the blissful pastimes of the Divine Couple, Rādhā and Kṛṣṇa. I recognize them as transcendental stimulants (uddīpaka) for intensifying the Lord’s charming pastimes."
+    },
+    {
+      "label": "7",
+      "translit": [
+        "e saba choḍato kaṅhi nāhi jāu",
+        "e saba choḍato parāna hārāu"
+      ],
+      "translation": "I refuse to go anywhere if these stimulants of devotional service are not there, for to abandon them is to abandon life itself."
+    },
+    {
+      "label": "8",
+      "translit": [
+        "bhakativinoda kohe, śuno kān!",
+        "tuwā uddīpaka hāmārā parān"
+      ],
+      "translation": "Bhaktivinoda says, “Please hear me, O Kāna! All the things that stimulate remembrance of You are the very source of my life!”"
+    }
+  ],
+  "source": {
+    "name": "Bhaktivinoda Institute",
+    "url": "https://bhaktivinodainstitute.org/svikara-song-four/"
+  }
+}

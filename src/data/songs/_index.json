@@ -1,0 +1,376 @@
+{
+  "sections": [
+    {
+      "slug": "introductory",
+      "name": "Introductory Song",
+      "sanskrit": "",
+      "meaning": "Invocation",
+      "blurb": "Śrī Caitanya Mahāprabhu descends to teach the fallen souls the path of śaraṇāgati — surrender at the lotus feet of Śrī Kṛṣṇa."
+    },
+    {
+      "slug": "dainya",
+      "name": "Dainya",
+      "sanskrit": "दैन्य",
+      "meaning": "Humility",
+      "blurb": "The first limb of surrender: lamenting one’s fallen condition and forgetfulness of the Lord across a lifetime."
+    },
+    {
+      "slug": "atma-nivedana",
+      "name": "Ātma-Nivedana",
+      "sanskrit": "आत्म-निवेदन",
+      "meaning": "Dedication of the Self",
+      "blurb": "Offering one’s body, mind, home, and very self entirely at the feet of the Lord."
+    },
+    {
+      "slug": "goptrtve-varana",
+      "name": "Goptṛtve-Varaṇa",
+      "sanskrit": "गोप्तृत्वे-वरण",
+      "meaning": "Accepting Kṛṣṇa as Sole Maintainer",
+      "blurb": "Embracing Kṛṣṇa as the only guardian and maintainer, abandoning all other shelters."
+    },
+    {
+      "slug": "avasya-raksibe-krsna",
+      "name": "Avaśya Rakṣibe Kṛṣṇa",
+      "sanskrit": "अवश्य रक्षिबे कृष्ण",
+      "meaning": "Faith in Kṛṣṇa as Protector",
+      "blurb": "The firm conviction: “Kṛṣṇa will surely protect me.” Full trust in the Lord’s shelter."
+    },
+    {
+      "slug": "bhakti-pratikula-bhava-varjanangikara",
+      "name": "Bhakti-Pratikūla-Bhāva Varjanāṅgīkāra",
+      "sanskrit": "भक्ति-प्रतिकूल-भाव वर्जन",
+      "meaning": "Rejecting the Unfavorable",
+      "blurb": "Renouncing all that is unfavorable to pure devotional service unto Śrī Kṛṣṇa."
+    },
+    {
+      "slug": "svikara",
+      "name": "Svīkara",
+      "sanskrit": "स्वीकार",
+      "meaning": "Accepting the Favorable",
+      "blurb": "Embracing everything favorable to bhakti — the association of devotees and service in the holy dhāma."
+    },
+    {
+      "slug": "bhajana-lalasa",
+      "name": "Bhajana-Lālasā",
+      "sanskrit": "भजन-लालसा",
+      "meaning": "Hankering for Service",
+      "blurb": "The soul’s deep hankering and prayer for pure devotional service at the feet of the Vaiṣṇavas and the Divine Couple."
+    },
+    {
+      "slug": "siddhi-lalasa",
+      "name": "Siddhi-Lālasā",
+      "sanskrit": "सिद्धि-लालसा",
+      "meaning": "Hankering for Perfection",
+      "blurb": "Yearning for the perfection of eternal service in the transcendental abode of Śrī Śrī Rādhā-Kṛṣṇa."
+    },
+    {
+      "slug": "vijnapti-nama-mahatmya",
+      "name": "Vijñapti & Śrī Nāma-Māhātmya",
+      "sanskrit": "विज्ञप्ति · श्री नाम-माहात्म्य",
+      "meaning": "Prayer & Glories of the Holy Name",
+      "blurb": "A final humble petition, and the glorification of the all-powerful holy name of Kṛṣṇa."
+    }
+  ],
+  "songs": [
+    {
+      "slug": "introductory",
+      "section": "introductory",
+      "order": 1,
+      "verses": 6
+    },
+    {
+      "slug": "dainya-1",
+      "section": "dainya",
+      "order": 2,
+      "verses": 7
+    },
+    {
+      "slug": "dainya-2",
+      "section": "dainya",
+      "order": 3,
+      "verses": 6
+    },
+    {
+      "slug": "dainya-3",
+      "section": "dainya",
+      "order": 4,
+      "verses": 6
+    },
+    {
+      "slug": "dainya-4",
+      "section": "dainya",
+      "order": 5,
+      "verses": 6
+    },
+    {
+      "slug": "dainya-5",
+      "section": "dainya",
+      "order": 6,
+      "verses": 5
+    },
+    {
+      "slug": "dainya-6",
+      "section": "dainya",
+      "order": 7,
+      "verses": 4
+    },
+    {
+      "slug": "dainya-7",
+      "section": "dainya",
+      "order": 8,
+      "verses": 6
+    },
+    {
+      "slug": "atma-nivedana-1",
+      "section": "atma-nivedana",
+      "order": 9,
+      "verses": 4
+    },
+    {
+      "slug": "atma-nivedana-2",
+      "section": "atma-nivedana",
+      "order": 10,
+      "verses": 4
+    },
+    {
+      "slug": "atma-nivedana-3",
+      "section": "atma-nivedana",
+      "order": 11,
+      "verses": 8
+    },
+    {
+      "slug": "atma-nivedana-4",
+      "section": "atma-nivedana",
+      "order": 12,
+      "verses": 8
+    },
+    {
+      "slug": "atma-nivedana-5",
+      "section": "atma-nivedana",
+      "order": 13,
+      "verses": 7
+    },
+    {
+      "slug": "atma-nivedana-6",
+      "section": "atma-nivedana",
+      "order": 14,
+      "verses": 8
+    },
+    {
+      "slug": "atma-nivedana-7",
+      "section": "atma-nivedana",
+      "order": 15,
+      "verses": 8
+    },
+    {
+      "slug": "atma-nivedana-8",
+      "section": "atma-nivedana",
+      "order": 16,
+      "verses": 6
+    },
+    {
+      "slug": "goptrtve-varana-1",
+      "section": "goptrtve-varana",
+      "order": 17,
+      "verses": 6
+    },
+    {
+      "slug": "goptrtve-varana-2",
+      "section": "goptrtve-varana",
+      "order": 18,
+      "verses": 8
+    },
+    {
+      "slug": "goptrtve-varana-3",
+      "section": "goptrtve-varana",
+      "order": 19,
+      "verses": 5
+    },
+    {
+      "slug": "goptrtve-varana-4",
+      "section": "goptrtve-varana",
+      "order": 20,
+      "verses": 8
+    },
+    {
+      "slug": "avasya-raksibe-krsna-1",
+      "section": "avasya-raksibe-krsna",
+      "order": 21,
+      "verses": 9
+    },
+    {
+      "slug": "avasya-raksibe-krsna-2",
+      "section": "avasya-raksibe-krsna",
+      "order": 22,
+      "verses": 5
+    },
+    {
+      "slug": "avasya-raksibe-krsna-3",
+      "section": "avasya-raksibe-krsna",
+      "order": 23,
+      "verses": 10
+    },
+    {
+      "slug": "avasya-raksibe-krsna-4",
+      "section": "avasya-raksibe-krsna",
+      "order": 24,
+      "verses": 11
+    },
+    {
+      "slug": "bhakti-pratikula-1",
+      "section": "bhakti-pratikula-bhava-varjanangikara",
+      "order": 25,
+      "verses": 4
+    },
+    {
+      "slug": "bhakti-pratikula-2",
+      "section": "bhakti-pratikula-bhava-varjanangikara",
+      "order": 26,
+      "verses": 9
+    },
+    {
+      "slug": "bhakti-pratikula-3",
+      "section": "bhakti-pratikula-bhava-varjanangikara",
+      "order": 27,
+      "verses": 9
+    },
+    {
+      "slug": "bhakti-pratikula-4",
+      "section": "bhakti-pratikula-bhava-varjanangikara",
+      "order": 28,
+      "verses": 8
+    },
+    {
+      "slug": "svikara-1",
+      "section": "svikara",
+      "order": 29,
+      "verses": 9
+    },
+    {
+      "slug": "svikara-2",
+      "section": "svikara",
+      "order": 30,
+      "verses": 9
+    },
+    {
+      "slug": "svikara-3",
+      "section": "svikara",
+      "order": 31,
+      "verses": 8
+    },
+    {
+      "slug": "svikara-4",
+      "section": "svikara",
+      "order": 32,
+      "verses": 8
+    },
+    {
+      "slug": "bhajana-lalasa-1",
+      "section": "bhajana-lalasa",
+      "order": 33,
+      "verses": 4
+    },
+    {
+      "slug": "bhajana-lalasa-2",
+      "section": "bhajana-lalasa",
+      "order": 34,
+      "verses": 4
+    },
+    {
+      "slug": "bhajana-lalasa-3",
+      "section": "bhajana-lalasa",
+      "order": 35,
+      "verses": 4
+    },
+    {
+      "slug": "bhajana-lalasa-4",
+      "section": "bhajana-lalasa",
+      "order": 36,
+      "verses": 4
+    },
+    {
+      "slug": "bhajana-lalasa-5",
+      "section": "bhajana-lalasa",
+      "order": 37,
+      "verses": 4
+    },
+    {
+      "slug": "bhajana-lalasa-6",
+      "section": "bhajana-lalasa",
+      "order": 38,
+      "verses": 4
+    },
+    {
+      "slug": "bhajana-lalasa-7",
+      "section": "bhajana-lalasa",
+      "order": 39,
+      "verses": 4
+    },
+    {
+      "slug": "bhajana-lalasa-8",
+      "section": "bhajana-lalasa",
+      "order": 40,
+      "verses": 4
+    },
+    {
+      "slug": "bhajana-lalasa-9",
+      "section": "bhajana-lalasa",
+      "order": 41,
+      "verses": 4
+    },
+    {
+      "slug": "bhajana-lalasa-10",
+      "section": "bhajana-lalasa",
+      "order": 42,
+      "verses": 4
+    },
+    {
+      "slug": "bhajana-lalasa-11",
+      "section": "bhajana-lalasa",
+      "order": 43,
+      "verses": 4
+    },
+    {
+      "slug": "bhajana-lalasa-12",
+      "section": "bhajana-lalasa",
+      "order": 44,
+      "verses": 4
+    },
+    {
+      "slug": "bhajana-lalasa-13",
+      "section": "bhajana-lalasa",
+      "order": 45,
+      "verses": 4
+    },
+    {
+      "slug": "siddhi-lalasa-1",
+      "section": "siddhi-lalasa",
+      "order": 46,
+      "verses": 4
+    },
+    {
+      "slug": "siddhi-lalasa-2",
+      "section": "siddhi-lalasa",
+      "order": 47,
+      "verses": 4
+    },
+    {
+      "slug": "siddhi-lalasa-3",
+      "section": "siddhi-lalasa",
+      "order": 48,
+      "verses": 4
+    },
+    {
+      "slug": "vijnapti",
+      "section": "vijnapti-nama-mahatmya",
+      "order": 49,
+      "verses": 8
+    },
+    {
+      "slug": "nama-mahatmya",
+      "section": "vijnapti-nama-mahatmya",
+      "order": 50,
+      "verses": 8
+    }
+  ]
+}

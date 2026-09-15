@@ -1,0 +1,55 @@
+{
+  "slug": "dainya-6",
+  "section": "dainya",
+  "order": 7,
+  "label": "Dainya Song Six",
+  "title": "prabhu he! tuwā pade e minati mor",
+  "incipit": "(prabhu he!) tuwā pade e minati mor",
+  "metaDescription": "Dainya Song Six: (prabhu he! tuwā pade e minati mor) of Śaraṇāgati (‘Surrender’) written by Bhaktivinoda Ṭhākura in 1893. This songbook contains 50 songs detailing the six symptoms of surrender unto the lotus feet of Śrī Kṛṣṇa.",
+  "verseCount": 4,
+  "verses": [
+    {
+      "label": "1",
+      "translit": [
+        "(prabhu he!) tuwā pade e minati mor",
+        "tuwā pada-pallava, tyajato maru-mana,",
+        "viṣama viṣaye bhelo bhor"
+      ],
+      "translation": "O Lord! I offer this humble prayer at Your feet. I gave up the shelter of Your feet, which are soft as newly-grown leaves, and now my mind has become dried up like a desert, being scorched by the fire of absorption in horrible worldliness."
+    },
+    {
+      "label": "2",
+      "translit": [
+        "uṭhayite tākata, puna nāhi milo-i,",
+        "anudina korohuṅ hutāś",
+        "dīna-jana-nātha, tuhuṅ kahāyasi,",
+        "tumāri caraṇa mama āś"
+      ],
+      "translation": "I find no strength to rise again, and thus I spend my days bitterly lamenting. O Lord who is called the master of the meek and humble! Your lotus feet are my only hope."
+    },
+    {
+      "label": "3",
+      "translit": [
+        "aichana dīna-jana, kohi nāhi milo-i,",
+        "tuhuṅ more koro parasād",
+        "tuwā jana-saṅge, tuwā kathā-raṅge,",
+        "chāḍahuṅ sakala paramād"
+      ],
+      "translation": "There has never been a soul as forlorn as me. Please be merciful and award me the association of Your devotees, for by tasting the pleasure of hearing discussions of Your pastimes I shall give up all evils."
+    },
+    {
+      "label": "4",
+      "translit": [
+        "tuwā dhāma-māhe, tuwā nāma gāoto,",
+        "gowāyabuṅ divā-niśi āś",
+        "tuwā pada-chāyā, parama suśītala,",
+        "māge bhakativinoda dās"
+      ],
+      "translation": "One hope animates my soul: To spend day and night singing Your holy name while living in Your divine abode. Your servant Bhaktivinoda begs a place in the supremely cooling shade of Your lotus feet."
+    }
+  ],
+  "source": {
+    "name": "Bhaktivinoda Institute",
+    "url": "https://bhaktivinodainstitute.org/dainya-song-six/"
+  }
+}

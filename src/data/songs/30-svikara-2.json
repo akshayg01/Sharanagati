@@ -1,0 +1,88 @@
+{
+  "slug": "svikara-2",
+  "section": "svikara",
+  "order": 30,
+  "label": "Svīkara Song Two",
+  "title": "godruma-dhāme bhajana-anukūle",
+  "incipit": "godruma-dhāme bhajana-anukūle",
+  "metaDescription": "Svīkara Song Two (godruma-dhāme bhajana-anukūle) of Śaraṇāgati (‘Surrender’) written by Bhaktivinoda Ṭhākura in 1893. This songbook contains 50 songs detailing the six symptoms of surrender unto the lotus feet of Śrī Kṛṣṇa.",
+  "verseCount": 9,
+  "verses": [
+    {
+      "label": "1",
+      "translit": [
+        "godruma-dhāme bhajana-anukūle",
+        "māthura-śrī-nandīśvara-samatule"
+      ],
+      "translation": "In the land of Godruma in Navadvīpa, which is very conducive for performing devotional worship of the Supreme Lord, and which is non-different from the sacred place in Vraja called Nandagrām in the holy district of Mathurā…"
+    },
+    {
+      "label": "2",
+      "translit": [
+        "tahi māha surabhi-kuñja-kuṭīre",
+        "baiṭhobuṅ hāma sura-taṭinī-tīre"
+      ],
+      "translation": ""
+    },
+    {
+      "label": "3",
+      "translit": [
+        "gaura-bhakata-priya-veśa dadhānā",
+        "tilaka-tulasī-mālā-śobhamānā"
+      ],
+      "translation": "I will put on the garb that is dear to the devotees of Lord Gaura-sundara, including the twelve Vaiṣṇava tilaka markings on my body and beautiful beads of tulasī wood around my neck."
+    },
+    {
+      "label": "4",
+      "translit": [
+        "campaka, bakula, kadamba, tamāl",
+        "ropato niramibo kuñja viśāl"
+      ],
+      "translation": "Then, by planting flowering trees like campaka, bakula, kadamba, and tamāl, I will cultivate an extensive grove by my cottage."
+    },
+    {
+      "label": "5",
+      "translit": [
+        "mādhavī mālatī uṭhābuṅ tāhe",
+        "chāyā-manḍapa korobuṅ taṅhi māhe"
+      ],
+      "translation": "I will drape mādhavī and mālatī jasmine creepers upon the trees, and in this way make a shady bower in their midst."
+    },
+    {
+      "label": "6",
+      "translit": [
+        "ropobuṅ tatra kusuma-vana-rāji",
+        "jūthi, jāti, mallī virājabo sāji’"
+      ],
+      "translation": "I will plant row upon row of various forest flowers, including different kinds of jasmine like yuthī, jāti, and mallī. All these will be present there, arrayed in a charming fashion."
+    },
+    {
+      "label": "7",
+      "translit": [
+        "mañce basāobuṅ tulasī-mahārāṇī",
+        "kīrtana-sajja taṅhi rākhabo āni’"
+      ],
+      "translation": "I will install the empress tulasī on an elevated platform in this garden, then procure all necessary paraphernalia for having kīrtana, such as mṛdaṅga drums, karatālas, and gongs, and place them there."
+    },
+    {
+      "label": "8",
+      "translit": [
+        "vaiṣṇava-jana-saha gāobuṅ nām",
+        "jaya godruma jaya gaura ki dhām"
+      ],
+      "translation": "Then I will commence singing the holy names of the Lord in the company of the Vaiṣṇavas. We will sing, “All glories to the island of Godruma! All glories to the divine abode of Lord Gauracandra!”"
+    },
+    {
+      "label": "9",
+      "translit": [
+        "bhakativinoda bhakti-anukūl",
+        "jaya kuñja, muñja, sura-nadī-kūl"
+      ],
+      "translation": "Bhaktivinoda is favorably disposed to pure devotional service. All glories to Surabhi-kuñja, to its tall reeds, and to the banks of the celestial Gaṅgā!"
+    }
+  ],
+  "source": {
+    "name": "Bhaktivinoda Institute",
+    "url": "https://bhaktivinodainstitute.org/svikara-song-two/"
+  }
+}

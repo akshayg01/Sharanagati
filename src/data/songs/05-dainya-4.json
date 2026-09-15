@@ -1,0 +1,76 @@
+{
+  "slug": "dainya-4",
+  "section": "dainya",
+  "order": 5,
+  "label": "Dainya Song Four",
+  "title": "āmāra jīvana sadā pāpe rata",
+  "incipit": "āmāra jīvana, sadā pāpe rata",
+  "metaDescription": "Dainya Song Four: (āmāra jīvana sadā pāpe rata) of Śaraṇāgati (‘Surrender’) written by Bhaktivinoda Ṭhākura in 1893. This songbook contains 50 songs detailing the six symptoms of surrender unto the lotus feet of Śrī Kṛṣṇa.",
+  "verseCount": 6,
+  "verses": [
+    {
+      "label": "1",
+      "translit": [
+        "āmāra jīvana, sadā pāpe rata,",
+        "nāhiko punyera leṣa",
+        "parere udvega, diyāchi je koto,",
+        "diyāchi jīvere kleśa"
+      ],
+      "translation": "My life is ever given to sin; in it there is not a particle of good. I have caused others great anxiety, and have troubled all souls.*"
+    },
+    {
+      "label": "2",
+      "translit": [
+        "nija sukha lāgi’, pāpe nāhi ḍori,",
+        "doyā-hīna swārtha-paro",
+        "para-sukhe duḥkhī, sadā mithya-bhāṣī,",
+        "para-duḥkha sukha-karo"
+      ],
+      "translation": "For the sake of my own enjoyment I have never hesitated to perform sinful acts. Devoid of all compassion, I am concerned only with my selfish interests. Perpetually speaking lies, I become dejected upon seeing others happy, whereas the misery of others is a source of great delight for me."
+    },
+    {
+      "label": "3",
+      "translit": [
+        "aśeṣa kāmanā, hṛdi mājhe mora,",
+        "krodhī, dambha-parāyana",
+        "mada-matta sadā, viṣaye mohita,",
+        "hiṁsā-garva vibhūṣana"
+      ],
+      "translation": "There are limitless material desires within the core of my heart. I am wrathful, fond of exhibiting arrogance, intoxicated by vanity, and bewildered by worldly affairs. I wear the cherished ornaments of envy and egotism."
+    },
+    {
+      "label": "4",
+      "translit": [
+        "nidrālasya hata, sukārye virata,",
+        "akārye udyogī āmi",
+        "pratiṣṭha lāgiyā, śāṭhya-ācaraṇa,",
+        "lobha-hata sadā kāmī"
+      ],
+      "translation": "Ruined by laziness and sleep, I resist all pious deeds, yet am very enthusiastic to perform wicked acts. For the sake of worldly fame and reputation I engage in the practice of deceitfulness. I am victimized by my own greed, being always lustful."
+    },
+    {
+      "label": "5",
+      "translit": [
+        "e heno durjana, saj-jana-varjita,",
+        "aparādhi nirantara",
+        "śubha-kārya-śūnya, sadānartha-manāḥ,",
+        "nānā duḥkhe jara jara"
+      ],
+      "translation": "A vile, wicked man such as this, rejected by godly people, is a constant offender. Devoid of all good works, forever inclined toward evil, he is worn out and wasted by various miseries."
+    },
+    {
+      "label": "6",
+      "translit": [
+        "bārdhakye ekhona, upāya-vihīna,",
+        "tā’te dīna akiñcana",
+        "bhakativinoda, prabhura caraṇe,",
+        "kore duḥkha nivedana"
+      ],
+      "translation": "Now in old age, deprived of all means of relief, thus humbled and poor, Bhaktivinoda submits his tale of grief at the feet of the Supreme Lord."
+    }
+  ],
+  "source": {
+    "name": "Bhaktivinoda Institute",
+    "url": "https://bhaktivinodainstitute.org/dainya-song-four/"
+  }
+}

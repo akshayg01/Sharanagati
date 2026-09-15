@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-night-950 text-night-100 font-sans antialiased;
+  background-image:
+    radial-gradient(1200px 600px at 80% -10%, rgba(255, 154, 51, 0.10), transparent 60%),
+    radial-gradient(900px 500px at 0% 10%, rgba(219, 77, 125, 0.10), transparent 55%),
+    radial-gradient(1000px 700px at 50% 120%, rgba(99, 102, 241, 0.12), transparent 60%);
+  background-attachment: scroll;
+  min-height: 100vh;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: #120f30;
+}
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(#f06106, #a8214c);
+  border-radius: 9999px;
+}
+
+@layer components {
+  .gold-text {
+    @apply bg-gradient-to-r from-gold-400 via-saffron-300 to-gold-400 bg-clip-text text-transparent;
+    background-size: 200% auto;
+  }
+
+  .glass {
+    @apply bg-white/[0.04] backdrop-blur-md border border-white/10;
+  }
+
+  .glass-hover {
+    @apply transition-all duration-300 hover:bg-white/[0.07] hover:border-saffron-400/40 hover:shadow-lg hover:shadow-saffron-500/10;
+  }
+
+  .btn-primary {
+    @apply inline-flex items-center gap-2 rounded-full bg-gradient-to-r from-saffron-500 to-lotus-600 px-6 py-3 font-medium text-white shadow-lg shadow-lotus-600/20 transition-transform duration-200 hover:scale-[1.03] active:scale-95;
+  }
+
+  .section-eyebrow {
+    @apply text-xs font-semibold uppercase tracking-[0.25em] text-saffron-300/80;
+  }
+}

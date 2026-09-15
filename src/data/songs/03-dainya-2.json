@@ -1,0 +1,76 @@
+{
+  "slug": "dainya-2",
+  "section": "dainya",
+  "order": 3,
+  "label": "Dainya Song Two",
+  "title": "vidyāra vilāse kāṭāinu kāla",
+  "incipit": "vidyāra vilāse, kāṭāinu kāla",
+  "metaDescription": "Dainya Song Two: (vidyāra vilāse kāṭāinu kāla) of Śaraṇāgati (‘Surrender’) written by Bhaktivinoda Ṭhākura in 1893. This songbook contains 50 songs detailing the six symptoms of surrender unto the lotus feet of Śrī Kṛṣṇa.",
+  "verseCount": 6,
+  "verses": [
+    {
+      "label": "1",
+      "translit": [
+        "vidyāra vilāse, kāṭāinu kāla,",
+        "parama sāhase āmi",
+        "tomāra caraṇa, nā bhajinu kabhu,",
+        "ekhona śaraṇa tumi"
+      ],
+      "translation": "With great enthusiasm I spent my time in the pleasures of mundane learning, and never worshiped Your lotus feet, O Lord. Now You are my only shelter."
+    },
+    {
+      "label": "2",
+      "translit": [
+        "poḍite poḍite, bharasā bārilo,",
+        "jñāne gati habe māni’",
+        "se āśā biphala, se jñāna durbala,",
+        "se jñāna ajñāna jāni"
+      ],
+      "translation": "Reading on and on, my hopes grew and grew, for I considered the aquisition of material knowledge to be life’s true goal. How fruitless those hopes turned out to be, for all my knowledge proved feeble. Now I know that all such erudition is actually pure ignorance."
+    },
+    {
+      "label": "3",
+      "translit": [
+        "jaḍa-vidyā jata, māyāra vaibhava,",
+        "tomāra bhajane bādhā",
+        "moha janamiyā, anitya saṁsāre,",
+        "jīvake koraye gādhā"
+      ],
+      "translation": "All the so-called knowledge of this world is born of the flickering potency of Your illusory energy (māyā). It is an impediment to the execution of devotional service to You. Indulgence in mundane knowledge verily makes an ass of the eternal soul by encouraging his infatuation with this temporary world.*"
+    },
+    {
+      "label": "4",
+      "translit": [
+        "sei gādhā ho’ye, saṁsārera bojhā,",
+        "bahinu aneka kāla",
+        "bārdhakye ekhona, śaktira abhāve,",
+        "kichu nāhi lāge bhālo"
+      ],
+      "translation": "Here is one person who has been turned into such an ass, who for so long has carried on his back the useless burden of material existence. Now in my old age, for want of the power to enjoy, I find that nothing at all pleases me."
+    },
+    {
+      "label": "5",
+      "translit": [
+        "jīvana jātanā, hoilo ekhona,",
+        "se vidyā avidyā bhelo",
+        "avidyāra jwālā, ghaṭilo biṣama,",
+        "se vidyā hoilo śelo"
+      ],
+      "translation": "Life has now become agony, for my so-called erudite knowledge has proven itself to be worthless ignorance. Material knowledge has now become a pointed shaft and has pierced my heart with the intolerable, burning pain of ignorance."
+    },
+    {
+      "label": "6",
+      "translit": [
+        "tomāra caraṇa, binā kichu dhana,",
+        "saṁsāre nā āche āra",
+        "bhakativinoda, jaḍa-vidyā chāḍi,’",
+        "tuwā pada kore sāra"
+      ],
+      "translation": "O Lord, there is no treasure worth seeking in this world other than Your lotus feet. Bhaktivinoda abandons all his mundane knowledge and makes Your lotus feet the sum and substance of his life."
+    }
+  ],
+  "source": {
+    "name": "Bhaktivinoda Institute",
+    "url": "https://bhaktivinodainstitute.org/dainya-song-two/"
+  }
+}

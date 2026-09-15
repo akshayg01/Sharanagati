@@ -1,0 +1,86 @@
+{
+  "slug": "dainya-1",
+  "section": "dainya",
+  "order": 2,
+  "label": "Dainya Song One",
+  "title": "bhuliyā tomāre saṁsāre āsiyā",
+  "incipit": "bhuliyā tomāre, saṁsāre āsiyā",
+  "metaDescription": "Dainya Song One (bhuliyā tomāre saṁsāre āsiyā) of Śaraṇāgati (‘Surrender’) written by Bhaktivinoda Ṭhākura in 1893. This songbook contains 50 songs detailing the six symptoms of surrender unto the lotus feet of Śrī Kṛṣṇa.",
+  "verseCount": 7,
+  "verses": [
+    {
+      "label": "1",
+      "translit": [
+        "bhuliyā tomāre, saṁsāre āsiyā,",
+        "peye nānā-vidha byathā",
+        "tomāra caraṇe, āsiyāchi āmi,",
+        "bolibo duḥkhera kathā"
+      ],
+      "translation": "O Lord, I forgot You and came to this material world, where I have experienced a host of pains and sorrows. Now I approach Your lotus feet and submit my tale of woe."
+    },
+    {
+      "label": "2",
+      "translit": [
+        "jananī-jaṭhare, chilāma jakhona,",
+        "biṣama bandhana-pāśe",
+        "eka-bāra prabhu! dekhā diyā more,",
+        "vañcile e dīna dāse"
+      ],
+      "translation": "While still bound up tightly in the unbearable confines of my mother’s womb, O Lord, You once revealed Yourself before me. Appearing only briefly, You then abandoned this poor servant of Yours."
+    },
+    {
+      "label": "3",
+      "translit": [
+        "takhona bhāvinu, janama pāiyā,",
+        "koribo bhajana tava",
+        "janama hoilo, poḍi’ māyā-jāle,",
+        "nā hoilo jñāna-lava"
+      ],
+      "translation": "At that moment I thought, “After my birth, I will worship You.” But alas, after taking birth I fell into the entangling network of worldly illusions; thus I possessed not even a drop of true knowledge."
+    },
+    {
+      "label": "4",
+      "translit": [
+        "ādarera chele, swa-janera kole,",
+        "hāsiyā kāṭānu kāla",
+        "janaka-jananī- snehete bhuliyā,",
+        "saṁsāra lāgilo bhālo"
+      ],
+      "translation": "As a dear son fondled in the laps of relatives, I passed my time smiling and laughing. The affection of my father and mother helped me to forget You still more, and I began to think that the material world was a very nice place."
+    },
+    {
+      "label": "5",
+      "translit": [
+        "krame dina dina, bālaka hoiyā,",
+        "khelinu bālaka-saha",
+        "āra kichu dine, jñāna upajilo,",
+        "pāṭha poḍi ahar-ahaḥ"
+      ],
+      "translation": "Day by day I gradually grew into a young boy and began playing with other boys. Soon my powers of understanding emerged, so I diligently read and studied my school lessons every day."
+    },
+    {
+      "label": "6",
+      "translit": [
+        "vidyāra gaurave, bhrami’ deśe deśe,",
+        "dhana uparjana kori",
+        "swa-jana pālana, kori eka-mane,",
+        "bhulinu tomāre, hari!"
+      ],
+      "translation": "Proud of my accomplished education, later I traveled from place to place and earned much wealth. Thereby maintaining my family with undivided attention, I forgot You, O Lord Hari!"
+    },
+    {
+      "label": "7",
+      "translit": [
+        "bārdhakye ekhona, bhakativinoda,",
+        "kāṅdiyā kātara ati",
+        "nā bhajiyā tore, dina bṛthā gelo,",
+        "ekhona ki habe gati?"
+      ],
+      "translation": "Now in old age, this Bhaktivinoda very sadly weeps. I failed to worship You, O Lord, and instead passed my days in vain. What will be my fate now?"
+    }
+  ],
+  "source": {
+    "name": "Bhaktivinoda Institute",
+    "url": "https://bhaktivinodainstitute.org/dainya-song-one/"
+  }
+}
