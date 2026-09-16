@@ -5,6 +5,7 @@ import { LotusMark } from './Om.jsx'
 const links = [
   { to: '/', label: 'Home', end: true },
   { to: '/songbook', label: 'Songbook' },
+  { to: '/timeline', label: 'His Life' },
   { to: '/about', label: 'Glorification' },
 ]
 
@@ -18,7 +19,8 @@ export default function Navbar() {
 
   return (
     <header className="sticky top-0 z-40 border-b border-white/5 bg-night-950/70 backdrop-blur-xl">
-      <nav className="mx-auto flex max-w-6xl items-center justify-between px-5 py-3">
+      {/* h-16 is fixed on purpose: the timeline's sticky chapter chips sit at top-16. */}
+      <nav className="mx-auto flex h-16 max-w-6xl items-center justify-between px-5">
         <Link to="/" className="group flex items-center gap-2.5" onClick={() => setOpen(false)}>
           <LotusMark className="h-7 w-7 transition-transform group-hover:scale-110" />
           <span className="font-serif text-xl font-semibold tracking-wide gold-text">

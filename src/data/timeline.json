@@ -1,0 +1,354 @@
+{
+  "subject": {
+    "name": "Bhakti Charu Swami",
+    "honorific": "His Holiness",
+    "suffix": "Maharaja",
+    "born": "1945-09-17",
+    "departed": "2020-07-04",
+    "portrait": "./images/maharaja-guru.jpg",
+    "lede": "Six chapters — from a village in Bengal to the lotus feet of Śrīla Prabhupāda, and a lifetime spent giving away what he received there. Scroll to walk through them, or jump to any chapter."
+  },
+
+  "sources": {
+    "official": { "label": "bhakticharuswami.com", "url": "https://www.bhakticharuswami.com/about/" },
+    "gbc": { "label": "ISKCON GBC", "url": "https://gbc.iskcon.org/bhakti-caru-swami/" },
+    "wiki": { "label": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Bhakti_Charu_Swami" },
+    "news": { "label": "ISKCON News", "url": "https://iskconnews.org/beloved-iskcon-guru-and-gbc-member-bhakti-charu-swami-passes-away/" },
+    "idt": { "label": "ISKCON Desire Tree", "url": "https://iskcondesiretree.com/groups/hhbhakticaruswami" }
+  },
+
+  "stats": [
+    { "value": 50, "suffix": "+", "label": "volumes of Śrīla Prabhupāda’s books rendered into Bengali" },
+    { "value": 100, "suffix": "+", "label": "episodes of Abhay Charan, his serial on Prabhupāda’s life" },
+    { "value": 23000, "suffix": "+", "label": "schoolchildren fed each day from the Ujjain kitchen" },
+    { "value": 43, "suffix": "", "label": "years of unbroken service to his spiritual master’s mission" }
+  ],
+
+  "eras": [
+    {
+      "slug": "bengal-boyhood",
+      "numeral": "I",
+      "title": "A Son of Bengal",
+      "subtitle": "Kuti to Kolkata",
+      "startYear": 1945,
+      "endYear": 1969,
+      "theme": "Born into an aristocratic Bengali family in a quiet village of East Bengal, and raised in the noise and learning of Kolkata — a boyhood that gave him a mother tongue he would one day fill with his guru’s words.",
+      "events": [
+        {
+          "id": "birth",
+          "date": "1945-09-17",
+          "precision": "day",
+          "title": "Born at Kuti, in the district of Brahmanbaria",
+          "location": "Kuti, East Bengal (now Bangladesh)",
+          "body": "He appears in this world on the 17th of September 1945, in an aristocratic Bengali family of the village of Kuti. Half a century later he would return to this same soil to establish a temple, so that the place of his birth might become a place of the holy name.",
+          "source": "wiki"
+        },
+        {
+          "id": "kolkata-childhood",
+          "date": "1955",
+          "precision": "circa",
+          "title": "Growing up in Kolkata",
+          "location": "Kolkata, India",
+          "body": "Most of his childhood is spent in the city, in a cultured and well-to-do household. He is a bright and thoughtful student, and by the end of his schooling he carries the one question that the best of educations had not answered: what is a human life actually for?",
+          "source": "official"
+        }
+      ]
+    },
+
+    {
+      "slug": "the-search",
+      "numeral": "II",
+      "title": "The Search",
+      "subtitle": "Chemistry, the Himālayas, and a book he did not ask for",
+      "startYear": 1970,
+      "endYear": 1976,
+      "theme": "Six years of looking — in a German university, in the West, and among the sādhus of the Himālayas — before the shelter he was searching for was placed into his hands in his own city.",
+      "events": [
+        {
+          "id": "germany",
+          "date": "1970",
+          "precision": "year",
+          "title": "Leaves India to study in Germany",
+          "location": "Germany",
+          "body": "In pursuit of higher education he leaves India for Germany, where he attends university and studies chemistry. He is successful by every worldly measure, and increasingly certain that the measure itself is wrong.",
+          "source": "wiki"
+        },
+        {
+          "id": "turning-inward",
+          "date": "1974",
+          "precision": "circa",
+          "title": "Disillusioned with the West, he turns to the śāstra",
+          "location": "Germany",
+          "body": "Living in Europe, he grows dissatisfied with the culture he had travelled so far to join, and begins to read the ancient Vedic scriptures in earnest. The question that had followed him out of Kolkata now becomes a search with a direction.",
+          "source": "official"
+        },
+        {
+          "id": "himalayas",
+          "date": "1976",
+          "precision": "year",
+          "title": "A fruitless search in the Himālayas",
+          "location": "Northern India",
+          "body": "He returns to India and goes to the Himālayan region looking for a genuine spiritual master, meeting many holy men but finding no one to whom he can surrender his life. Empty-handed, he comes back to Kolkata.",
+          "source": "gbc"
+        },
+        {
+          "id": "nectar-of-devotion",
+          "date": "1976",
+          "precision": "year",
+          "title": "He asks for a Gītā and is given the Nectar of Devotion",
+          "location": "ISKCON Kolkata",
+          "body": "A chance reunion with his old friend Prasun — by then Sarvabhāvana Dāsa of the Kolkata temple — brings him through ISKCON’s doors. He asks for a copy of Bhagavad-gītā; what he is handed instead is Śrīla Prabhupāda’s rendering of Śrīla Rūpa Gosvāmī’s Nectar of Devotion. He would say afterwards that this book completely changed his life.",
+          "source": "official"
+        },
+        {
+          "id": "joins-mayapur",
+          "date": "1976-12",
+          "precision": "circa",
+          "title": "He joins the devotees at Śrīdhāma Māyāpur",
+          "location": "Śrīdhāma Māyāpur, West Bengal",
+          "body": "Before the year is out he joins ISKCON at Śrīdhāma Māyāpur, the birthplace of Śrī Caitanya Mahāprabhu. The search of six years ends where śaraṇāgati begins — in the association of devotees.",
+          "source": "official"
+        }
+      ]
+    },
+
+    {
+      "slug": "at-prabhupadas-side",
+      "numeral": "III",
+      "title": "At Prabhupāda’s Side",
+      "subtitle": "One year that decided a lifetime",
+      "startYear": 1977,
+      "endYear": 1977,
+      "theme": "Eleven months in the personal service of His Divine Grace A. C. Bhaktivedanta Swami Prabhupāda — one order received, two initiations, sannyāsa, and a vigil kept to the very end.",
+      "image": {
+        "src": "./images/maharaja-guru.jpg",
+        "alt": "His Holiness Bhakti Charu Swami Maharaja with folded hands",
+        "caption": "In the shelter of his spiritual master."
+      },
+      "events": [
+        {
+          "id": "kumbha-mela-1977",
+          "date": "1977-01",
+          "precision": "month",
+          "title": "First meeting, at the Kumbha-melā",
+          "location": "Prayāg (Allahabad), India",
+          "body": "Brought before Śrīla Prabhupāda at the Kumbha-melā by Bhavānanda Mahārāja, he meets the spiritual master he had crossed continents to find. At that very first meeting Śrīla Prabhupāda asks him to translate all of his books into Bengali, takes him into his personal entourage, and appoints him secretary for Indian affairs — and his personal servant and cook.",
+          "quote": {
+            "text": "Translate all my books into Bengali.",
+            "source": "Śrīla Prabhupāda to Bhakti Charu Swami, Kumbha-melā, January 1977"
+          },
+          "source": "official"
+        },
+        {
+          "id": "initiation",
+          "date": "1977-03",
+          "precision": "month",
+          "title": "First and second initiation, on Gaura-pūrṇimā",
+          "location": "Śrīdhāma Māyāpur, West Bengal",
+          "body": "During the Gaura-pūrṇimā festival at Māyāpur, Śrīla Prabhupāda gives him both harināma and brāhmaṇa initiation together — the formal beginning of a relationship that had already been sealed in the heart.",
+          "source": "gbc"
+        },
+        {
+          "id": "rishikesh",
+          "date": "1977-05",
+          "precision": "circa",
+          "title": "The watch from twelve to two",
+          "location": "Rishikesh, India",
+          "body": "At Rishikesh, where Śrīla Prabhupāda has gone for his health, Maharaja attends him each day from twelve to two o’clock. It is in those hours that Prabhupāda tells him what must be done next — and he arranges it.",
+          "quote": {
+            "text": "The time has come for me to die, and I want to die in Vṛndāvana. So make arrangements to take me to Vṛndāvana.",
+            "source": "Śrīla Prabhupāda to Bhakti Charu Swami, Rishikesh, 1977"
+          },
+          "source": "idt"
+        },
+        {
+          "id": "sannyasa",
+          "date": "1977-06",
+          "precision": "month",
+          "title": "Sannyāsa, at the Snāna-yātrā festival",
+          "location": "Vṛndāvana, India",
+          "body": "Soon after his initiation, during the Snāna-yātrā festival in Vṛndāvana, Śrīla Prabhupāda awards him the renounced order of life with his own hand — and with it the name by which the world would come to know him.",
+          "source": "official"
+        },
+        {
+          "id": "prabhupada-departure",
+          "date": "1977-11-14",
+          "precision": "day",
+          "title": "Śrīla Prabhupāda departs this world",
+          "location": "Vṛndāvana, India",
+          "body": "He remains in Śrīla Prabhupāda’s personal service to the last, in the room at Krishna-Balaram Mandir where his spiritual master leaves this world surrounded by chanting disciples. In less than a single year he had received everything; the remaining forty-three would be spent giving it away.",
+          "source": "official"
+        }
+      ]
+    },
+
+    {
+      "slug": "a-promise-kept",
+      "numeral": "IV",
+      "title": "A Promise Kept",
+      "subtitle": "Fifty volumes in his mother tongue",
+      "startYear": 1978,
+      "endYear": 1996,
+      "theme": "One instruction, received at a first meeting, carried out over nineteen years — until every major book of Śrīla Prabhupāda stood complete in Bengali, in time for his centennial.",
+      "feature": "stats",
+      "events": [
+        {
+          "id": "bbt-bengali",
+          "date": "1978",
+          "precision": "circa",
+          "title": "The Bengali Bhaktivedanta Book Trust",
+          "location": "Kolkata & Māyāpur",
+          "body": "After his spiritual master’s departure he serves for years at Māyāpur and takes a leading role in establishing the Bhaktivedanta Book Trust in Kolkata and Māyāpur — the press that would carry his translations across Bengal.",
+          "source": "official"
+        },
+        {
+          "id": "translating",
+          "date": "1985",
+          "precision": "circa",
+          "title": "Volume by volume, page by page",
+          "body": "Year after year the work goes on: Bhagavad-gītā As It Is, the thirty volumes of Śrīmad-Bhāgavatam, the seventeen volumes of Śrī Caitanya-caritāmṛta, and much besides. It was the service his spiritual master had given him, and so there was never a question of doing anything else.",
+          "image": {
+            "src": "./images/maharaja-writing.jpg",
+            "alt": "Bhakti Charu Swami Maharaja at work translating",
+            "caption": "The service of a lifetime, one page at a time."
+          },
+          "source": "official"
+        },
+        {
+          "id": "guru-and-gbc",
+          "date": "1987",
+          "precision": "year",
+          "title": "Initiating spiritual master and GBC member",
+          "body": "In 1987 he begins to accept disciples as an initiating spiritual master within ISKCON and joins the Governing Body Commission, the society’s ultimate managing authority. He would serve as its chairman in 1989, and again thirty years later.",
+          "source": "news"
+        },
+        {
+          "id": "abhay-charan",
+          "date": "1995",
+          "precision": "year",
+          "title": "Abhay Charan",
+          "body": "He writes, produces and directs a television serial of more than one hundred episodes on the life and teachings of Śrīla Prabhupāda. Broadcast on Indian national television, it carries his spiritual master’s story into millions of homes within a few months.",
+          "image": {
+            "src": "./images/maharaja-directing.jpg",
+            "alt": "Bhakti Charu Swami Maharaja directing the Abhay Charan television series",
+            "caption": "Directing Abhay Charan — Prabhupāda’s life, told to a nation."
+          },
+          "source": "wiki"
+        },
+        {
+          "id": "centennial",
+          "date": "1996",
+          "precision": "year",
+          "title": "The centennial — the work complete",
+          "body": "For the hundredth anniversary of Śrīla Prabhupāda’s appearance, the promise made at the Kumbha-melā is fulfilled: all of his major works stand translated into Bengali, more than fifty volumes in all. In the same year he establishes the Veda Foundation to carry Vedic knowledge further still.",
+          "source": "official"
+        }
+      ]
+    },
+
+    {
+      "slug": "temples-and-kitchens",
+      "numeral": "V",
+      "title": "Temples, Kitchens and Clinics",
+      "subtitle": "Ujjain, and everywhere else",
+      "startYear": 1997,
+      "endYear": 2019,
+      "theme": "Deities installed, children fed, the sick treated, businessmen offered something better than business — the same surrender, now expressed in marble, rice and medicine.",
+      "events": [
+        {
+          "id": "ujjain",
+          "date": "2006-02",
+          "precision": "month",
+          "title": "The temple at Ujjain",
+          "location": "Ujjain, Madhya Pradesh",
+          "body": "In the ancient city where Kṛṣṇa and Balarāma studied at the school of Sāndīpani Muni, he raises a marble temple for Śrī Śrī Rādhā-Madana-mohana, Kṛṣṇa-Balarāma and Gaura-Nitāi — built, astonishingly, in ten months and twenty days. He serves as the resident GBC for the region.",
+          "source": "wiki"
+        },
+        {
+          "id": "ujjain-kitchen",
+          "date": "2007",
+          "precision": "circa",
+          "title": "A kitchen for twenty-three thousand children",
+          "location": "Ujjain, Madhya Pradesh",
+          "body": "Beside the temple stands a six-thousand-square-foot kitchen from which more than twenty-three thousand schoolchildren are fed sanctified food every single day. Prasādam, he taught, is preaching that needs no translation.",
+          "source": "wiki"
+        },
+        {
+          "id": "panihati",
+          "date": "2013",
+          "precision": "year",
+          "title": "Panihati, and a temple at his birthplace",
+          "location": "Panihati, West Bengal · Kuti, Bangladesh",
+          "body": "He oversees the development of the temple at Panihati in northern Kolkata — the sacred place of the daṇḍa-mahotsava of Śrī Nityānanda Prabhu — and establishes a temple at Kuti in Bangladesh, the village where he was born.",
+          "source": "wiki"
+        },
+        {
+          "id": "arogya-artha",
+          "date": "2014",
+          "precision": "year",
+          "title": "Ārogya Niketan, and the Artha Forum",
+          "location": "Ujjain, India",
+          "body": "He establishes the Ārogya Niketan Āyurvedic clinic at Ujjain, and joins the Artha Forum, speaking to business leaders on spirituality and the purpose of wealth. He also founds the I-Foundation, a Hindu charity in the United Kingdom.",
+          "source": "wiki"
+        },
+        {
+          "id": "ocean-of-mercy",
+          "date": "2016",
+          "precision": "year",
+          "title": "Ocean of Mercy — a search fulfilled",
+          "body": "He writes down at last his own remembrances of Śrīla Prabhupāda: how a young man’s long search was fulfilled, and how love for his spiritual master grew in him. In November of the same year he is honoured at the United Nations by the Institute of International Social Development.",
+          "source": "wiki"
+        },
+        {
+          "id": "florida",
+          "date": "2017",
+          "precision": "circa",
+          "title": "A cow sanctuary in Florida",
+          "location": "DeLand, Florida, USA",
+          "body": "In his later years he establishes the Veda Foundation’s farm community and cow sanctuary on a hundred and twenty acres at DeLand, Florida — simple living and high thinking, on the far side of the world from Kuti. In 2017 he serves once more as chairman of the GBC.",
+          "source": "wiki"
+        }
+      ]
+    },
+
+    {
+      "slug": "return-to-the-eternal",
+      "numeral": "VI",
+      "title": "Return to the Eternal",
+      "subtitle": "4 July 2020",
+      "startYear": 2020,
+      "endYear": 2020,
+      "theme": "A worldwide family chanting for his health; and then, on a summer morning in America, the departure of a devotee whose whole life had been the practice of surrender.",
+      "feature": "listen",
+      "events": [
+        {
+          "id": "illness",
+          "date": "2020-06-17",
+          "precision": "day",
+          "title": "Placed on a ventilator in Florida",
+          "location": "Florida, USA",
+          "body": "Soon after arriving in Florida he falls ill and tests positive for COVID-19. On the 17th of June he is placed on a ventilator. Around the world, disciples, godbrothers and well-wishers hold continuous kīrtana and prayer for his recovery.",
+          "source": "news"
+        },
+        {
+          "id": "departure",
+          "date": "2020-07-04",
+          "precision": "day",
+          "title": "He departs this world",
+          "location": "Florida, USA",
+          "body": "On the 4th of July 2020, at the age of seventy-four, His Holiness Bhakti Charu Swami Maharaja leaves this world. ISKCON’s leadership calls it a great loss for the society and for the world; for thousands of disciples it is simply the loss of the shelter of their lives.",
+          "source": "news"
+        },
+        {
+          "id": "samadhi",
+          "date": "2020",
+          "precision": "year",
+          "title": "Last rites, and samādhi at Māyāpur",
+          "location": "Śrīdhāma Māyāpur, West Bengal",
+          "body": "His last rites are performed in the United States, and his samādhi ceremony is held at Śrīdhāma Māyāpur — the holy dhāma where, forty-four years earlier, a young seeker back from the Himālayas had first joined the devotees of Śrī Caitanya Mahāprabhu.",
+          "source": "news"
+        }
+      ]
+    }
+  ]
+}

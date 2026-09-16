@@ -5,12 +5,15 @@ import Footer from './components/Footer.jsx'
 import Home from './pages/Home.jsx'
 import Songbook from './pages/Songbook.jsx'
 import SongPage from './pages/SongPage.jsx'
+import Timeline from './pages/Timeline.jsx'
 import About from './pages/About.jsx'
 import NotFound from './pages/NotFound.jsx'
 
 function ScrollToTop() {
   const { pathname } = useLocation()
   useEffect(() => {
+    // /timeline/:anchor scrolls itself to the chapter or moment it names.
+    if (/^\/timeline\/.+/.test(pathname)) return
     window.scrollTo({ top: 0, behavior: 'instant' in window ? 'instant' : 'auto' })
   }, [pathname])
   return null
@@ -26,6 +29,8 @@ export default function App() {
           <Route path="/" element={<Home />} />
           <Route path="/songbook" element={<Songbook />} />
           <Route path="/song/:slug" element={<SongPage />} />
+          <Route path="/timeline" element={<Timeline />} />
+          <Route path="/timeline/:anchor" element={<Timeline />} />
           <Route path="/about" element={<About />} />
           <Route path="*" element={<NotFound />} />
         </Routes>

@@ -60,4 +60,45 @@ body {
   .section-eyebrow {
     @apply text-xs font-semibold uppercase tracking-[0.25em] text-saffron-300/80;
   }
+
+  /* Horizontal strips (timeline chapter chips) scroll without a visible bar. */
+  .no-scrollbar {
+    scrollbar-width: none;
+  }
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+/* Scroll-reveal — see src/components/Reveal.jsx */
+.reveal {
+  opacity: 0;
+  transform: translateY(1.25rem);
+  transition:
+    opacity 0.7s cubic-bezier(0.22, 1, 0.36, 1),
+    transform 0.7s cubic-bezier(0.22, 1, 0.36, 1);
+  will-change: opacity, transform;
+}
+
+.reveal.is-visible {
+  opacity: 1;
+  transform: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  .reveal {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+
+  .animate-fade-in-up,
+  .animate-float,
+  .animate-shimmer {
+    animation: none;
+  }
 }
