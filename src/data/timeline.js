@@ -10,12 +10,20 @@ export const subject = data.subject
 export const sourceList = data.sources
 export const stats = data.stats
 
-/** Eras with their event `source` keys resolved to { label, url } objects. */
+/**
+ * Eras with their event `source` keys resolved to { label, url } objects.
+ * An event may cite one source ("wiki") or several (["wiki", "ocean"]); either
+ * way it comes out of here as an array, so the card renders them the same way.
+ */
 export const eras = data.eras.map((era) => ({
   ...era,
   events: era.events.map((event) => ({
     ...event,
-    source: event.source ? data.sources[event.source] || null : null,
+    sources: [event.source]
+      .flat()
+      .filter(Boolean)
+      .map((key) => data.sources[key])
+      .filter(Boolean),
   })),
 }))
 

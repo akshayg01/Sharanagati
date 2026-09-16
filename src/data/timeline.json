@@ -37,7 +37,7 @@
       "subtitle": "Kuti to Kolkata",
       "startYear": 1945,
       "endYear": 1969,
-      "theme": "Born into an aristocratic Bengali family in a quiet village of East Bengal, and raised in a Kolkata that took almost everything back — a boyhood that gave him the mother tongue he would one day fill with his guru’s words.",
+      "theme": "Born into an aristocratic Bengali family in a village of East Bengal, and raised in Kolkata through the loss of his mother and the loss of the family fortune — a boyhood that left him little except the mother tongue he would one day fill with his guru’s words.",
       "events": [
         {
           "id": "birth",
@@ -76,8 +76,8 @@
           "precision": "year",
           "title": "Leaves India to study in Germany",
           "location": "Germany",
-          "body": "In pursuit of higher education he leaves India for Germany, where he attends university and studies chemistry. There, alongside his studies, he begins to research the ancient Vedic scriptures — and in time grows dissatisfied with the culture he had travelled so far to join.",
-          "source": "wiki"
+          "body": "Seeking adventure, friendship, education and a better life, he makes his way overland and by sea to Europe, and studies chemistry at a German university. Alongside his studies he begins to research the ancient Vedic scriptures — until an unexpected homesickness, and a growing dissatisfaction with the culture he had travelled so far to join, turn him back toward India.",
+          "source": ["wiki", "ocean"]
         },
         {
           "id": "himalayas",
@@ -99,12 +99,12 @@
         },
         {
           "id": "joins-mayapur",
-          "date": "1976",
-          "precision": "year",
+          "date": "1976-07",
+          "precision": "month",
           "title": "He joins the devotees at Śrīdhāma Māyāpur",
           "location": "Śrīdhāma Māyāpur, West Bengal",
-          "body": "In the second half of 1976 he joins ISKCON at Śrīdhāma Māyāpur, the birthplace of Śrī Caitanya Mahāprabhu. The search of six years ends where śaraṇāgati begins — in the association of devotees.",
-          "source": "official"
+          "body": "In July of 1976 he joins ISKCON at Śrīdhāma Māyāpur, the birthplace of Śrī Caitanya Mahāprabhu. The search of six years ends where śaraṇāgati begins — in the association of devotees.",
+          "source": ["official", "ocean"]
         }
       ]
     },

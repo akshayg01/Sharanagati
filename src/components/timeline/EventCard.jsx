@@ -64,21 +64,26 @@ export default function EventCard({ event, index }) {
               </blockquote>
             )}
 
-            {event.source && (
+            {event.sources.length > 0 && (
               <p className="mt-5 text-xs text-night-500">
-                Source:{' '}
-                {event.source.url ? (
-                  <a
-                    href={event.source.url}
-                    target="_blank"
-                    rel="noreferrer"
-                    className="underline decoration-dotted underline-offset-2 transition-colors hover:text-saffron-300"
-                  >
-                    {event.source.label}
-                  </a>
-                ) : (
-                  event.source.label
-                )}
+                {event.sources.length === 1 ? 'Source: ' : 'Sources: '}
+                {event.sources.map((source, i) => (
+                  <span key={source.url || source.label}>
+                    {i > 0 && ', '}
+                    {source.url ? (
+                      <a
+                        href={source.url}
+                        target="_blank"
+                        rel="noreferrer"
+                        className="underline decoration-dotted underline-offset-2 transition-colors hover:text-saffron-300"
+                      >
+                        {source.label}
+                      </a>
+                    ) : (
+                      source.label
+                    )}
+                  </span>
+                ))}
               </p>
             )}
           </div>

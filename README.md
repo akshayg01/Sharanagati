@@ -62,7 +62,8 @@ data: edit **`src/data/timeline.json`** and the page follows. No database, no CM
       "title": "...", "location": "...", "body": "...",
       "quote": { "text": "...", "source": "..." },   // optional
       "image": { "src": "...", "alt": "...", "caption": "..." },  // optional
-      "source": "wiki"           // key into the `sources` map above
+      "source": "wiki"           // key into the `sources` map above;
+                                 // use ["wiki", "ocean"] when a moment cites two
     }]
   }]
 }
