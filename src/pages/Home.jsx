@@ -4,6 +4,13 @@ import AudioPlayer from '../components/AudioPlayer.jsx'
 import Reveal from '../components/Reveal.jsx'
 import { sectionsWithSongs, TOTAL_SONGS } from '../data/songs.js'
 import { FEATURED } from '../data/audio.js'
+import qualitiesData from '../data/qualities.json'
+
+// Qualities are static content, so the home page shows them without touching the backend —
+// that keeps the Supabase bundle off every page but /qualities and /offering.
+const allQualities = qualitiesData.qualities
+const featuredQualities = allQualities.slice(0, 6)
+const totalIncidents = allQualities.reduce((n, q) => n + q.incidents.length, 0)
 
 export default function Home() {
   // Introductory song + the six limbs of surrender (exclude the later sections).
@@ -124,6 +131,61 @@ export default function Home() {
           </Link>
         </Reveal>
       </section>
+      {/* His qualities */}
+      <section className="mx-auto max-w-6xl px-5 py-16">
+        <div className="mb-10 text-center">
+          <p className="section-eyebrow">Guṇānuvarṇanam</p>
+          <h2 className="mt-2 font-serif text-3xl text-white sm:text-4xl">
+            The qualities of <span className="gold-text">Maharaja</span>
+          </h2>
+          <p className="mx-auto mt-3 max-w-2xl text-sm leading-relaxed text-night-400">
+            A Vaiṣṇava is glorified by describing his qualities — each one shown not by praise
+            but by what he actually did, with every incident traced to a published source.
+          </p>
+          <Divider className="mt-6" />
+        </div>
+
+        <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+          {featuredQualities.map((quality, i) => (
+            <Reveal key={quality.slug} delay={i * 60}>
+              <Link
+                to={`/qualities/${quality.slug}`}
+                className="glass glass-hover group flex h-full flex-col rounded-2xl p-5"
+              >
+                <div className="flex items-start justify-between gap-3">
+                  <span className="font-serif text-3xl text-white/15 transition-colors group-hover:text-saffron-400/40">
+                    {String(i + 1).padStart(2, '0')}
+                  </span>
+                  {quality.sanskrit && (
+                    <span className="font-deva text-lg text-saffron-300/60">{quality.sanskrit}</span>
+                  )}
+                </div>
+                <h3 className="mt-2 font-serif text-xl leading-tight text-white group-hover:text-saffron-100">
+                  {quality.name}
+                </h3>
+                <p className="mt-1.5 text-sm leading-relaxed text-night-400">{quality.tagline}</p>
+                <p className="mt-4 text-xs uppercase tracking-widest text-night-500">
+                  {quality.incidents.length}{' '}
+                  {quality.incidents.length === 1 ? 'incident' : 'incidents'}
+                </p>
+              </Link>
+            </Reveal>
+          ))}
+        </div>
+
+        <div className="mt-8 text-center">
+          <Link
+            to="/qualities"
+            className="inline-flex items-center gap-2 text-sm font-medium text-saffron-300 transition-colors hover:text-saffron-200"
+          >
+            All {allQualities.length} qualities, with {totalIncidents} remembered incidents
+            <svg className="h-4 w-4" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" d="M13 7l5 5-5 5M6 12h12" />
+            </svg>
+          </Link>
+        </div>
+      </section>
+
       {/* The six limbs / sections */}
       <section className="mx-auto max-w-6xl px-5 py-16">
         <div className="mb-10 text-center">
@@ -220,6 +282,47 @@ export default function Home() {
               {FEATURED.note && (
                 <p className="mt-3 text-center text-xs text-night-400 md:text-left">{FEATURED.note}</p>
               )}
+            </div>
+          </div>
+        </Reveal>
+      </section>
+
+      {/* Your offering */}
+      <section className="mx-auto max-w-5xl px-5 pb-8 pt-14">
+        <Reveal className="relative overflow-hidden rounded-3xl border border-saffron-400/20 bg-gradient-to-br from-saffron-500/[0.09] via-lotus-600/[0.06] to-transparent p-8 text-center sm:p-12">
+          <div className="pointer-events-none absolute -bottom-24 left-1/2 h-64 w-64 -translate-x-1/2 rounded-full bg-lotus-600/10 blur-3xl" />
+
+          <div className="relative">
+            <div className="flex justify-center animate-float">
+              <LotusMark className="h-10 w-10" />
+            </div>
+            <p className="section-eyebrow mt-5">Your turn</p>
+            <h2 className="mt-2 font-serif text-3xl text-white sm:text-4xl">
+              Did you know <span className="gold-text">Maharaja</span>?
+            </h2>
+            <p className="mx-auto mt-4 max-w-2xl text-[15px] leading-relaxed text-night-200">
+              If you met him, heard him sing, received his shelter, or remember something of
+              him that others should know — please write it down. Every offering is read, and
+              then added to his glorification for everyone who comes after.
+            </p>
+            <p className="mx-auto mt-3 max-w-2xl text-sm text-night-400">
+              No account needed. Your name is shown only if you give one; your email is never
+              shown at all.
+            </p>
+
+            <div className="mt-7 flex flex-wrap justify-center gap-3">
+              <Link to="/offering" className="btn-primary">
+                Offer your glorification
+                <svg className="h-4 w-4" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" d="M13 7l5 5-5 5M6 12h12" />
+                </svg>
+              </Link>
+              <Link
+                to="/qualities"
+                className="rounded-full border border-white/15 px-6 py-3 font-medium text-night-100 transition-colors hover:border-saffron-400/40 hover:text-saffron-200"
+              >
+                Read what devotees remember
+              </Link>
             </div>
           </div>
         </Reveal>
