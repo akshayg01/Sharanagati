@@ -7,6 +7,7 @@ const links = [
   { to: '/songbook', label: 'Songbook' },
   { to: '/timeline', label: 'His Life' },
   { to: '/about', label: 'Glorification' },
+  { to: '/support', label: 'Support' },
 ]
 
 export default function Navbar() {

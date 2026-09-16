@@ -33,9 +33,55 @@ src/
     songs/            # one JSON per song (generated) + _index.json
     songs.js          # assembles the book, groups by section, merges audio
     audio.js          # audio sources + official channels  ← EDIT TO ADD RECORDINGS
-  components/         # Navbar, Footer, AudioPlayer, decorative marks
-  pages/              # Home, Songbook, SongPage, About (Glorification), NotFound
+    timeline.json     # the life of Maharaja: chapters, moments, sources  ← EDIT TO ADD EVENTS
+    timeline.js       # resolves each event's source key, formats dates
+    roadmap.json      # what is built / planned, and the contact email
+  components/         # Navbar, Footer, AudioPlayer, Reveal, decorative marks
+    timeline/         # EraRail, EraChips, EraSection, EventCard, LegacyStats, ListenPanel
+  pages/              # Home, Songbook, SongPage, Timeline, Support, About (Glorification), NotFound
 ```
+
+## The life timeline
+
+`/timeline` tells the life of HH Bhakti Charu Swami Maharaja in six chapters. Everything is
+data: edit **`src/data/timeline.json`** and the page follows. No database, no CMS.
+
+```jsonc
+{
+  "sources": { "wiki": { "label": "Wikipedia", "url": "https://..." } },
+  "eras": [{
+    "slug": "the-search", "numeral": "II", "title": "The Search",
+    "subtitle": "...", "startYear": 1970, "endYear": 1976, "theme": "...",
+    "feature": "stats",          // optional: "stats" or "listen" panel
+    "image": { "src": "./images/...jpg", "alt": "...", "caption": "..." },
+    "events": [{
+      "id": "germany",           // also the deep link: /#/timeline/germany
+      "date": "1970",            // YYYY | YYYY-MM | YYYY-MM-DD
+      "precision": "year",       // day | month | year | circa
+      "dateLabel": "Over these years",   // optional: use instead of a date we cannot source
+      "title": "...", "location": "...", "body": "...",
+      "quote": { "text": "...", "source": "..." },   // optional
+      "image": { "src": "...", "alt": "...", "caption": "..." },  // optional
+      "source": "wiki"           // key into the `sources` map above
+    }]
+  }]
+}
+```
+
+Deep links work for chapters *and* single moments: `/#/timeline/at-prabhupadas-side`,
+`/#/timeline/sannyasa`.
+
+**Editorial rule:** every event carries a `source`, and anything the public record does not
+support does not go on the page. Where no source fixes a date, use `dateLabel` rather than
+inventing a year. The content here was fact-checked against bhakticharuswami.com, the ISKCON
+GBC page, ISKCON News, Back to Godhead, Wikipedia and ISKCON Desire Tree; corrections from
+devotees who served alongside Maharaja are welcome.
+
+## Support page
+
+`/support` lists how people can help, a write-in form (it opens the visitor's own mail app —
+there is no server and nothing is stored), and the roadmap. Edit **`src/data/roadmap.json`**
+for the stages and the contact email.
 
 ## Adding Maharaja's recordings
 

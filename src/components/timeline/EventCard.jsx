@@ -4,7 +4,10 @@ import { formatEventDate } from '../../data/timeline.js'
 
 /** One moment in the life: a dot on the rail, a date column, and a glass card. */
 export default function EventCard({ event, index }) {
-  const dateLabel = formatEventDate(event.date, event.precision)
+  // Some moments span years and no source fixes them to one; those carry their own
+  // label ("Through two decades") instead of asserting a date the record lacks.
+  const dated = !event.dateLabel
+  const dateLabel = event.dateLabel || formatEventDate(event.date, event.precision)
 
   return (
     <Reveal
@@ -21,12 +24,18 @@ export default function EventCard({ event, index }) {
 
       {/* Date column */}
       <div className="md:pr-8 md:text-right">
-        <time
-          dateTime={event.date}
-          className="block font-serif text-[0.95rem] font-semibold tracking-wide text-saffron-300"
-        >
-          {dateLabel}
-        </time>
+        {dated ? (
+          <time
+            dateTime={event.date}
+            className="block font-serif text-[0.95rem] font-semibold tracking-wide text-saffron-300"
+          >
+            {dateLabel}
+          </time>
+        ) : (
+          <span className="block font-serif text-[0.95rem] font-semibold tracking-wide text-saffron-300/90">
+            {dateLabel}
+          </span>
+        )}
         {event.location && (
           <span className="mt-1 block text-xs leading-snug text-night-400">{event.location}</span>
         )}

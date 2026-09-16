@@ -6,6 +6,7 @@ import Home from './pages/Home.jsx'
 import Songbook from './pages/Songbook.jsx'
 import SongPage from './pages/SongPage.jsx'
 import Timeline from './pages/Timeline.jsx'
+import Support from './pages/Support.jsx'
 import About from './pages/About.jsx'
 import NotFound from './pages/NotFound.jsx'
 
@@ -31,6 +32,7 @@ export default function App() {
           <Route path="/song/:slug" element={<SongPage />} />
           <Route path="/timeline" element={<Timeline />} />
           <Route path="/timeline/:anchor" element={<Timeline />} />
+          <Route path="/support" element={<Support />} />
           <Route path="/about" element={<About />} />
           <Route path="*" element={<NotFound />} />
         </Routes>

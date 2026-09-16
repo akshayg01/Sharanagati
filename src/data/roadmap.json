@@ -1,0 +1,60 @@
+{
+  "contact": {
+    "email": "akshayharidasSB@gmail.com",
+    "name": "Akshay"
+  },
+  "phases": [
+    {
+      "number": 1,
+      "slug": "songbook",
+      "title": "The Songbook",
+      "status": "done",
+      "summary": "All fifty songs of Śaraṇāgati, readable and searchable, in the script you prefer.",
+      "items": [
+        { "title": "All 50 songs", "status": "done", "description": "Every song of the book, grouped under the six limbs of surrender." },
+        { "title": "Three scripts", "status": "done", "description": "Romanized (IAST), Devanāgarī and Bengali, remembered between visits." },
+        { "title": "English translations", "status": "done", "description": "Verse-by-verse translation, courtesy of the Bhaktivinoda Institute." },
+        { "title": "Song-by-song navigation", "status": "done", "description": "Move through the book without going back to the index." }
+      ]
+    },
+    {
+      "number": 2,
+      "slug": "recordings",
+      "title": "Maharaja’s recordings",
+      "status": "in_progress",
+      "summary": "His voice, beside the words he is singing — the reason this site exists.",
+      "items": [
+        { "title": "Player for local, YouTube and SoundCloud sources", "status": "done", "description": "One player that handles whichever source a recording lives on." },
+        { "title": "Nine songs with audio", "status": "done", "description": "Recordings gathered from the ISKCON Desire Tree archive and YouTube." },
+        { "title": "The remaining forty-one songs", "status": "in_progress", "description": "Tracking down a clean recording of every song Maharaja sang." },
+        { "title": "Follow-along highlighting", "status": "planned", "description": "The verse being sung lit up as the recording plays." }
+      ]
+    },
+    {
+      "number": 3,
+      "slug": "glorification",
+      "title": "Glorification",
+      "status": "done",
+      "summary": "Who he was, and the life behind the voice.",
+      "items": [
+        { "title": "Glorification page", "status": "done", "description": "His service, his translations, and a note on why this seva was offered." },
+        { "title": "Life timeline", "status": "done", "description": "Six chapters, thirty moments, each carrying its source." },
+        { "title": "More photographs", "status": "planned", "description": "Properly credited images for the chapters that have none." },
+        { "title": "Remembrances from devotees", "status": "idea", "description": "Short offerings from those who served alongside him." }
+      ]
+    },
+    {
+      "number": 4,
+      "slug": "study",
+      "title": "Study and sādhana",
+      "status": "planned",
+      "summary": "Going deeper into the songs, not just reading them.",
+      "items": [
+        { "title": "Purports and commentary", "status": "planned", "description": "Notes on each song drawn from Maharaja’s own Śaraṇāgati seminar." },
+        { "title": "A song a day", "status": "idea", "description": "One song on the home page, rotating daily." },
+        { "title": "Bookmarks and favourites", "status": "idea", "description": "Keep the songs you return to, on your own device." },
+        { "title": "Offline use", "status": "idea", "description": "The whole songbook available without a connection." }
+      ]
+    }
+  ]
+}
