@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from 'react'
-import { useParams } from 'react-router-dom'
+import { Link, useParams } from 'react-router-dom'
 import EraChips from '../components/timeline/EraChips.jsx'
 import EraRail from '../components/timeline/EraRail.jsx'
 import EraSection from '../components/timeline/EraSection.jsx'
@@ -7,6 +7,7 @@ import LegacyStats from '../components/timeline/LegacyStats.jsx'
 import ListenPanel from '../components/timeline/ListenPanel.jsx'
 import { Divider, LotusMark } from '../components/Om.jsx'
 import Reveal from '../components/Reveal.jsx'
+import { OFFICIAL_CHANNELS } from '../data/audio.js'
 import {
   eraOf,
   eras,
@@ -136,6 +137,57 @@ export default function Timeline() {
 
         <Divider className="pb-2" />
       </header>
+
+      {/* Glorification — who he was, before the chapters of what he did */}
+      <section className="mx-auto max-w-3xl px-5 pb-12 pt-4">
+        <Reveal className="space-y-5 text-[15px] leading-relaxed text-night-200">
+          <p>
+            His Holiness Bhakti Charu Swami Maharaja was a beloved spiritual master and a
+            senior disciple of Śrīla Prabhupāda, the Founder-Ācārya of the International
+            Society for Krishna Consciousness. Surrendering his life to the mission of his
+            guru, he became renowned worldwide for his deep humility, his sweet devotion, and
+            the extraordinary beauty of his kīrtana and bhajana.
+          </p>
+          <p>
+            He established and nurtured temples and communities across the world, fed
+            schoolchildren by the tens of thousands, and remained a shelter and an inspiration
+            to countless devotees. Through all of it he held one thing at the centre: that
+            whatever he had, he had received from Śrīla Prabhupāda.
+          </p>
+          <p>
+            His renditions of the songs of the great Vaiṣṇava ācāryas — and especially the{' '}
+            <em>Śaraṇāgati</em> of Śrīla Bhaktivinoda Ṭhākura — carry a rare sweetness that
+            melts the heart and draws the soul toward surrender. This website is a humble
+            offering of service at his lotus feet, gathering those songs so that his
+            glorification may continue.
+          </p>
+          <p className="pt-2 text-center font-serif text-lg italic text-saffron-100">
+            nama oṁ viṣṇu-pādāya … We offer our humble obeisances unto His Holiness Bhakti
+            Charu Swami Maharaja.
+          </p>
+        </Reveal>
+
+        <div className="mt-8 flex flex-wrap justify-center gap-3">
+          <Link to="/qualities" className="btn-primary">
+            His qualities — and add yours
+            <svg className="h-4 w-4" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" d="M13 7l5 5-5 5M6 12h12" />
+            </svg>
+          </Link>
+          <a
+            href={OFFICIAL_CHANNELS.soundcloud}
+            target="_blank"
+            rel="noreferrer"
+            className="rounded-full border border-white/15 px-6 py-3 font-medium text-night-100 transition-colors hover:border-saffron-400/40 hover:text-saffron-200"
+          >
+            Listen on SoundCloud
+          </a>
+        </div>
+
+        <p className="mt-10 text-center text-xs font-semibold uppercase tracking-[0.25em] text-saffron-300/70">
+          His life, in six chapters
+        </p>
+      </section>
 
       <EraChips eras={eras} activeSlug={activeSlug} />
 

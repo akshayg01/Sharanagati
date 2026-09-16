@@ -38,12 +38,14 @@ src/
     roadmap.json      # what is built / planned, and the contact email
   components/         # Navbar, Footer, AudioPlayer, Reveal, decorative marks
     timeline/         # EraRail, EraChips, EraSection, EventCard, LegacyStats, ListenPanel
-  pages/              # Home, Songbook, SongPage, Timeline, Support, About (Glorification), NotFound
+  pages/              # Home, Songbook, SongPage, Timeline, Qualities, Offering, Support, NotFound
 ```
 
 ## The life timeline
 
-`/timeline` tells the life of HH Bhakti Charu Swami Maharaja in six chapters. Everything is
+`/timeline` opens with his glorification — who he was — and then tells his life in six
+chapters. (There is no separate Glorification page; `/about` redirects here, so older links
+still work.) Everything is
 data: edit **`src/data/timeline.json`** and the page follows. No database, no CMS.
 
 ```jsonc
@@ -87,6 +89,12 @@ editorial content in **`src/data/qualities.json`**; devotees' own offerings are 
 **Editorial rule:** an incident goes on the page only if a published source records it.
 Nothing is composed to illustrate a point. Where a source could not be confirmed, the
 incident was dropped rather than softened.
+
+`/offering` — **Your Offering** — is the dedicated page for writing one: it explains what
+happens to an offering, lets the devotee pick which quality it glorifies, and (when signed
+in) lists their own offerings with their review status. `/offering/:slug` arrives from a
+quality with that one preselected. The same form also appears inline under each quality on
+`/qualities`; both use `src/components/qualities/GlorificationForm.jsx`.
 
 ### It shares the acharya database
 

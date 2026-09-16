@@ -59,6 +59,27 @@ export default function Support() {
         <Divider className="mt-6" />
       </header>
 
+      {/* Why this seva */}
+      <section className="mt-10">
+        <Reveal className="glass relative overflow-hidden rounded-3xl p-8 text-center sm:p-10">
+          <span className="pointer-events-none absolute -left-2 -top-6 select-none font-serif text-[7rem] leading-none text-saffron-400/15">
+            “
+          </span>
+          <p className="section-eyebrow">Why this seva</p>
+          <p className="relative mx-auto mt-4 max-w-2xl font-serif text-xl italic leading-relaxed text-saffron-50 sm:text-2xl">
+            Even now, while building this humble website, simply hearing Maharaja’s voice in
+            these recordings gives me goosebumps. If his songs stir your heart the way they
+            stir mine — then this offering is for you.
+          </p>
+          <div className="mt-5 flex justify-center">
+            <LotusMark className="h-7 w-7 opacity-80" />
+          </div>
+          <p className="mt-3 text-sm text-night-400">
+            Offered in loving service at the lotus feet of Śrī Guru and the Vaiṣṇavas.
+          </p>
+        </Reveal>
+      </section>
+
       {/* Ways to help */}
       <section className="mt-12">
         <div className="text-center">

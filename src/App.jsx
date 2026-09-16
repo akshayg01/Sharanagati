@@ -1,5 +1,5 @@
 import { useEffect } from 'react'
-import { Routes, Route, useLocation } from 'react-router-dom'
+import { Routes, Route, Navigate, useLocation } from 'react-router-dom'
 import Navbar from './components/Navbar.jsx'
 import Footer from './components/Footer.jsx'
 import Home from './pages/Home.jsx'
@@ -7,15 +7,15 @@ import Songbook from './pages/Songbook.jsx'
 import SongPage from './pages/SongPage.jsx'
 import Timeline from './pages/Timeline.jsx'
 import Qualities from './pages/Qualities.jsx'
+import Offering from './pages/Offering.jsx'
 import Support from './pages/Support.jsx'
-import About from './pages/About.jsx'
 import NotFound from './pages/NotFound.jsx'
 
 function ScrollToTop() {
   const { pathname } = useLocation()
   useEffect(() => {
-    // /timeline/:anchor scrolls itself to the chapter or moment it names.
-    if (/^\/timeline\/.+/.test(pathname)) return
+    // These scroll themselves to the chapter / quality they name.
+    if (/^\/(timeline|qualities)\/.+/.test(pathname)) return
     window.scrollTo({ top: 0, behavior: 'instant' in window ? 'instant' : 'auto' })
   }, [pathname])
   return null
@@ -35,8 +35,11 @@ export default function App() {
           <Route path="/timeline/:anchor" element={<Timeline />} />
           <Route path="/qualities" element={<Qualities />} />
           <Route path="/qualities/:slug" element={<Qualities />} />
+          <Route path="/offering" element={<Offering />} />
+          <Route path="/offering/:slug" element={<Offering />} />
           <Route path="/support" element={<Support />} />
-          <Route path="/about" element={<About />} />
+          {/* The old Glorification page now opens His Life, where its content lives. */}
+          <Route path="/about" element={<Navigate to="/timeline" replace />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
       </main>

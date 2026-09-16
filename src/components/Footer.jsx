@@ -20,7 +20,7 @@ export default function Footer() {
             <Link to="/songbook" className="hover:text-saffron-300">Songbook</Link>
             <Link to="/timeline" className="hover:text-saffron-300">His Life</Link>
             <Link to="/qualities" className="hover:text-saffron-300">Qualities</Link>
-            <Link to="/about" className="hover:text-saffron-300">Glorification</Link>
+            <Link to="/offering" className="hover:text-saffron-300">Your Offering</Link>
             <Link to="/support" className="hover:text-saffron-300">Support</Link>
             <a href={OFFICIAL_CHANNELS.soundcloud} target="_blank" rel="noreferrer" className="hover:text-saffron-300">SoundCloud</a>
             <a href={OFFICIAL_CHANNELS.appleMusic} target="_blank" rel="noreferrer" className="hover:text-saffron-300">Apple Music</a>

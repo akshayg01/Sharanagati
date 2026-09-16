@@ -25,7 +25,12 @@ export default function Songbook() {
         <h1 className="mt-2 font-serif text-4xl text-white sm:text-5xl">Śaraṇāgati</h1>
         <p className="mx-auto mt-4 max-w-2xl text-night-300">
           All {TOTAL_SONGS} songs of surrender, arranged in the six limbs of śaraṇāgati as
-          composed by Śrīla Bhaktivinoda Ṭhākura.
+          composed by Śrīla Bhaktivinoda Ṭhākura in 1893.
+        </p>
+        <p className="mx-auto mt-3 max-w-2xl text-sm leading-relaxed text-night-400">
+          Beyond the six limbs, the book rises into the soul’s deep hankering for divine
+          service (<em>Bhajana-Lālasā</em>), the longing for spiritual perfection (
+          <em>Siddhi-Lālasā</em>), and the glories of the holy name (<em>Śrī Nāma-Māhātmya</em>).
         </p>
         <Divider className="mt-6" />
       </header>

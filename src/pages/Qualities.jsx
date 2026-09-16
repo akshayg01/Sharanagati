@@ -1,4 +1,4 @@
-import { useCallback, useEffect, useState } from 'react'
+import { useCallback, useEffect, useRef, useState } from 'react'
 import { Link, useParams } from 'react-router-dom'
 import { Divider, LotusMark } from '../components/Om.jsx'
 import QualityCard from '../components/qualities/QualityCard.jsx'
@@ -26,6 +26,7 @@ export default function Qualities() {
   const [offerings, setOfferings] = useState([])
   const [likeCounts, setLikeCounts] = useState({})
   const [myLikes, setMyLikes] = useState([])
+  const landed = useRef(false)
 
   const refreshOfferings = useCallback(() => {
     loadGlorifications().then(setOfferings)
@@ -44,11 +45,16 @@ export default function Qualities() {
     loadMyLikes(user.id).then(setMyLikes)
   }, [user?.id])
 
-  // Deep link: /qualities/:slug
+  // Deep link: /qualities/:slug. Arriving on the page jumps straight there;
+  // moving between qualities afterwards glides.
   useEffect(() => {
+    const first = !landed.current
+    landed.current = true
     if (!slug || !qualities.some((q) => q.slug === slug)) return
     const frame = requestAnimationFrame(() => {
-      document.getElementById(slug)?.scrollIntoView({ block: 'start' })
+      document
+        .getElementById(slug)
+        ?.scrollIntoView({ block: 'start', behavior: first ? 'instant' : 'smooth' })
     })
     return () => cancelAnimationFrame(frame)
   }, [slug])
@@ -128,16 +134,31 @@ export default function Qualities() {
 
       {/* Jump to a quality */}
       <nav className="mt-8 flex flex-wrap justify-center gap-2" aria-label="Jump to a quality">
+        {/* HashRouter owns the fragment, so these are routes, not in-page anchors. */}
         {qualities.map((quality) => (
-          <a
+          <Link
             key={quality.slug}
-            href={`#${quality.slug}`}
-            className="rounded-full border border-white/10 px-3 py-1.5 text-xs text-night-200 transition-colors hover:border-saffron-400/40 hover:text-saffron-300"
+            to={`/qualities/${quality.slug}`}
+            className={`rounded-full border px-3 py-1.5 text-xs transition-colors ${
+              quality.slug === slug
+                ? 'border-saffron-400/50 bg-saffron-500/15 text-saffron-200'
+                : 'border-white/10 text-night-200 hover:border-saffron-400/40 hover:text-saffron-300'
+            }`}
           >
             {quality.name}
-          </a>
+          </Link>
         ))}
       </nav>
+
+      <p className="mt-6 text-center text-sm text-night-400">
+        Remember something of Maharaja?{' '}
+        <Link
+          to="/offering"
+          className="font-medium text-saffron-300 underline decoration-dotted underline-offset-4 transition-colors hover:text-saffron-200"
+        >
+          Add your offering
+        </Link>
+      </p>
 
       <div className="space-y-4">
         {qualities.map((quality, i) => (
@@ -166,14 +187,17 @@ export default function Qualities() {
           .
         </p>
         <div className="mt-6 flex flex-wrap justify-center gap-3">
-          <Link to="/timeline" className="btn-primary">
-            His life, chapter by chapter
+          <Link to="/offering" className="btn-primary">
+            Offer your glorification
+            <svg className="h-4 w-4" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" d="M13 7l5 5-5 5M6 12h12" />
+            </svg>
           </Link>
           <Link
-            to="/about"
+            to="/timeline"
             className="rounded-full border border-white/15 px-6 py-3 font-medium text-night-100 transition-colors hover:border-saffron-400/40 hover:text-saffron-200"
           >
-            Glorification
+            His life, chapter by chapter
           </Link>
         </div>
       </section>

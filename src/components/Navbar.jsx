@@ -7,7 +7,7 @@ const links = [
   { to: '/songbook', label: 'Songbook' },
   { to: '/timeline', label: 'His Life' },
   { to: '/qualities', label: 'Qualities' },
-  { to: '/about', label: 'Glorification' },
+  { to: '/offering', label: 'Your Offering' },
   { to: '/support', label: 'Support' },
 ]
 
