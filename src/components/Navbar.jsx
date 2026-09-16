@@ -6,6 +6,7 @@ const links = [
   { to: '/', label: 'Home', end: true },
   { to: '/songbook', label: 'Songbook' },
   { to: '/timeline', label: 'His Life' },
+  { to: '/qualities', label: 'Qualities' },
   { to: '/about', label: 'Glorification' },
   { to: '/support', label: 'Support' },
 ]
@@ -29,7 +30,7 @@ export default function Navbar() {
           </span>
         </Link>
 
-        <div className="hidden items-center gap-1 md:flex">
+        <div className="hidden items-center gap-1 lg:flex">
           {links.map((l) => (
             <NavLink key={l.to} to={l.to} end={l.end} className={linkClass}>
               {l.label}
@@ -38,7 +39,7 @@ export default function Navbar() {
         </div>
 
         <button
-          className="rounded-lg p-2 text-night-100 md:hidden"
+          className="rounded-lg p-2 text-night-100 lg:hidden"
           onClick={() => setOpen((v) => !v)}
           aria-label="Toggle menu"
         >
@@ -53,7 +54,7 @@ export default function Navbar() {
       </nav>
 
       {open && (
-        <div className="border-t border-white/5 px-5 pb-4 md:hidden">
+        <div className="border-t border-white/5 px-5 pb-4 lg:hidden">
           {links.map((l) => (
             <NavLink
               key={l.to}

@@ -19,6 +19,7 @@ export default function Footer() {
           <div className="flex flex-wrap items-center justify-center gap-x-5 gap-y-2">
             <Link to="/songbook" className="hover:text-saffron-300">Songbook</Link>
             <Link to="/timeline" className="hover:text-saffron-300">His Life</Link>
+            <Link to="/qualities" className="hover:text-saffron-300">Qualities</Link>
             <Link to="/about" className="hover:text-saffron-300">Glorification</Link>
             <Link to="/support" className="hover:text-saffron-300">Support</Link>
             <a href={OFFICIAL_CHANNELS.soundcloud} target="_blank" rel="noreferrer" className="hover:text-saffron-300">SoundCloud</a>

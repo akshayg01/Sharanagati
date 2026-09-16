@@ -118,6 +118,12 @@ export default function About() {
             <path strokeLinecap="round" strokeLinejoin="round" d="M13 7l5 5-5 5M6 12h12" />
           </svg>
         </Link>
+        <Link
+          to="/qualities"
+          className="rounded-full border border-white/15 px-6 py-3 font-medium text-night-100 transition-colors hover:border-saffron-400/40 hover:text-saffron-200"
+        >
+          His qualities — and add yours
+        </Link>
         <a href={OFFICIAL_CHANNELS.soundcloud} target="_blank" rel="noreferrer" className="rounded-full border border-white/15 px-6 py-3 font-medium text-night-100 transition-colors hover:border-saffron-400/40 hover:text-saffron-200">
           Listen on SoundCloud
         </a>

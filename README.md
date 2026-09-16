@@ -78,6 +78,49 @@ inventing a year. The content here was fact-checked against bhakticharuswami.com
 GBC page, ISKCON News, Back to Godhead, Wikipedia and ISKCON Desire Tree; corrections from
 devotees who served alongside Maharaja are welcome.
 
+## Qualities & devotee offerings
+
+`/qualities` is `Guṇānuvarṇanam` — ten qualities of Maharāja, each shown by incidents that
+actually happened, every one linked to a published source. The qualities themselves are
+editorial content in **`src/data/qualities.json`**; devotees' own offerings are not.
+
+**Editorial rule:** an incident goes on the page only if a published source records it.
+Nothing is composed to illustrate a point. Where a source could not be confirmed, the
+incident was dropped rather than softened.
+
+### It shares the acharya database
+
+Offerings, and the likes on each quality, live in the **same Supabase project the acharya
+site uses** — there is no schema of our own, because that project's tables are already keyed
+by `master_slug`. Sharanagati writes under `master_slug = 'bhakti-charu-swami'`
+(`src/lib/supabase.js`).
+
+| What | Where |
+| --- | --- |
+| Submissions | `public.quality_reflections` (status `new`, private, until published) |
+| Published ones | `public.quality_reflections_public` (a view; emails never exposed) |
+| Likes | `public.quality_likes` + `quality_like_counts()` rpc |
+| Moderation | the **acharya admin panel** → "Quality reflections" |
+
+Signing in is optional: anyone may offer a glorification without an account. Google sign-in
+only adds liking a quality. The Supabase SDK (~60 KB gzipped) is code-split and loaded only
+when the Qualities page is opened or a session already exists — other pages never fetch it.
+
+### Setup
+
+```bash
+cp .env.example .env.local   # then paste the acharya project's URL + anon key
+```
+
+The anon key is public by design (it ships in the browser bundle); Row Level Security is what
+protects the data. Without these vars the site still builds and runs — the Qualities page
+simply shows the incidents with no offerings and no sign-in.
+
+**One manual step for Google sign-in:** in the Supabase dashboard → *Authentication* →
+*URL Configuration* → *Redirect URLs*, add this site's URL (e.g. `http://localhost:5173/`
+and your production URL). The app uses `HashRouter`, so it hands Supabase the plain page URL
+and restores the route itself after the redirect — there is no `/auth/callback` route.
+
 ## Support page
 
 `/support` lists how people can help, a write-in form (it opens the visitor's own mail app —
